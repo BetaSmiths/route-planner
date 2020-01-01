@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "@react-google-maps/api": "^1.8.1",
     "gatsby": "^2.18.12",
     "gatsby-image": "^2.2.34",
     "gatsby-plugin-manifest": "^2.2.31",
@@ -14,11 +15,14 @@
     "gatsby-source-filesystem": "^2.1.40",
     "gatsby-transformer-sharp": "^2.3.7",
     "google-maps-react": "^2.0.2",
+    "lodash": "^4.17.15",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
+    "react-csv-reader": "^2.0.2",
     "react-dom": "^16.12.0",
     "react-google-maps": "^9.4.5",
-    "react-helmet": "^5.2.1"
+    "react-helmet": "^5.2.1",
+    "spectre.css": "^0.5.8"
   },
   "devDependencies": {
     "prettier": "^1.19.1"

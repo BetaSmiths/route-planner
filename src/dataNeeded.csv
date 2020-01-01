@@ -1,0 +1,1061 @@
+Id|RouteId|Route|AccountId|Account|Address|City|State|Location|Last24HoursSales|Last7DaysSales|Fill %|Sales|SoldoutItems|EmptyLanes|ItemsToPick|DaysSinceLastVisit|IsAccountOpen
+1215|31|Air Canada|368|George Brown College - Waterfront Campus|51 Dockside Dr|Toronto|ON|4th Floor Elevators|||57.467532467532467|48.0000|1|1|123|10|True
+1059|39|Chris Thompson|322|Oshawa - Tribute Communities Center|99 Athol St E|Oshawa|ON|Basement Level - Kitchenette|13.0000|15.0000|45.895522388059701|15.0000|4|4|435|7|True
+1105|35|DO NOT SERVICE|331|Cineplex - Playdium - Square One|99 Rathburn Road West|Mississauga|ON|Batting Cage - Powerade|||0.000000000000000|0.0000|4|4|288|7|True
+1104|35|DO NOT SERVICE|331|Cineplex - Playdium - Square One|99 Rathburn Road West|Mississauga|ON|Food Court - Megabytes|||0.000000000000000|110.5000|9|9|304|7|True
+1103|35|DO NOT SERVICE|331|Cineplex - Playdium - Square One|99 Rathburn Road West|Mississauga|ON|Lobby - Entrance|||0.000000000000000|0.0000|8|8|312|7|True
+1102|35|DO NOT SERVICE|331|Cineplex - Playdium - Square One|99 Rathburn Road West|Mississauga|ON|Lobby - Entrance|||0.000000000000000|0.0000|8|8|280|7|True
+48|35|DO NOT SERVICE|31|Dynaplas|380 Passmore Avenue|Toronto|ON|Lunchroom||||0.0000|0|0|0|675|True
+1237|35|DO NOT SERVICE|370|George Brown College - Cooperage|80 Cooperage St|Old Toronto|ON|Main Floor|13.0000|60.7500|35.057471264367816|322.2500|1|1|223|19|True
+1234|35|DO NOT SERVICE|367|George Brown College - School of ESL|341 King St. E|Toronto|ON|3rd Floor Lounge|||19.592875318066157|466.2500|3|3|316|48|True
+1229|35|DO NOT SERVICE|366|George Brown College - St. James Campus|200 King St. E|Toronto|ON|6th Floor|||56.333333333333333|223.7500|0|0|131|28|True
+1213|35|DO NOT SERVICE|366|George Brown College - St. James Campus|200 King St. E|Toronto|ON|6th Floor|||0.000000000000000|360.7500|8|8|308|28|True
+15|35|DO NOT SERVICE|57|McMaster University|1280 Main Street West|Hamilton|ON|Brandon Hall-Common Room|||12.307692307692307|4401.5000|28|28|16|244|True
+1089|35|DO NOT SERVICE|57|McMaster University|1280 Main Street West|Hamilton|ON|Campus Store - Basement Washroom|||47.187500000000000|58.0000|4|4|72|35|True
+1093|35|DO NOT SERVICE|57|McMaster University|1280 Main Street West|Hamilton|ON|Health Science Library - Main Lobby|||23.955431754874651|306.5000|27|27|286|35|True
+664|35|DO NOT SERVICE|57|McMaster University|1280 Main Street West|Hamilton|ON|Kenneth Taylar Hall-Stairwell Innis Lib.|||39.365079365079365|181.5000|10|10|201|35|True
+119|35|DO NOT SERVICE|65|Paramount Pallet|1330 Martin Grove Rd|Toronto|ON|In lunchroom||||0.0000|||0|171|True
+206|35|DO NOT SERVICE|81|St. Andrew's College|15800 Yonge Street|Aurora|ON|Gymnasium|||32.666666666666666|33.2500|4|4|47|167|True
+227|35|DO NOT SERVICE|87|TELUS House - 25 York|25 York Street|Toronto|ON|27/F|||0.000000000000000|234.0000|9|9|223|104|True
+228|35|DO NOT SERVICE|87|TELUS House - 25 York|25 York Street|Toronto|ON|29/F|||0.000000000000000|68.0000|9|9|223|104|True
+225|35|DO NOT SERVICE|87|TELUS House - 25 York|25 York Street|Toronto|ON|5/F|||0.000000000000000|346.5000|9|9|260|104|True
+243|35|DO NOT SERVICE|95|VIA Rail Canada|50 Drummond Street, Unit C|Toronto|ON|2/F Cafeteria|||46.858638743455497|223.2500|0|0|59|136|True
+34|35|DO NOT SERVICE|275|Wipro Technologies|2710 Britannia Rd E|Mississauga|ON|2nd Floor Room 263|||0.000000000000000|66.0000|28|30|290|25|True
+665|5|Jason Yeung|118|Adaria Vending Services|200 Steelcase Rd E #5|Markham|ON|Reception|||0.000000000000000|0.0000|8|8|312|208|True
+703|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Arcadium #1|||0.000000000000000|2244.2500|8|8|268|66|True
+704|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Arcadium #2|||0.000000000000000|1859.5000|8|8|262|66|True
+705|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Arcadium #3|||0.000000000000000|1055.5000|8|8|262|66|True
+709|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Behemoth - Coke Hammer Side||||0.0000|0|0|0|47|True
+706|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Behemoth - Coke Shop Side||||0.0000|0|0|0|47|True
+710|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Behemoth - Dasani Hammer Side||||0.0000|0|0|0|47|True
+707|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Behemoth - Dasani Shop Side||||0.0000|0|0|0|47|True
+708|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Behemoth - Glaceau Hammer Side||||0.0000|0|0|0|46|True
+711|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Behemoth - Glaceau Shop Side||||0.0000|0|0|0|47|True
+720|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Coke Oasis - #1 Coke||||0.0000|0|0|0|47|True
+721|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Coke Oasis - #2 Vanilla||||0.0000|0|0|0|47|True
+722|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Coke Oasis - #3 Sprite||||0.0000|0|0|0|47|True
+723|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Coke Oasis - #4 Powerade||||0.0000|0|0|0|47|True
+724|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Coke Oasis - #5 Dasani||||0.0000|0|0|0|47|True
+725|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Coke Oasis - #6 Nestea||||0.0000|0|0|0|47|True
+801|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Crystal Arcade Basketball - Coke||||0.0000|0|0|0|45|True
+804|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Crystal Arcade Basketball - Dasani||||0.0000|0|0|0|45|True
+803|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Crystal Arcade Basketball - Glaceau||||0.0000|0|0|0|45|True
+802|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Crystal Arcade Basketball - Zero||||0.0000|0|0|0|45|True
+778|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Dino Walk Front Gate - Powerade|||33.333333333333333|1966.5000|2|2|3|165|True
+737|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Flight Deck - Coke||||0.0000|0|0|0|45|True
+740|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Flight Deck - Dasani||||0.0000|0|0|0|45|True
+739|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Flight Deck - Glaceau||||0.0000|0|0|0|45|True
+738|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Flight Deck - Zero||||0.0000|0|0|0|45|True
+751|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Leviathan - Coke||||0.0000|0|0|0|44|True
+754|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Leviathan - Powerade||||0.0000|0|0|0|44|True
+752|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Leviathan - Zero||||0.0000|0|0|0|44|True
+726|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Mountainside - Coke|||0.000000000000000|1520.0000|1|1|64|41|True
+728|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Mountainside - Dasani|||0.000000000000000|5234.0000|3|3|96|41|True
+729|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Mountainside - Powerade|||0.000000000000000|1058.0000|4|4|128|41|True
+727|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Mountainside - Zero|||0.000000000000000|1279.7500|6|6|256|41|True
+759|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Picnic - Coke||||0.0000|0|0|0|46|True
+760|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Picnic - Dasani||||0.0000|0|0|0|46|True
+761|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Picnic - Powerade||||0.0000|0|0|0|46|True
+765|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Psyclone - Dasani||||0.0000|0|0|0|46|True
+764|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Psyclone - Glaceau||||0.0000|0|0|0|46|True
+766|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Psyclone - Powerade||||0.0000|0|0|0|46|True
+763|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Psyclone - Zero||||0.0000|0|0|0|46|True
+780|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Splash Works Pool - Coke|||0.000000000000000|4648.2500|6|6|240|115|True
+781|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Splash Works Pool - Dasani|||0.000000000000000|0.0000|3|3|176|115|True
+782|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Splash Works Pool - Powerade|||0.000000000000000|0.0000|4|4|168|115|True
+783|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Splash Works Washroom - Coke|||0.000000000000000|0.0000|6|6|384|115|True
+784|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Splash Works Washroom - Dasani|||0.000000000000000|4460.5000|3|3|176|115|True
+785|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Splash Works Washroom - Powerade|||0.000000000000000|0.0000|4|4|336|115|True
+719|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Staff - Cash Control||||0.0000|0|0|0|46|True
+770|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Staff - Security Gate #1|||0.000000000000000|31.0000|6|6|240|137|True
+771|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Staff - Security Gate #2|||0.000000000000000|67.2500|7|7|228|137|True
+792|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Vortex - Coke||||0.0000|0|0|0|45|True
+794|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Vortex - Dasani||||0.0000|0|0|0|45|True
+1274|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Yukon Striker #1||||0.0000|0|0|0|45|True
+1275|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|"Yukon Striker #2 Dasani "||||0.0000|0|0|0|45|True
+1276|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Yukon Striker #3 Glaceau Fascia||||0.0000|0|0|0|45|True
+1277|40|Off Season Idle|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Yukon Striker #4 Poweraid Facia||||0.0000|0|0|0|45|True
+1107|40|Off Season Idle|331|Cineplex - Playdium - Square One|99 Rathburn Road West|Mississauga|ON|Outside - Go Kart|||0.000000000000000|0.0000|8|8|300|48|True
+1106|40|Off Season Idle|331|Cineplex - Playdium - Square One|99 Rathburn Road West|Mississauga|ON|Outside - Patio|||0.000000000000000|0.0000|8|8|300|48|True
+1282|40|Off Season Idle|364|CN Tower|301 Front St W|Toronto|ON|CN Tower Patio Coke (seasonal)||||0.0000|0|0|0|54|True
+1283|40|Off Season Idle|364|CN Tower|301 Front St W|Toronto|ON|CN Tower Patio Dasani (seasonal)||||0.0000|0|0|0|54|True
+1284|40|Off Season Idle|364|CN Tower|301 Front St W|Toronto|ON|CN Tower Patio Powerade (seasonal)||||0.0000|0|0|0|54|True
+1266|40|Off Season Idle|364|CN Tower|301 Front St W|Toronto|ON|CN Tower South Side Exit||||0.0000|0|0|0|54|True
+1265|40|Off Season Idle|364|CN Tower|301 Front St W|Toronto|ON|CN Tower South Side Exit||||0.0000|0|0|0|54|True
+1281|40|Off Season Idle|323|Oshawa - Civic Recreation Complex|99 Thornton Rd S|Oshawa|ON|Center Stadium Track/Field House #5||||0.0000|0|0|0|46|True
+1280|40|Off Season Idle|323|Oshawa - Civic Recreation Complex|99 Thornton Rd S|Oshawa|ON|Center Stadium Track/Field House #5||||30.5000|0|0|0|46|True
+33|13|Route 1|279|Angie's Catering - Mondelez's Cafeteria|5 Bermondsey Rd|East York|ON|Mondelez Kitchen||||79.5000|0|0|0|724|True
+104|13|Route 1|235|Autodesk Canada Ltd|661 University Ave|Toronto|ON|3/F Kitchen||9.2500|72.108843537414965|88.0000|1|1|83|32|True
+437|13|Route 1|235|Autodesk Canada Ltd|661 University Ave|Toronto|ON|3/F Kitchen||2.0000|59.595959595959595|41.0000|0|0|80|32|True
+293|13|Route 1|378|BGIS - CBC Broadcast Center|250 Front Street West|"Toronto "|ON|4th Floor|22.0000|83.0000|85.514018691588785|97.5000|1|1|62|10|True
+1269|13|Route 1|378|BGIS - CBC Broadcast Center|250 Front Street West|"Toronto "|ON|4th Floor|27.0000|192.2500|72.586206896551724|283.2500|3|3|159|10|True
+94|13|Route 1|378|BGIS - CBC Broadcast Center|250 Front Street West|"Toronto "|ON|6th Floor|||66.502463054187192|105.5000|1|1|97|10|True
+88|13|Route 1|252|BMO Bank of Montreal (Downtown)|55 Bloor Street West|Toronto|ON|19/F|6.2500|12.5000|85.915492957746478|14.7500|0|0|60|6|True
+849|13|Route 1|286|Centennial College - Story Arts Centre|951 Carlaw Ave|Toronto|ON|Inside Cafe Coke||8.2500|81.250000000000000|92.5000|0|0|60|14|True
+850|13|Route 1|286|Centennial College - Story Arts Centre|951 Carlaw Ave|Toronto|ON|Inside Cafe Dasani||6.0000|81.338028169014084|30.5000|0|0|53|14|True
+976|13|Route 1|286|Centennial College - Story Arts Centre|951 Carlaw Ave|Toronto|ON|Inside Cafe Powerade|||35.197368421052631|628.2500|0|0|46|20|True
+522|13|Route 1|260|CIBC Mellon - Toronto|1 York Street|Toronto|ON|7th floor|2.5000|24.0000|58.181818181818181|229.5000|0|0|230|33|True
+1095|13|Route 1|327|Cineplex - Scotiabank|259 Richmond Street West|Toronto|ON|Arcade|51.0000|212.0000|74.160206718346253|168.0000|0|0|100|6|True
+1097|13|Route 1|327|Cineplex - Scotiabank|259 Richmond Street West|Toronto|ON|Concessions - Coke|15.0000|165.0000|66.455696202531645|140.0000|0|0|106|6|True
+1096|13|Route 1|327|Cineplex - Scotiabank|259 Richmond Street West|Toronto|ON|Concessions - Healthy|10.0000|132.0000|78.378378378378378|122.0000|0|0|64|6|True
+1100|13|Route 1|329|Cineplex - Varsity (Manulife Centre)|55 Bloor St W|Toronto|ON|Lobby|78.0000|271.0000|65.333333333333333|309.5000|0|0|104|10|True
+1099|13|Route 1|328|Cineplex - Yonge Dundas|10 Dundas St E|Toronto|ON|Lobby|30.0000|330.0000|52.302631578947368|100.0000|1|1|145|3|True
+1151|13|Route 1|328|Cineplex - Yonge Dundas|10 Dundas St E|Toronto|ON|Lobby|38.0000|262.5000|83.783783783783783|98.5000|0|0|46|3|True
+1098|13|Route 1|328|Cineplex - Yonge Dundas|10 Dundas St E|Toronto|ON|Upstairs Theatres|10.0000|599.0000|44.783715012722646|978.0000|1|1|217|17|True
+1196|13|Route 1|364|CN Tower|301 Front St W|Toronto|ON|Elevators near edgewalk sign in|||89.312977099236641|3.0000|0|0|41|1|True
+1199|13|Route 1|364|CN Tower|301 Front St W|Toronto|ON|Entrance Ticketbooth||138.7500|89.393939393939393|3.0000|0|0|45|1|True
+1208|13|Route 1|364|CN Tower|301 Front St W|Toronto|ON|Gift Shop/Edgewalk sign in|3.5000|117.0000|76.298701298701298|3.5000|0|0|72|1|True
+1197|13|Route 1|364|CN Tower|301 Front St W|Toronto|ON|Giftshop Washrooms|16.7500|41.5000|80.128205128205128|54.2500|0|0|62|25|True
+1198|13|Route 1|364|CN Tower|301 Front St W|Toronto|ON|Giftshop Washrooms|4.2500|41.5000|81.164383561643835|0.0000|0|0|55|0|True
+1202|13|Route 1|364|CN Tower|301 Front St W|Toronto|ON|Glass Floor|||79.276315789473684|34.0000|0|0|63|11|True
+1203|13|Route 1|364|CN Tower|301 Front St W|Toronto|ON|Glass Floor|7.0000|508.0000|75.328947368421052|3.0000|0|0|75|1|True
+1204|13|Route 1|364|CN Tower|301 Front St W|Toronto|ON|Mezzanine Coke|16.7500|632.2500|74.062500000000000|0.0000|0|0|83|0|True
+1205|13|Route 1|364|CN Tower|301 Front St W|Toronto|ON|Mezzanine Dasani|||89.189189189189189|3.0000|0|0|31|0|True
+1207|13|Route 1|364|CN Tower|301 Front St W|Toronto|ON|Mezzanine Evian|10.0000|234.5000|80.625000000000000|10.5000|0|0|59|0|True
+1206|13|Route 1|364|CN Tower|301 Front St W|Toronto|ON|Mezzanine Refresh||543.5000|87.500000000000000|11.5000|0|0|36|0|True
+1200|13|Route 1|364|CN Tower|301 Front St W|Toronto|ON|Mezzanine Washrooms||188.7500|94.370860927152317|0.0000|0|0|42|0|True
+1201|13|Route 1|364|CN Tower|301 Front St W|Toronto|ON|Security Desk Basement, Staff Vendor|6.5000|45.0000|83.333333333333333|3.5000|0|0|51|1|True
+1292|13|Route 1|364|CN Tower|301 Front St W|Toronto|ON|Staff Room lower level, service level||23.0000|89.962121212121212|1.0000|0|0|52|1|True
+71|13|Route 1|117|Compass Group Canada - CBRE/Government of Ontario|222 Jarvis Street|Toronto|ON|Basement|1.7500|6.7500|57.919621749408983|200.5000|3|3|178|31|True
+1241|13|Route 1|374|George Brown College - Business Building|290 Adelaide Street East|Toronto|ON|Main Lobby||3.2500|82.792207792207792|24.7500|0|0|46|13|True
+1238|13|Route 1|370|George Brown College - Cooperage|80 Cooperage St|Old Toronto|ON|2nd Floor|||63.846153846153846|228.5000|0|0|141|13|True
+1279|13|Route 1|381|George Brown College - Daniels|130 Queens Quay East|"Toronto "|ON|2/F Lunchroom|||26.710097719869706|69.5000|3|3|86|19|True
+1278|13|Route 1|381|George Brown College - Daniels|130 Queens Quay East|"Toronto "|ON|3/F Lunchroom|||78.571428571428571|20.0000|0|0|58|13|True
+1236|13|Route 1|369|George Brown College - Richmond|230 Richmond St E|Old Toronto|ON|Main Floor|||76.086956521739130|102.2500|0|0|66|35|True
+1235|13|Route 1|367|George Brown College - School of ESL|341 King St. E|Toronto|ON|Main Floor||6.0000|55.725190839694656|210.2500|0|0|174|19|True
+1233|13|Route 1|366|George Brown College - St. James Campus|200 King St. E|Toronto|ON|2nd Floor|||49.038461538461538|56.5000|1|1|85|19|True
+1232|13|Route 1|366|George Brown College - St. James Campus|200 King St. E|Toronto|ON|3rd Floor|||67.948717948717948|111.2500|0|0|100|19|True
+1231|13|Route 1|366|George Brown College - St. James Campus|200 King St. E|Toronto|ON|4th Floor|||74.679487179487179|68.0000|0|0|79|24|True
+1230|13|Route 1|366|George Brown College - St. James Campus|200 King St. E|Toronto|ON|5th Floor|||69.551282051282051|86.7500|0|0|95|19|True
+1221|13|Route 1|366|George Brown College - St. James Campus|200 King St. E|Toronto|ON|Cafeteria|3.2500|38.7500|76.602564102564102|87.0000|1|1|73|13|True
+1223|13|Route 1|366|George Brown College - St. James Campus|200 King St. E|Toronto|ON|Cafeteria|4.5000|35.2500|79.391891891891891|95.0000|0|0|61|13|True
+1359|13|Route 1|366|George Brown College - St. James Campus|200 King St. E|Toronto|ON|Cafeteria|3.2500|3.2500|77.922077922077922|21.2500|0|0|67|13|True
+1209|13|Route 1|368|George Brown College - Waterfront Campus|51 Dockside Dr|Toronto|ON|1st Floor Cafeteria||23.2500|66.233766233766233|130.2500|0|0|104|25|True
+1210|13|Route 1|368|George Brown College - Waterfront Campus|51 Dockside Dr|Toronto|ON|1st Floor Entrance|3.2500|26.5000|57.792207792207792|26.5000|0|0|132|10|True
+1220|13|Route 1|368|George Brown College - Waterfront Campus|51 Dockside Dr|Toronto|ON|2nd Floor Elevators|||77.564102564102564|52.0000|0|0|70|10|True
+1212|13|Route 1|368|George Brown College - Waterfront Campus|51 Dockside Dr|Toronto|ON|2nd Floor Xerox|||78.947368421052631|37.0000|0|0|53|25|True
+1214|13|Route 1|368|George Brown College - Waterfront Campus|51 Dockside Dr|Toronto|ON|3rd Floor Elevators|||72.077922077922077|3.2500|0|0|86|10|True
+1215|13|Route 1|368|George Brown College - Waterfront Campus|51 Dockside Dr|Toronto|ON|4th Floor Elevators|||57.467532467532467|48.0000|1|1|123|10|True
+1216|13|Route 1|368|George Brown College - Waterfront Campus|51 Dockside Dr|Toronto|ON|5th Floor Elevators|||76.602564102564102|0.0000|1|1|73|10|True
+1218|13|Route 1|368|George Brown College - Waterfront Campus|51 Dockside Dr|Toronto|ON|6th Floor Elevators|||74.025974025974025|0.0000|1|1|80|10|True
+1219|13|Route 1|368|George Brown College - Waterfront Campus|51 Dockside Dr|Toronto|ON|7th Floor Elevators||10.5000|64.285714285714285|10.5000|0|0|112|10|True
+1211|13|Route 1|368|George Brown College - Waterfront Campus|51 Dockside Dr|Toronto|ON|Basement|||69.155844155844155|50.7500|0|0|75|25|True
+1239|13|Route 1|304|Hospital for Sick Children|555 University Ave|Toronto|ON|2/F Beside Coke Machine|8.5000|107.5000|64.141414141414141|265.7500|3|3|213|17|True
+1240|13|Route 1|304|Hospital for Sick Children|555 University Ave|Toronto|ON|2/F OR Break Room|||130.000000000000000|33.5000|1|1|8|17|True
+245|13|Route 1|41|Hyatt Regency Toronto|370 King St W|Toronto|ON|11/F|||84.000000000000000|52.5000|0|0|49|24|True
+217|13|Route 1|41|Hyatt Regency Toronto|370 King St W|Toronto|ON|14/F|||70.000000000000000|30.0000|0|0|81|24|True
+246|13|Route 1|41|Hyatt Regency Toronto|370 King St W|Toronto|ON|16/F|||77.000000000000000|27.5000|0|0|70|24|True
+218|13|Route 1|41|Hyatt Regency Toronto|370 King St W|Toronto|ON|18/F|||71.666666666666666|25.0000|0|0|68|24|True
+216|13|Route 1|41|Hyatt Regency Toronto|370 King St W|Toronto|ON|9/F|||83.333333333333333|27.5000|0|0|64|24|True
+304|13|Route 1|281|Intelex Technologies|70 University Ave Ste 800|Toronto|ON|9F Kitchen Area|0.6000|35.3500|87.869362363919129|13.1000|0|0|74|1|True
+701|13|Route 1|281|Intelex Technologies|70 University Ave Ste 800|Toronto|ON|9F Kitchen Area|3.3000|14.1000|70.930232558139534|5.4000|0|0|175|1|True
+702|13|Route 1|281|Intelex Technologies|70 University Ave Ste 800|Toronto|ON|9F Kitchen Area|1.4500|12.3500|86.946902654867256|4.8500|0|0|59|1|True
+82|13|Route 1|46|Intercontinental Toronto Centre|225 Front Street West|Toronto|ON|Staff Lunchroom|20.2500|88.0000|75.510204081632653|46.2500|0|0|96|3|True
+37|13|Route 1|46|Intercontinental Toronto Centre|225 Front Street West|Toronto|ON|Staff Lunchroom|9.2500|47.2500|65.079365079365079|19.5000|0|0|110|3|True
+21|13|Route 1|232|Mondelez Canada East York Bakery|5 Bermondsey Road|Toronto|ON|Lunch room||||0.0000|||0|0|True
+439|13|Route 1|232|Mondelez Canada East York Bakery|5 Bermondsey Road|Toronto|ON|Lunch room|8.5000|48.7500|80.900621118012422|6.0000|0|0|123|0|True
+440|13|Route 1|232|Mondelez Canada East York Bakery|5 Bermondsey Road|Toronto|ON|Lunch room|10.0000|55.2500|57.236842105263157|2.2500|0|0|130|0|True
+441|13|Route 1|232|Mondelez Canada East York Bakery|5 Bermondsey Road|Toronto|ON|Lunch room|25.5000|97.2500|67.000000000000000|19.0000|0|0|99|0|True
+455|13|Route 1|232|Mondelez Canada East York Bakery|5 Bermondsey Road|Toronto|ON|Lunch room|19.2500|99.5000|26.190476190476190|18.0000|0|0|248|0|True
+453|13|Route 1|232|Mondelez Canada East York Bakery|5 Bermondsey Road|Toronto|ON|Peek Freans Outlet Store|2.5000|6.5000|56.000000000000000|6.5000|0|0|110|7|True
+156|13|Route 1|66|Postmedia Network|365 Bloor St E 11/F|Toronto|ON|11/F Lunchroom||6.0000|57.272727272727272|57.2500|0|0|94|21|True
+86|13|Route 1|66|Postmedia Network|365 Bloor St E 11/F|Toronto|ON|11/F Lunchroom|4.7500|8.2500|45.954692556634304|54.5000|1|1|167|21|True
+247|13|Route 1|102|Princess Margaret Hospital|610 University Ave.|Toronto|ON|17/F - Beside Elevators|8.2500|55.0000|74.172185430463576|82.5000|0|0|78|12|True
+157|13|Route 1|102|Princess Margaret Hospital|610 University Ave.|Toronto|ON|17/F - Beside Elevators|2.7500|57.7500|70.430107526881720|121.0000|0|0|110|12|True
+87|13|Route 1|102|Princess Margaret Hospital|610 University Ave.|Toronto|ON|5/F - Beside Staff Cafeteria|2.0000|10.0000|79.746835443037974|22.0000|0|0|52|12|True
+158|13|Route 1|102|Princess Margaret Hospital|610 University Ave.|Toronto|ON|5/F - Beside Staff Cafeteria|5.7500|14.2500|70.833333333333333|19.7500|0|0|73|12|True
+55|13|Route 1|103|Princess Margaret Hospital Lodge|545 Jarvis St.|Toronto|ON|Ground - Rear of Lobby|7.0000|17.0000|80.645161290322580|34.5000|0|0|42|12|True
+459|13|Route 1|103|Princess Margaret Hospital Lodge|545 Jarvis St.|Toronto|ON|Ground - Rear of Lobby|10.2500|35.2500|69.000000000000000|50.2500|1|1|93|12|True
+115|13|Route 1|72|Ryerson Student Centre|55 Gould Street|Toronto|ON|G/F|||83.739837398373983|14.0000|0|0|60|12|True
+89|13|Route 1|72|Ryerson Student Centre|55 Gould Street|Toronto|ON|G/F||2.0000|90.251572327044025|9.0000|0|0|31|12|True
+90|13|Route 1|79|SoccerWorld|176 Cherry Street|Toronto|ON|Soccer Dome|20.0000|20.0000|65.853658536585365|88.0000|0|0|85|32|True
+429|13|Route 1|79|SoccerWorld|176 Cherry Street|Toronto|ON|Soccer Dome|2.0000|87.0000|61.785714285714285|185.0000|0|0|105|17|True
+58|13|Route 1|80|Sol Schools International - Toronto|469 Jarvis St.|Toronto|ON|G/F|8.7500|8.7500|80.241935483870967|30.7500|0|0|49|8|True
+163|13|Route 1|80|Sol Schools International - Toronto|469 Jarvis St.|Toronto|ON|G/F|12.2500|12.2500|74.440298507462686|48.5000|0|0|137|8|True
+164|13|Route 1|82|St. James Hotel|26 Gerrard Street East|Toronto|ON|4/F|||50.284090909090909|153.0000|0|0|175|78|True
+61|13|Route 1|298|St. Michael's Hospital|30 Bond St|Toronto|ON|14/F Cardinal Carter - Hallway|2.5000|18.0000|87.586206896551724|15.5000|0|0|38|7|True
+953|13|Route 1|298|St. Michael's Hospital|30 Bond St|Toronto|ON|14/F Cardinal Carter - Hallway|2.7500|38.7500|80.132450331125827|35.7500|0|0|60|7|True
+51|13|Route 1|298|St. Michael's Hospital|30 Bond St|Toronto|ON|15/F CC Visitor Lounge|39.7500|206.7500|77.606177606177606|95.2500|0|0|116|2|True
+955|13|Route 1|298|St. Michael's Hospital|30 Bond St|Toronto|ON|15/F CC Visitor Lounge|82.0000|329.0000|71.854304635761589|139.7500|0|0|85|2|True
+947|13|Route 1|298|St. Michael's Hospital|30 Bond St|Toronto|ON|1F CC Emergency Department|22.5000|345.5000|85.645161290322580|78.5000|0|0|89|2|True
+948|13|Route 1|298|St. Michael's Hospital|30 Bond St|Toronto|ON|1F CC Emergency Department|52.5000|495.2500|58.146067415730337|145.5000|0|0|149|2|True
+949|13|Route 1|298|St. Michael's Hospital|30 Bond St|Toronto|ON|1F CC Emergency Department|20.0000|284.2500|75.496688741721854|61.7500|0|0|75|2|True
+944|13|Route 1|298|St. Michael's Hospital|30 Bond St|Toronto|ON|6F CC Outside Marketeria|50.2500|371.5000|84.552845528455284|141.5000|0|0|95|3|True
+945|13|Route 1|298|St. Michael's Hospital|30 Bond St|Toronto|ON|6F CC Outside Marketeria|35.7500|254.2500|73.244147157190635|83.0000|0|0|80|3|True
+946|13|Route 1|298|St. Michael's Hospital|30 Bond St|Toronto|ON|6F CC Outside Marketeria|28.2500|223.7500|82.666666666666666|64.2500|0|0|52|3|True
+964|13|Route 1|298|St. Michael's Hospital|30 Bond St|Toronto|ON|6F CC Outside Marketeria|||5.000000000000000|47.5000|9|9|114|121|True
+950|13|Route 1|298|St. Michael's Hospital|30 Bond St|Toronto|ON|9F CC Visitor Lounge|19.5000|111.0000|83.720930232558139|42.5000|0|0|105|3|True
+951|13|Route 1|298|St. Michael's Hospital|30 Bond St|Toronto|ON|9F CC Visitor Lounge|8.2500|168.2500|71.428571428571428|38.0000|0|0|86|2|True
+306|13|Route 1|298|St. Michael's Hospital|30 Bond St|Toronto|ON|Basement Shuter - Lunchroom|10.0000|45.5000|78.125000000000000|18.5000|0|0|56|2|True
+957|13|Route 1|298|St. Michael's Hospital|30 Bond St|Toronto|ON|Basement Shuter - Lunchroom|14.0000|69.7500|87.086092715231788|14.0000|0|0|41|2|True
+97|13|Route 1|89|Toronto East General Hospital|825 Coxwell Ave.|Toronto|ON|2/F Rotunda facing Coxwell Lobby (B2 Entrance)|8.5000|39.0000|80.710659898477157|39.0000|0|0|38|7|True
+183|13|Route 1|89|Toronto East General Hospital|825 Coxwell Ave.|Toronto|ON|2/F Rotunda facing Coxwell Lobby (B2 Entrance)|18.5000|93.2500|64.935064935064935|84.2500|0|0|189|7|True
+4|13|Route 1|89|Toronto East General Hospital|825 Coxwell Ave.|Toronto|ON|4/F Dining Room|17.5000|57.0000|64.465408805031446|13.5000|2|2|113|0|True
+249|13|Route 1|89|Toronto East General Hospital|825 Coxwell Ave.|Toronto|ON|4/F Dining Room|23.5000|37.2500|81.403508771929824|37.2500|0|0|55|7|True
+182|13|Route 1|89|Toronto East General Hospital|825 Coxwell Ave.|Toronto|ON|4/F Dining Room|6.0000|21.0000|56.043956043956043|6.0000|0|0|160|0|True
+95|13|Route 1|89|Toronto East General Hospital|825 Coxwell Ave.|Toronto|ON|Emergency Waiting Room|20.2500|459.2500|64.485981308411214|6.5000|5|5|228|0|True
+120|13|Route 1|89|Toronto East General Hospital|825 Coxwell Ave.|Toronto|ON|Emergency Waiting Room||||0.0000|||0|0|True
+231|13|Route 1|89|Toronto East General Hospital|825 Coxwell Ave.|Toronto|ON|Emergency Waiting Room|48.0000|600.2500|18.333333333333333|31.2500|0|0|245|0|True
+181|13|Route 1|89|Toronto East General Hospital|825 Coxwell Ave.|Toronto|ON|Emergency Waiting Room|19.7500|188.0000|60.450819672131147|12.2500|0|0|193|0|True
+210|13|Route 1|89|Toronto East General Hospital|825 Coxwell Ave.|Toronto|ON|Emergency Waiting Room||97.2500|46.634615384615384|79.5000|2|2|111|0|True
+113|13|Route 1|89|Toronto East General Hospital|825 Coxwell Ave.|Toronto|ON|H7 near Maternity (J7)|18.2500|136.2500|66.433566433566433|14.2500|2|2|144|0|True
+110|13|Route 1|89|Toronto East General Hospital|825 Coxwell Ave.|Toronto|ON|J2 CCU Waiting Room|11.5000|51.0000|84.062500000000000|51.0000|0|0|51|0|True
+96|13|Route 1|89|Toronto East General Hospital|825 Coxwell Ave.|Toronto|ON|Mortimer Lobby|42.5000|221.5000|49.882352941176470|40.0000|5|5|213|0|True
+232|13|Route 1|89|Toronto East General Hospital|825 Coxwell Ave.|Toronto|ON|Mortimer Lobby|15.2500|207.5000|60.855263157894736|11.5000|0|0|117|0|True
+40|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|10/F - Eaton||22.2500|90.816326530612244|22.2500|0|0|18|8|True
+250|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|11/F - CSB||11.0000|38.518518518518518|11.0000|0|0|166|7|True
+117|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|3/F - CSB - Patient Waiting Area|13.7500|80.0000|63.103448275862068|80.0000|0|0|107|7|True
+64|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|3/F - CSB - Patient Waiting Area||47.5000|79.807692307692307|47.5000|0|0|63|7|True
+186|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|3/F - Elliott Elevators|2.7500|13.7500|66.666666666666666|69.0000|0|0|62|28|True
+236|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|4/F - CSB|5.7500|33.7500|89.166666666666666|33.7500|0|0|33|8|True
+438|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|4/F - CSB|5.5000|55.7500|71.875000000000000|55.7500|0|0|81|8|True
+237|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|6/F - Eaton|5.5000|33.0000|61.500000000000000|82.7500|0|0|86|24|True
+63|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|7/F - CSB||54.2500|75.875486381322957|33.5000|0|0|108|3|True
+187|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|7/F - CSB||135.5000|80.540540540540540|19.2500|0|0|72|3|True
+235|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|Basement - CSB - By Elevator|||58.297872340425531|138.0000|0|0|98|7|True
+188|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|Basement - Receiving|1.7500|14.0000|78.325123152709359|40.2500|0|0|88|20|True
+297|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|Ground - Eaton - Admitting||6.2500|63.255813953488372|6.2500|0|0|83|8|True
+185|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|Ground - Emergency|5.7500|357.5000|60.382513661202185|177.5000|1|1|144|3|True
+233|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|Ground - Food Court (Beside Subway)|11.2500|122.7500|63.666666666666666|122.7500|0|0|109|8|True
+184|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|Ground - Food Court (Beside Subway)|19.2500|96.7500|72.972972972972972|38.7500|0|0|100|3|True
+116|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|Ground - Food Court (Beside Sushi-Q)|26.2500|144.2500|72.413793103448275|144.2500|0|0|80|8|True
+98|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|Ground - Food Court (Beside Sushi-Q)|57.5000|319.0000|75.229357798165137|147.7500|0|0|108|3|True
+208|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|Ground - Food Court (By Sushi-Q) - Coke-branded|14.2500|154.2500|53.205128205128205|52.0000|0|0|146|3|True
+207|13|Route 1|101|Toronto General Hospital|200 Elizabeth Street|Toronto|ON|Ground - Food Court - By Subway (Dasani branded)|14.0000|129.7500|77.343750000000000|41.7500|0|0|58|3|True
+277|13|Route 1|104|Toronto Western Hospital|399 Bathurst St.|Toronto|ON|6/F - Ophthalmology Waiting Area|||87.333333333333333|58.2500|0|0|41|12|True
+191|13|Route 1|104|Toronto Western Hospital|399 Bathurst St.|Toronto|ON|Ground - Beside ATM|16.7500|80.5000|56.097560975609756|69.5000|0|0|108|6|True
+192|13|Route 1|104|Toronto Western Hospital|399 Bathurst St.|Toronto|ON|Ground - Beside Male Washroom|11.0000|124.2500|77.567567567567567|93.7500|0|0|83|6|True
+118|13|Route 1|104|Toronto Western Hospital|399 Bathurst St.|Toronto|ON|Ground - Machine Bank||52.5000|88.346883468834688|58.2500|0|0|43|6|True
+238|13|Route 1|104|Toronto Western Hospital|399 Bathurst St.|Toronto|ON|Ground - Machine Bank|25.0000|258.2500|43.666666666666666|214.0000|0|0|168|6|True
+99|13|Route 1|104|Toronto Western Hospital|399 Bathurst St.|Toronto|ON|Ground - Machine Bank|43.7500|474.7500|58.620689655172413|376.5000|6|6|264|6|True
+203|13|Route 1|104|Toronto Western Hospital|399 Bathurst St.|Toronto|ON|Ground - Machine Bank|31.5000|353.7500|60.784313725490196|273.5000|0|0|120|6|True
+526|13|Route 1|263|University of Toronto - Hart House|20 Queen's Park Cres W 7 Hart House Circle|Toronto|ON|West Wing - Basement|21.2500|80.5000|78.348623853211009|61.5000|0|0|118|6|True
+527|13|Route 1|263|University of Toronto - Hart House|20 Queen's Park Cres W 7 Hart House Circle|Toronto|ON|West Wing - Basement|22.5000|137.7500|61.000000000000000|104.5000|1|1|117|6|True
+911|13|Route 1|294|University of Toronto - KPE|Athletic Centre 55 Harbord St|Toronto|ON|299 Bloor St W|||80.269814502529510|212.5000|0|0|117|34|True
+909|13|Route 1|294|University of Toronto - KPE|Athletic Centre 55 Harbord St|Toronto|ON|320 Huron St|2.0000|20.2500|61.463414634146341|233.5000|2|2|158|26|True
+910|13|Route 1|294|University of Toronto - KPE|Athletic Centre 55 Harbord St|Toronto|ON|"55 Harbord St "|||87.519260400616332|100.7500|0|0|81|26|True
+212|1|Route 2|14|Canada's Best Store Fixtures|170 Sharer Road|Woodbridge|ON|Warehouse|||62.087912087912087|66.2500|3|3|83|41|True
+1261|1|Route 2|360|Centennial College - Downsview Campus|65 Carl Hall Rd|North York|ON|"1st floor "||2.7500|74.375000000000000|32.7500|0|0|78|17|True
+1262|1|Route 2|360|Centennial College - Downsview Campus|65 Carl Hall Rd|North York|ON|"1st floor "|||84.027777777777777|66.0000|0|0|46|27|True
+1263|1|Route 2|360|Centennial College - Downsview Campus|65 Carl Hall Rd|North York|ON|2nd floor Coke||5.5000|49.687500000000000|22.0000|1|1|154|17|True
+1264|1|Route 2|360|Centennial College - Downsview Campus|65 Carl Hall Rd|North York|ON|2nd floor Dasani|||92.013888888888888|5.5000|0|0|24|17|True
+1155|1|Route 2|360|Centennial College - Downsview Campus|65 Carl Hall Rd|North York|ON|Main Foyer||5.5000|70.402298850574712|39.5000|0|0|91|17|True
+1117|1|Route 2|336|Cineplex - Colossus Woodbridge|3555 Highway 7 West|Woodbridge|ON|Lobby - Arcade|29.5000|149.5000|67.666666666666666|24.5000|0|0|97|0|True
+1116|1|Route 2|336|Cineplex - Colossus Woodbridge|3555 Highway 7 West|Woodbridge|ON|Lobby - By Outtakes|35.0000|279.5000|31.250000000000000|5.0000|0|0|208|0|True
+1136|1|Route 2|352|Cineplex - Yorkdale|3401 Dufferin St|North York|ON|Across Theatre 7|19.0000|173.5000|45.333333333333333|593.5000|0|0|163|31|True
+288|1|Route 2|147|Eurospec Manufacturing Inc.|130 Harry Walker parkway|Newmarket|ON|2/F Lunchroom||2.0000|72.941176470588235|2.0000|1|1|23|5|True
+303|1|Route 2|147|Eurospec Manufacturing Inc.|130 Harry Walker parkway|Newmarket|ON|2/F Lunchroom|13.5000|20.5000|87.500000000000000|20.5000|1|1|27|5|True
+302|1|Route 2|147|Eurospec Manufacturing Inc.|130 Harry Walker parkway|Newmarket|ON|2/F Lunchroom|9.5000|22.7500|88.235294117647058|20.7500|0|0|57|5|True
+230|1|Route 2|230|Humber River Hospital - Main Building|1235 Wilson Avenue|Toronto|ON|6E ICU|8.2500|47.2500|68.000000000000000|145.5000|0|0|96|24|True
+426|1|Route 2|230|Humber River Hospital - Main Building|1235 Wilson Avenue|Toronto|ON|6E ICU|19.0000|99.2500|51.104100946372239|276.7500|7|7|155|24|True
+435|1|Route 2|230|Humber River Hospital - Main Building|1235 Wilson Avenue|Toronto|ON|6W ICU|3.0000|28.2500|64.344262295081967|75.7500|0|0|87|24|True
+523|1|Route 2|262|Improve Canada Inc|7250 Keele Street|Vaughan|ON|Front Entrance|4.0000|21.0000|103.431372549019607|181.2500|5|5|57|39|True
+529|1|Route 2|278|Kohl & Frisch Limited|7622 Keele St|Concord|ON|2/F Lunchroom|13.0000|56.2500|83.119266055045871|45.0000|0|0|92|6|True
+856|1|Route 2|278|Kohl & Frisch Limited|7622 Keele St|Concord|ON|2/F Lunchroom|27.7500|101.2500|73.550724637681159|79.5000|0|0|146|6|True
+857|1|Route 2|278|Kohl & Frisch Limited|7622 Keele St|Concord|ON|G/F Lunchroom|11.2500|63.0000|76.992753623188405|46.5000|0|0|127|6|True
+1294|1|Route 2|382|Mackenzie Health - Richmond Hill Hospital|10 Trench St|Richmond Hill|ON|Emergency Entrance|76.5000|385.5000|73.569023569023569|30.0000|1|1|157|0|True
+1295|1|Route 2|382|Mackenzie Health - Richmond Hill Hospital|10 Trench St|Richmond Hill|ON|Emergency Entrance|50.0000|306.7500|58.012820512820512|40.0000|0|0|131|0|True
+1299|1|Route 2|382|Mackenzie Health - Richmond Hill Hospital|10 Trench St|Richmond Hill|ON|Emergency Entrance|47.5000|625.5000|16.666666666666666|25.2500|1|1|240|0|True
+1296|1|Route 2|382|Mackenzie Health - Richmond Hill Hospital|10 Trench St|Richmond Hill|ON|Tim Hortons Entrance|5.7500|43.0000|75.510204081632653|81.2500|0|0|72|0|True
+1297|1|Route 2|382|Mackenzie Health - Richmond Hill Hospital|10 Trench St|Richmond Hill|ON|Tim Hortons Entrance|11.5000|54.0000|76.599326599326599|4.5000|0|0|139|0|True
+1298|1|Route 2|382|Mackenzie Health - Richmond Hill Hospital|10 Trench St|Richmond Hill|ON|Tim Hortons Entrance|8.2500|52.2500|65.705128205128205|5.5000|0|0|107|0|True
+150|1|Route 2|55|Maple Leaf Bread Ltd.|144 Viceroy Rd|Vaughan|ON|2/F Plant Lunchroom|8.2500|67.0000|80.847145488029465|47.0000|0|0|104|3|True
+10|1|Route 2|55|Maple Leaf Bread Ltd.|144 Viceroy Rd|Vaughan|ON|2/F Plant Lunchroom||27.2500|85.283018867924528|16.7500|0|0|40|3|True
+109|1|Route 2|55|Maple Leaf Bread Ltd.|144 Viceroy Rd|Vaughan|ON|G/F Lunchroom|||78.169014084507042|33.0000|2|2|31|24|True
+114|1|Route 2|151|Maple Toyota|88 Auto Vaughan Dr.|Vaughan|ON|In Vending Area|6.5000|25.0000|78.260869565217391|21.0000|0|0|40|1|True
+313|1|Route 2|151|Maple Toyota|88 Auto Vaughan Dr.|Vaughan|ON|In Vending Area|3.5000|30.5000|89.062500000000000|19.0000|0|0|39|1|True
+965|1|Route 2|301|Reptilia - Vaughan|2501 Rutherford Rd|Concord|ON|Back of Zoo|65.5000|192.0000|71.090909090909090|175.5000|0|0|159|6|True
+969|1|Route 2|301|Reptilia - Vaughan|2501 Rutherford Rd|Concord|ON|Back of Zoo|32.5000|149.5000|58.823529411764705|139.5000|0|0|126|6|True
+974|1|Route 2|301|Reptilia - Vaughan|2501 Rutherford Rd|Concord|ON|Front Entrance|14.0000|63.5000|79.395604395604395|40.0000|0|0|76|6|True
+521|1|Route 2|259|Sanofi Pasteur|1755 Steeles Ave W|North York|ON|Building B61 – Lunchroom|2.5000|24.0000|72.210526315789473|60.2500|0|0|132|7|True
+531|1|Route 2|259|Sanofi Pasteur|1755 Steeles Ave W|North York|ON|Building B61 – Lunchroom||40.2500|77.281191806331471|89.5000|0|0|122|7|True
+519|1|Route 2|259|Sanofi Pasteur|1755 Steeles Ave W|North York|ON|Building B83 – Cafeteria Vending Area|1.7500|4.2500|75.443037974683544|16.7500|1|1|97|7|True
+528|1|Route 2|259|Sanofi Pasteur|1755 Steeles Ave W|North York|ON|Building B83 – Cafeteria Vending Area|11.5000|48.7500|73.752310536044362|98.0000|2|2|142|7|True
+520|1|Route 2|259|Sanofi Pasteur|1755 Steeles Ave W|North York|ON|Trailer 16-C||3.7500|66.578947368421052|60.0000|0|0|127|19|True
+1193|1|Route 2|362|Seneca - York|70 The Pond Rd|North York|ON|1F Athletics Desk|||65.878378378378378|176.5000|0|0|101|31|True
+1195|1|Route 2|362|Seneca - York|70 The Pond Rd|North York|ON|1F Welcome Center||||0.0000|0|0|0|12|True
+1192|1|Route 2|362|Seneca - York|70 The Pond Rd|North York|ON|2F South Washrooms||5.7500|37.171052631578947|346.0000|1|1|191|31|True
+1191|1|Route 2|362|Seneca - York|70 The Pond Rd|North York|ON|2nd Floor North Lounge|||78.191489361702127|64.5000|0|0|82|31|True
+1190|1|Route 2|362|Seneca - York|70 The Pond Rd|North York|ON|3F South Washrooms||4.0000|68.483412322274881|211.5000|0|0|133|31|True
+973|1|Route 2|303|Seneca Student Federation - King Campus|13990 Dufferin St|King City|ON|Gym Hallway|2.0000|15.0000|74.803149606299212|26.5000|0|0|160|12|True
+19|1|Route 2|81|St. Andrew's College|15800 Yonge Street|Aurora|ON|Ice Arena||||0.0000|||0|3|True
+11|1|Route 2|81|St. Andrew's College|15800 Yonge Street|Aurora|ON|Ice Arena||65.0000|93.733681462140992|0.0000|0|0|24|3|True
+677|1|Route 2|81|St. Andrew's College|15800 Yonge Street|Aurora|ON|Ice Arena||27.0000|92.580645161290322|0.0000|0|0|25|3|True
+678|1|Route 2|81|St. Andrew's College|15800 Yonge Street|Aurora|ON|Ice Arena||11.0000|75.657894736842105|0.0000|0|0|74|3|True
+41|1|Route 2|90|Trenton Cold Storage|3691-3695 Weston Road|Toronto|ON|Inside loading dock office|2.5000|5.0000|62.539682539682539|61.2500|0|0|118|23|True
+469|1|Route 2|242|Vaughan - Al Palladini CC|9201 Islington Ave|Woodbridge|ON|Arena A|||61.858974358974358|92.5000|1|1|119|35|True
+470|1|Route 2|242|Vaughan - Al Palladini CC|9201 Islington Ave|Woodbridge|ON|Arena A||8.2500|59.580838323353293|157.2500|0|0|135|18|True
+471|1|Route 2|242|Vaughan - Al Palladini CC|9201 Islington Ave|Woodbridge|ON|Arena B|2.5000|17.5000|72.115384615384615|107.5000|1|1|87|35|True
+472|1|Route 2|242|Vaughan - Al Palladini CC|9201 Islington Ave|Woodbridge|ON|Arena B||19.7500|61.666666666666666|140.0000|0|0|115|35|True
+442|1|Route 2|242|Vaughan - Al Palladini CC|9201 Islington Ave|Woodbridge|ON|Atrium||||71.7500|||0|27|True
+960|1|Route 2|242|Vaughan - Al Palladini CC|9201 Islington Ave|Woodbridge|ON|Atrium|40.0000|105.7500|91.167192429022082|75.5000|0|0|56|6|True
+467|1|Route 2|242|Vaughan - Al Palladini CC|9201 Islington Ave|Woodbridge|ON|Entrance||2.5000|79.746835443037974|17.5000|0|0|57|6|True
+468|1|Route 2|242|Vaughan - Al Palladini CC|9201 Islington Ave|Woodbridge|ON|Entrance|14.2500|34.2500|70.895522388059701|22.7500|0|0|78|6|True
+498|1|Route 2|242|Vaughan - Al Palladini CC|9201 Islington Ave|Woodbridge|ON|Entrance||2.0000|91.989664082687338|2.0000|0|0|6|6|True
+525|1|Route 2|271|"Vaughan - Bathurst Clark Library "|900 Clark Ave W|Vaughan|ON|Lobby|18.2500|113.0000|65.585585585585585|168.0000|0|0|191|11|True
+675|1|Route 2|271|"Vaughan - Bathurst Clark Library "|900 Clark Ave W|Vaughan|ON|Lobby|8.2500|48.5000|71.000000000000000|82.5000|0|0|87|11|True
+79|1|Route 2|243|Vaughan - Chancellor CC|350 Ansley Grove Rd|Woodbridge|ON|Hallway|4.0000|42.0000|71.058823529411764|170.7500|2|2|123|11|True
+475|1|Route 2|243|Vaughan - Chancellor CC|350 Ansley Grove Rd|Woodbridge|ON|Hallway|2.5000|37.2500|55.704697986577181|133.5000|0|0|132|11|True
+287|1|Route 2|255|Vaughan - City Hall|2141 Major Mackenzie Drive|Vaughan|ON|Cafeteria|2.0000|18.5000|77.205882352941176|117.5000|0|0|93|15|True
+513|1|Route 2|255|Vaughan - City Hall|2141 Major Mackenzie Drive|Vaughan|ON|Cafeteria||5.0000|62.418300653594771|182.5000|0|0|115|15|True
+332|1|Route 2|280|Vaughan - Civic Centre Library|2185 Major MacKenzie Dr W|Maple|ON|Lobby|||43.243243243243243|592.2500|10|10|130|0|True
+700|1|Route 2|280|Vaughan - Civic Centre Library|2185 Major MacKenzie Dr W|Maple|ON|Lobby|7.7500|67.7500|57.272727272727272|7.7500|0|0|95|0|True
+93|1|Route 2|244|Vaughan - Dufferin Clark CC|1441 Clark Ave West|"Concord "|ON|By Pool|4.5000|22.0000|83.878504672897196|124.2500|0|0|69|13|True
+473|1|Route 2|244|Vaughan - Dufferin Clark CC|1441 Clark Ave West|"Concord "|ON|By Pool||5.2500|71.764705882352941|47.7500|0|0|73|13|True
+460|1|Route 2|244|Vaughan - Dufferin Clark CC|1441 Clark Ave West|"Concord "|ON|Library|||84.937888198757763|93.5000|0|0|55|6|True
+474|1|Route 2|244|Vaughan - Dufferin Clark CC|1441 Clark Ave West|"Concord "|ON|Library||27.5000|75.704225352112676|5.5000|0|0|69|6|True
+479|1|Route 2|245|Vaughan - Father Ermanno Bulfon CC|8141 Martin Grove Rd|"Woodbridge "|ON|Hallway||16.5000|71.768707482993197|13.7500|0|0|83|7|True
+510|1|Route 2|245|Vaughan - Father Ermanno Bulfon CC|8141 Martin Grove Rd|"Woodbridge "|ON|Hallway||18.2500|85.253456221198156|18.2500|0|0|64|7|True
+57|1|Route 2|246|Vaughan - Garnet A. Williams CC|501 Clark Ave West|Thornhill|ON|Arena|18.0000|76.5000|58.552631578947368|215.7500|4|4|126|0|True
+494|1|Route 2|246|Vaughan - Garnet A. Williams CC|501 Clark Ave West|Thornhill|ON|Arena|21.2500|88.0000|58.295964125560538|132.2500|0|0|93|0|True
+492|1|Route 2|246|Vaughan - Garnet A. Williams CC|501 Clark Ave West|Thornhill|ON|Atrium|2.5000|12.7500|82.580645161290322|2.5000|0|0|54|0|True
+493|1|Route 2|246|Vaughan - Garnet A. Williams CC|501 Clark Ave West|Thornhill|ON|Atrium|11.0000|89.7500|61.377245508982035|8.2500|0|0|129|0|True
+507|1|Route 2|246|Vaughan - Garnet A. Williams CC|501 Clark Ave West|Thornhill|ON|Atrium|4.5000|110.5000|71.058823529411764|4.5000|0|0|123|0|True
+506|1|Route 2|247|Vaughan - Maple CC|10190 Keele St|Maple|ON|Arena|49.7500|80.5000|68.000000000000000|168.0000|4|4|80|12|True
+485|1|Route 2|247|Vaughan - Maple CC|10190 Keele St|Maple|ON|Arena - Right|8.2500|47.2500|56.770833333333333|106.7500|0|0|83|12|True
+483|1|Route 2|247|Vaughan - Maple CC|10190 Keele St|Maple|ON|Fitness Center|2.7500|14.2500|67.006802721088435|162.0000|0|0|97|28|True
+465|1|Route 2|247|Vaughan - Maple CC|10190 Keele St|Maple|ON|Hallway|||42.222222222222222|13.5000|3|3|78|12|True
+482|1|Route 2|247|Vaughan - Maple CC|10190 Keele St|Maple|ON|Hallway|8.2500|43.2500|62.580645161290322|99.2500|2|2|116|12|True
+500|1|Route 2|247|Vaughan - Maple CC|10190 Keele St|Maple|ON|Hallway|23.5000|126.5000|77.987421383647798|247.5000|0|0|140|12|True
+462|1|Route 2|248|Vaughan - North Thornhill CC|300 Pleasant Ridge Ave|Thornhill|ON|Vending Bank||10.5000|42.222222222222222|23.7500|3|3|78|11|True
+486|1|Route 2|248|Vaughan - North Thornhill CC|300 Pleasant Ridge Ave|Thornhill|ON|Vending Bank|10.2500|106.2500|68.085106382978723|106.2500|0|0|90|3|True
+487|1|Route 2|248|Vaughan - North Thornhill CC|300 Pleasant Ridge Ave|Thornhill|ON|Vending Bank|5.0000|25.0000|81.730769230769230|22.5000|0|0|57|3|True
+488|1|Route 2|248|Vaughan - North Thornhill CC|300 Pleasant Ridge Ave|Thornhill|ON|Vending Bank|5.0000|37.2500|69.444444444444444|26.2500|0|0|88|3|True
+501|1|Route 2|248|Vaughan - North Thornhill CC|300 Pleasant Ridge Ave|Thornhill|ON|Vending Bank|32.2500|199.5000|84.161490683229813|114.5000|0|0|102|3|True
+394|1|Route 2|272|"Vaughan - Pierre Berton Library "|4921 Rutherford Rd|Woodbridge|ON|Lobby|6.0000|36.5000|82.804232804232804|74.7500|1|1|65|11|True
+676|1|Route 2|272|"Vaughan - Pierre Berton Library "|4921 Rutherford Rd|Woodbridge|ON|Lobby||13.2500|75.167785234899328|34.2500|0|0|74|11|True
+491|1|Route 2|249|Vaughan - Rosemount CC|1000 New Westminster Dr|Thornhill|ON|Arena|||46.073298429319371|127.7500|3|3|72|17|True
+490|1|Route 2|249|Vaughan - Rosemount CC|1000 New Westminster Dr|Thornhill|ON|Entrance|||56.293706293706293|109.0000|0|0|125|9|True
+502|1|Route 2|249|Vaughan - Rosemount CC|1000 New Westminster Dr|Thornhill|ON|Entrance|||77.018633540372670|153.2500|0|0|148|9|True
+699|1|Route 2|249|Vaughan - Rosemount CC|1000 New Westminster Dr|Thornhill|ON|Entrance||7.5000|15.000000000000000|116.0000|4|4|132|9|True
+211|1|Route 2|250|Vaughan - Vellore Village CC|1 Villa Royale Ave|Woodbridge|ON|Vending Area|||20.833333333333333|8.2500|4|4|11|80|True
+463|1|Route 2|250|Vaughan - Vellore Village CC|1 Villa Royale Ave|Woodbridge|ON|Vending Area|||11.570247933884297|282.7500|10|10|95|7|True
+503|1|Route 2|250|Vaughan - Vellore Village CC|1 Villa Royale Ave|Woodbridge|ON|Vending Area|67.7500|298.7500|79.968944099378881|296.2500|0|0|129|7|True
+480|1|Route 2|250|Vaughan - Vellore Village CC|1 Villa Royale Ave|Woodbridge|ON|Vending Area - Left|13.5000|56.5000|60.126582278481012|56.5000|0|0|126|7|True
+481|1|Route 2|250|Vaughan - Vellore Village CC|1 Villa Royale Ave|Woodbridge|ON|Vending Area - Right|11.5000|81.2500|63.698630136986301|84.0000|0|0|105|7|True
+295|1|Route 2|251|Vaughan - Woodbridge Pool and Memorial Arena|5020 Highway 7|"Woodbridge "|ON|Downstairs by Arena|||46.172248803827751|96.7500|9|9|136|9|True
+477|1|Route 2|251|Vaughan - Woodbridge Pool and Memorial Arena|5020 Highway 7|"Woodbridge "|ON|Downstairs by Arena|||64.423076923076923|45.0000|0|0|74|18|True
+478|1|Route 2|251|Vaughan - Woodbridge Pool and Memorial Arena|5020 Highway 7|"Woodbridge "|ON|Downstairs by Arena||5.7500|75.000000000000000|75.0000|0|0|84|9|True
+476|1|Route 2|251|Vaughan - Woodbridge Pool and Memorial Arena|5020 Highway 7|"Woodbridge "|ON|Upstairs by Pool|||83.695652173913043|19.2500|0|0|30|9|True
+504|1|Route 2|251|Vaughan - Woodbridge Pool and Memorial Arena|5020 Highway 7|"Woodbridge "|ON|Upstairs by Pool|||75.315315315315315|38.7500|0|0|137|9|True
+68|15|Route 3|111|Burloak Sports Center|952 Century Drive|Burlington|ON|Main Lobby||2.0000|46.278317152103559|67.0000|7|7|166|31|True
+2|15|Route 3|16|Carlson Wagonlit Travel|2425 Matheson Boulevard East Ste 600|Mississauga|ON|Lunchroom||9.5000|46.153846153846153|23.0000|7|8|112|21|True
+1127|15|Route 3|346|Cineplex - Burlington|1250 Brant St|Burlington|ON|Lobby - Theatres 5-12||64.5000|80.519480519480519|25.0000|0|0|60|1|True
+1123|15|Route 3|342|Cineplex - Galaxy Guelph|485 Woodlawn Rd W|Guelph|ON|Lobby|14.5000|117.5000|38.636363636363636|524.5000|0|0|189|64|True
+1120|15|Route 3|339|Cineplex - Galaxy Guelph Pergola|85 Clair Rd E|Guelph|ON|Lobby|9.5000|34.0000|47.727272727272727|161.0000|0|0|161|41|True
+1122|15|Route 3|341|Cineplex - Galaxy Waterloo|550 King St N|Waterloo|ON|Lobby||35.0000|67.532467532467532|197.5000|0|0|100|37|True
+1126|15|Route 3|345|Cineplex - Kitchener|225 Fairway Rd S|Kitchener|ON|Lobby||10.0000|76.081424936386768|151.0000|0|0|94|104|True
+1125|15|Route 3|344|Cineplex - Milton|1175 Maple Ave|Milton|ON|Lobby|43.5000|162.0000|48.701298701298701|350.5000|0|0|158|18|True
+1124|15|Route 3|343|Cineplex - Oakville Burloak|3531 Wyecroft Rd|Oakville|ON|Lobby|51.5000|291.5000|48.051948051948051|402.5000|0|0|160|7|True
+1121|15|Route 3|340|Cineplex - Oakville Winston Churchill|2081 Winston Park Drive|Oakville|ON|Lobby - Theatres 15-24|49.0000|164.5000|65.909090909090909|223.0000|0|0|105|7|True
+1364|15|Route 3|424|Cintas Cambridge|125 Boxwood Dr|Cambridge|ON|Lunchroom||23.7500|60.101010101010101|274.5000|5|5|237|33|True
+1377|15|Route 3|424|Cintas Cambridge|125 Boxwood Dr|Cambridge|ON|Lunchroom||24.7500|47.297297297297297|297.5000|1|1|158|32|True
+1352|15|Route 3|397|"COH - Bennetto Community Centre "|450 Hughson St N|"Hamilton "|ON|D1||25.5000|89.057239057239057|32.5000|0|0|65|10|True
+1366|15|Route 3|409|"COH - Bill Friday/Lawfield Arena "|150 Folkestone Ave|"Hamilton "|ON|Arenas||36.0000|77.835051546391752|112.2500|0|0|129|10|True
+1374|15|Route 3|412|"COH - Chedoke Twin Pad Arena "|91 Chedmac Dr|"Hamilton "|ON|Arenas|5.0000|106.5000|79.381443298969072|70.5000|0|0|120|3|True
+1375|15|Route 3|412|"COH - Chedoke Twin Pad Arena "|91 Chedmac Dr|"Hamilton "|ON|Arenas|16.7500|146.7500|81.413210445468509|137.2500|0|0|121|3|True
+60|15|Route 3|410|"COH - Coronation Arena "|81 Macklin St N|Hamilton|ON|Arenas|26.5000|38.0000|73.345259391771019|182.0000|1|1|149|17|True
+1372|15|Route 3|411|"COH - Dave Audreychuck Mountain Arena "|25 Hester St|"Hamilton "|ON|Arenas|7.5000|32.5000|80.584192439862542|60.0000|0|0|113|10|True
+1373|15|Route 3|411|"COH - Dave Audreychuck Mountain Arena "|25 Hester St|"Hamilton "|ON|Arenas|20.5000|112.5000|72.508591065292096|195.0000|0|0|160|10|True
+1360|15|Route 3|399|"COH - Dominic Agostino Riverdale Community Centre "|150 Violet Dr|"Hamilton "|ON|D4|10.5000|39.0000|76.116838487972508|206.0000|0|0|139|20|True
+1367|15|Route 3|413|"COH - Harry Howell Arena "|27 ON-5|Flamborough|ON|Arenas|6.0000|64.0000|83.240223463687150|27.0000|0|0|90|3|True
+1361|15|Route 3|400|"COH - Hill Park Recreation Centre "|305 South Bend Rd E|"Hamilton "|ON|D5|||81.958762886597938|26.5000|0|0|105|10|True
+992|15|Route 3|414|COH - Inch Park Arena|400 Queensdale Ave E|"Hamilton "|ON|Arenas|26.0000|74.0000|83.461538461538461|61.5000|0|0|86|3|True
+1350|15|Route 3|416|"COH - Morgan Firestone Arena "|385 Jerseyville Rd W|"Ancaster "|ON|Arenas|56.2500|152.5000|85.774058577405857|87.5000|0|0|102|3|True
+1369|15|Route 3|418|"COH - Parkdale Pat Quinn Arena "|1770 Main St E|"Hamilton "|ON|Arenas|||83.925233644859813|86.5000|1|1|87|17|True
+1370|15|Route 3|419|"COH - Rosedale Arena "|100 Greenhill Ave|"Hamilton "|ON|Arenas||21.0000|81.308411214953271|136.0000|2|2|101|17|True
+1363|15|Route 3|403|"COH - Ryerson Recreation Centre "|251 Duke St|"Hamilton "|ON|D1||8.5000|82.989690721649484|187.0000|0|0|99|42|True
+1342|15|Route 3|405|"COH - Sir Allan MacNab Recreation Centre "|145 Magnolia Dr|"Hamilton "|ON|D2|13.0000|31.5000|82.828282828282828|89.0000|0|0|102|17|True
+1347|15|Route 3|406|"COH - Sir Wilfrid Laurier Recreation Centre "|60 Albright Rd|"Hamilton "|ON|Left to Entrance Hallway|||90.137614678899082|28.0000|1|1|43|20|True
+1371|15|Route 3|420|"COH - Spring Valley Arena "|29 Orchard Dr|"Ancaster "|ON|Arenas|||62.056074766355140|236.7500|10|10|204|10|True
+1365|15|Route 3|421|"COH - Stoney Creek Arena "|37 King St W|"Stoney Creek "|ON|Arenas|2.0000|21.0000|79.037800687285223|111.0000|2|2|122|20|True
+1343|15|Route 3|407|"COH - Stoney Creek Recreation Centre "|45 King St W|"Stoney Creek "|ON|Arenas|7.0000|68.0000|74.233128834355828|214.2500|0|0|168|20|True
+1349|15|Route 3|396|"COH - Westmount Recreation Centre "|35 Lynbrook Dr|"Hamilton "|ON|D2|79.0000|231.7500|78.800557880055788|231.7500|0|0|152|10|True
+1346|15|Route 3|417|"COH - Westoby - Olympic Arena "|70 Olympic Dr|"Dundas "|ON|Arenas||19.5000|83.584905660377358|77.5000|0|0|87|13|True
+74|15|Route 3|24|Comfort Inn Waterloo|190 Weber St N|Waterloo|ON|In vending area||51.5000|51.569506726457399|263.0000|3|3|216|25|True
+952|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|A-Wing Door 1 (Room 2A621)||4.5000|63.398692810457516|4.5000|0|0|112|7|True
+956|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|A-Wing Door 1 (Room 2A621)|2.0000|21.7500|85.477178423236514|21.7500|0|0|70|7|True
+931|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|A-Wing Lvl2 Door3||31.0000|71.452702702702702|168.5000|0|0|169|18|True
+932|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|A-Wing Lvl2 Door3|5.5000|44.7500|63.333333333333333|36.5000|0|0|109|7|True
+933|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|A-Wing Lvl2 Door3||4.5000|54.761904761904761|58.5000|0|0|57|14|True
+919|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|ATS Building - Student Lounge|||79.310344827586206|140.5000|0|0|121|14|True
+920|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|ATS Building - Student Lounge||5.5000|68.627450980392156|164.5000|0|0|96|14|True
+923|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|B-Wing Lvl2 Door 5||18.5000|86.944444444444444|111.2500|0|0|47|14|True
+924|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|B-Wing Lvl2 Door 5||58.0000|72.167832167832167|250.7500|1|1|199|14|True
+926|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|B-Wing Lvl2 Door 5 - Coke|15.5000|72.7500|81.481481481481481|173.7500|0|0|75|14|True
+980|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|B-Wing Lvl2 Door 5 - Dasani||20.2500|91.944444444444444|66.2500|0|0|29|14|True
+934|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|Condor Cafe|8.5000|50.0000|75.483870967741935|151.5000|0|0|150|14|True
+935|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|Condor Cafe||30.7500|76.158940397350993|72.2500|0|0|72|14|True
+940|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|Condor Cafe|4.5000|9.0000|45.500000000000000|13.5000|0|0|109|14|True
+941|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|Condor Cafe|5.5000|16.5000|72.666666666666666|67.0000|0|0|82|14|True
+929|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|E-Wing Lvl1 IT Service Desk|6.5000|25.7500|76.157407407407407|106.7500|0|0|103|14|True
+930|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|E-Wing Lvl1 IT Service Desk||5.5000|71.895424836601307|124.2500|0|0|86|18|True
+927|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|E-Wing Lvl2 Door 6|4.0000|35.0000|73.856209150326797|179.2500|0|0|168|14|True
+928|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|E-Wing Lvl2 Door 6 - Coke|8.2500|21.0000|66.987179487179487|92.7500|0|0|103|14|True
+1313|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|E-Wing Lvl2 Door 6 - Dasani||7.2500|80.272108843537414|36.2500|0|0|61|14|True
+954|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|Employee Services Building||2.7500|52.849740932642487|68.0000|0|0|91|42|True
+921|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|Recreation Center|2.2500|17.2500|51.328671328671328|547.2500|6|6|348|32|True
+943|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|Recreation Center|2.7500|13.7500|61.231884057971014|200.2500|0|0|107|32|True
+922|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|Recreation Center - Coke||5.5000|56.730769230769230|239.7500|0|0|135|32|True
+942|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|Recreation Center - Dasani||2.7500|72.448979591836734|137.2500|0|0|81|21|True
+936|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|Welcome Center|2.2500|8.7500|64.814814814814814|142.5000|1|1|95|25|True
+937|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|Welcome Center|4.5000|18.0000|52.941176470588235|207.5000|0|0|144|25|True
+938|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|Woodworking Center||2.2500|74.596774193548387|6.5000|0|0|63|14|True
+939|15|Route 3|297|Conestoga College - Doon|299 Doon Valley Dr|Kitchener|ON|Woodworking Center|||84.313725490196078|2.7500|0|0|48|14|True
+958|15|Route 3|299|Conestoga College - Doon Residence|99 Conestoga College Blvd|Kitchener|ON|Doon - Residence|4.2500|12.7500|88.275862068965517|12.7500|0|0|51|7|True
+959|15|Route 3|299|Conestoga College - Doon Residence|99 Conestoga College Blvd|Kitchener|ON|Doon - Residence||13.7500|85.000000000000000|11.0000|0|0|45|7|True
+912|15|Route 3|295|Conestoga College - Guelph|460 Speedvale Ave W|Guelph|ON|Cafeteria|||32.432432432432432|88.5000|17|17|122|32|True
+915|15|Route 3|295|Conestoga College - Guelph|460 Speedvale Ave W|Guelph|ON|Cafeteria|||49.000000000000000|293.0000|1|1|150|32|True
+913|15|Route 3|295|Conestoga College - Guelph|460 Speedvale Ave W|Guelph|ON|Cafeteria - Coke|||50.320512820512820|38.0000|0|0|77|32|True
+914|15|Route 3|295|Conestoga College - Guelph|460 Speedvale Ave W|Guelph|ON|Cafeteria - Dasani|||48.979591836734693|270.2500|0|0|150|32|True
+1336|15|Route 3|296|Conestoga College - Waterloo|108 University Ave|Waterloo|ON|2nd Floor Hallway|2.7500|2.7500|72.666666666666666|2.7500|0|0|82|7|True
+1335|15|Route 3|296|Conestoga College - Waterloo|108 University Ave|Waterloo|ON|3rd Floor Hallway|3.0000|3.0000|81.907894736842105|23.0000|0|0|55|18|True
+1337|15|Route 3|296|Conestoga College - Waterloo|108 University Ave|Waterloo|ON|4th Floor Hallway|||64.666666666666666|0.0000|0|0|106|7|True
+278|15|Route 3|296|Conestoga College - Waterloo|108 University Ave|Waterloo|ON|Main Hallway|||62.000000000000000|63.0000|0|0|76|18|True
+916|15|Route 3|296|Conestoga College - Waterloo|108 University Ave|Waterloo|ON|Main Hallway|8.5000|43.2500|85.474860335195530|40.7500|0|0|104|7|True
+917|15|Route 3|296|Conestoga College - Waterloo|108 University Ave|Waterloo|ON|Main Hallway||30.2500|81.770833333333333|27.2500|0|0|70|7|True
+918|15|Route 3|296|Conestoga College - Waterloo|108 University Ave|Waterloo|ON|Main Hallway|13.0000|51.7500|90.555555555555555|48.0000|0|0|34|7|True
+75|15|Route 3|26|CSC - Grand Valley Institution for Women|1575 Homer Watson Blvd.|Kitchener|ON|Visitor's Lounge|9.5000|86.5000|71.904761904761904|86.5000|1|1|177|7|True
+76|15|Route 3|114|CSC - Minimal Security Lounge|520 Manitou Drive|Kitchener|ON|Main Entrance|4.7500|21.2500|47.586206896551724|205.0000|9|9|154|39|True
+242|15|Route 3|114|CSC - Minimal Security Lounge|520 Manitou Drive|Kitchener|ON|Main Entrance|6.0000|21.0000|62.647058823529411|91.7500|0|0|127|39|True
+134|15|Route 3|27|Dahl Brothers Ltd.|2600 South Sheridan Way|Mississauga|ON|2/F Lunchroom||2.5000|66.562500000000000|41.0000|0|0|107|16|True
+53|15|Route 3|27|Dahl Brothers Ltd.|2600 South Sheridan Way|Mississauga|ON|2/F Lunchroom|||76.363636363636363|45.2500|2|2|39|16|True
+1244|15|Route 3|375|Ford Motor Company of Canada Limited|1 The Canadian Rd|Oakville|ON|"A03 Material Handling Offices "|2.5000|27.7500|66.312056737588652|39.0000|0|0|95|11|True
+1246|15|Route 3|375|Ford Motor Company of Canada Limited|1 The Canadian Rd|Oakville|ON|"A03 Material Handling Offices "|7.0000|54.0000|83.645655877342419|105.0000|0|0|96|11|True
+1142|15|Route 3|375|Ford Motor Company of Canada Limited|1 The Canadian Rd|Oakville|ON|"Body 1 Café "|17.5000|63.5000|69.310344827586206|109.0000|1|1|178|11|True
+1253|15|Route 3|375|Ford Motor Company of Canada Limited|1 The Canadian Rd|Oakville|ON|"Body 1 Café "|11.7500|58.7500|39.716312056737588|96.0000|2|2|170|11|True
+1305|15|Route 3|375|Ford Motor Company of Canada Limited|1 The Canadian Rd|Oakville|ON|Body 2 Cafe||11.0000|94.492254733218588|38.2500|0|0|32|11|True
+1306|15|Route 3|375|Ford Motor Company of Canada Limited|1 The Canadian Rd|Oakville|ON|Body 2 Cafe||4.5000|90.090090090090090|12.0000|0|0|43|11|True
+1252|15|Route 3|375|Ford Motor Company of Canada Limited|1 The Canadian Rd|Oakville|ON|E21 Flat Top|16.2500|55.0000|54.964539007092198|111.7500|0|0|127|11|True
+1242|15|Route 3|375|Ford Motor Company of Canada Limited|1 The Canadian Rd|Oakville|ON|Main Building Logistics Lunchroom||35.0000|79.588607594936708|63.0000|0|0|129|11|True
+1249|15|Route 3|375|Ford Motor Company of Canada Limited|1 The Canadian Rd|Oakville|ON|Main Building Logistics Lunchroom|6.7500|11.5000|80.851063829787234|36.5000|0|0|54|11|True
+1255|15|Route 3|375|Ford Motor Company of Canada Limited|1 The Canadian Rd|Oakville|ON|Main Building Logistics Lunchroom||9.2500|69.333333333333333|21.2500|0|0|92|11|True
+1245|15|Route 3|375|Ford Motor Company of Canada Limited|1 The Canadian Rd|Oakville|ON|Paint|2.5000|7.0000|58.510638297872340|109.0000|0|0|117|19|True
+1247|15|Route 3|375|Ford Motor Company of Canada Limited|1 The Canadian Rd|Oakville|ON|Paint|1.5000|28.0000|70.689655172413793|163.2500|1|1|170|19|True
+1251|15|Route 3|375|Ford Motor Company of Canada Limited|1 The Canadian Rd|Oakville|ON|Q31 Pre Delivery|6.7500|35.0000|61.702127659574468|148.0000|0|0|108|19|True
+1243|15|Route 3|375|Ford Motor Company of Canada Limited|1 The Canadian Rd|Oakville|ON|T1 Trim Chassis|||53.689167974882260|82.5000|6|6|99|11|True
+1250|15|Route 3|375|Ford Motor Company of Canada Limited|1 The Canadian Rd|Oakville|ON|T1 Trim Chassis|28.2500|106.0000|36.879432624113475|191.7500|1|1|178|11|True
+1256|15|Route 3|375|Ford Motor Company of Canada Limited|1 The Canadian Rd|Oakville|ON|T1 Trim Chassis|31.2500|110.7500|50.666666666666666|261.0000|0|0|148|11|True
+1293|15|Route 3|375|Ford Motor Company of Canada Limited|1 The Canadian Rd|Oakville|ON|T1 Trim Chassis|45.2500|192.2500|51.979345955249569|267.2500|3|3|279|11|True
+998|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|270 Longwood MARC-Main Cafe|4.0000|12.5000|60.816326530612244|337.5000|1|1|192|26|True
+1085|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|A.N Bournes Building - Hallway Rm 138|2.0000|4.0000|66.153846153846153|294.5000|1|1|198|26|True
+85|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|Burke Science|||87.244897959183673|12.0000|0|0|50|13|True
+1000|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|Chester Newhall-Basement||26.0000|82.272727272727272|53.0000|0|0|39|13|True
+80|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|David Brailey Gym - Exit, RBC Bank|6.0000|23.0000|66.836734693877551|158.0000|1|1|130|28|True
+1092|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|David Brailey Gym - Front Desk|||73.398328690807799|254.0000|1|1|191|28|True
+983|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|Hedden Hall-Main Floor|||82.196969696969696|48.0000|0|0|47|13|True
+1004|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|Information Technology (ITB) - Main Lobby|2.0000|4.5000|89.393939393939393|20.5000|0|0|28|13|True
+1091|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|Ivor Wynn - End of Main Hall|||73.955431754874651|282.0000|0|0|187|28|True
+1006|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|Les Prince Residence-Common Room|||90.975609756097560|21.0000|0|0|37|13|True
+13|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|Life Sciences - Basement Elevator||13.0000|86.637931034482758|22.5000|0|0|31|13|True
+986|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|Mary Keyes-Main Hallway|2.0000|12.0000|78.333333333333333|85.0000|0|0|130|13|True
+1083|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|Michael G Deroote - Back Cafe||7.5000|83.436532507739938|70.0000|0|0|107|13|True
+1090|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|Mills Memorial Library - 2/F||4.0000|81.476323119777158|214.5000|1|1|133|13|True
+1086|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|Moulten - Back Hallway|5.5000|27.0000|84.269662921348314|77.5000|1|1|65|13|True
+1084|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|Student Centre - 2nd Floor||7.0000|76.160990712074303|141.5000|0|0|154|13|True
+1082|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|Thode Library - Back Wall||8.5000|88.300835654596100|91.0000|0|0|84|13|True
+16|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|Widden Residence - Common Room|||75.568181818181818|41.5000|0|0|43|13|True
+1081|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|Wilson Building - Main Lobby||25.5000|80.501392757660167|86.0000|0|0|140|13|True
+995|15|Route 3|57|McMaster University|1280 Main Street West|Hamilton|ON|Woodstock Hall - Common Room|||84.680851063829787|89.5000|4|4|38|26|True
+461|15|Route 3|254|Shaw Satellite GP|2055 Flavelle Blvd.|Mississauga|ON|Cafeteria|||50.000000000000000|16.2500|2|2|25|32|True
+508|15|Route 3|254|Shaw Satellite GP|2055 Flavelle Blvd.|Mississauga|ON|Cafeteria|9.2500|39.2500|49.315068493150684|238.2500|9|9|185|24|True
+514|15|Route 3|254|Shaw Satellite GP|2055 Flavelle Blvd.|Mississauga|ON|Cafeteria|5.0000|18.7500|69.626168224299065|145.0000|0|0|76|32|True
+516|15|Route 3|254|Shaw Satellite GP|2055 Flavelle Blvd.|Mississauga|ON|Cafeteria||2.2500|79.166666666666666|69.2500|0|0|30|24|True
+509|15|Route 3|254|Shaw Satellite GP|2055 Flavelle Blvd.|Mississauga|ON|Downstairs Kitchenette|6.5000|58.7500|57.908163265306122|182.0000|5|5|165|13|True
+515|15|Route 3|254|Shaw Satellite GP|2055 Flavelle Blvd.|Mississauga|ON|Downstairs Kitchenette|1.5000|19.7500|57.038834951456310|134.5000|0|0|177|13|True
+106|15|Route 3|233|Stackpole International|2430 Royal Windsor Dr.|Mississauga|ON|Large Lunch Room|||73.170731707317073|10.0000|1|1|11|66|True
+67|15|Route 3|233|Stackpole International|2430 Royal Windsor Dr.|Mississauga|ON|Large Lunch Room|||74.600638977635782|113.2500|0|0|159|17|True
+431|15|Route 3|233|Stackpole International|2430 Royal Windsor Dr.|Mississauga|ON|Large Lunch Room|2.0000|8.0000|62.333333333333333|122.0000|0|0|113|17|True
+432|15|Route 3|233|Stackpole International|2430 Royal Windsor Dr.|Mississauga|ON|Large Lunch Room|2.0000|3.0000|56.950672645739910|105.5000|0|0|192|17|True
+430|15|Route 3|233|Stackpole International|2430 Royal Windsor Dr.|Mississauga|ON|Small Lunch Room||3.7500|78.723404255319148|44.2500|1|1|50|17|True
+433|15|Route 3|233|Stackpole International|2430 Royal Windsor Dr.|Mississauga|ON|Small Lunch Room|6.7500|8.7500|75.331564986737400|49.0000|0|0|95|17|True
+197|15|Route 3|93|Validus Research|187 King St S Suite 201|Waterloo|ON|In Lunch Area|||52.492211838006230|0.0000|2|2|305|5|True
+103|15|Route 3|109|Wave Sports Center|5065 Benson Dr.|Burlington|ON|Lobby - In Hallway||3.5000|90.416666666666666|0.0000|0|1|33|3|True
+105|15|Route 3|110|Wave Twin Rinks|1179 Northside Rd|Burlington|ON|Lobby (M6 near concession)|4.0000|32.5000|82.581648522550544|13.2500|0|0|112|3|True
+436|15|Route 3|110|Wave Twin Rinks|1179 Northside Rd|Burlington|ON|Lobby (Near office)|5.5000|78.7500|86.415094339622641|28.5000|0|0|72|3|True
+141|20|Route 4|112|AND Agency Inc.|1220 Sheppard Ave E Ste 100|Toronto|ON|G/F Kitchen|||80.808080808080808|26.5000|0|0|76|33|True
+54|20|Route 4|112|AND Agency Inc.|1220 Sheppard Ave E Ste 100|Toronto|ON|G/F Kitchen|||75.862068965517241|52.5000|2|2|76|29|True
+130|20|Route 4|12|BFG Enterprise Services|170 Travail Rd.|Markham|ON|In kitchen|6.5000|29.5000|53.317535545023696|142.5000|0|0|197|18|True
+69|20|Route 4|12|BFG Enterprise Services|170 Travail Rd.|Markham|ON|In kitchen||16.7500|60.526315789473684|165.5000|2|2|165|18|True
+810|20|Route 4|283|Centennial College - Ashtonbee Campus|75 Ashtonbee Rd|Scarborough|ON|Auto||8.2500|60.064935064935064|134.0000|0|0|123|18|True
+811|20|Route 4|283|Centennial College - Ashtonbee Campus|75 Ashtonbee Rd|Scarborough|ON|Cafe Coke|5.5000|27.5000|52.187500000000000|165.0000|0|0|153|18|True
+812|20|Route 4|283|Centennial College - Ashtonbee Campus|75 Ashtonbee Rd|Scarborough|ON|Cafe Dasani|5.0000|13.5000|81.597222222222222|75.2500|0|0|53|18|True
+813|20|Route 4|283|Centennial College - Ashtonbee Campus|75 Ashtonbee Rd|Scarborough|ON|Cafe Minute Maid|||80.921052631578947|58.0000|0|0|57|18|True
+816|20|Route 4|283|Centennial College - Ashtonbee Campus|75 Ashtonbee Rd|Scarborough|ON|Rm A129|7.5000|7.5000|71.381578947368421|91.7500|0|0|87|18|True
+814|20|Route 4|283|Centennial College - Ashtonbee Campus|75 Ashtonbee Rd|Scarborough|ON|Rm D 209|||75.816993464052287|40.2500|0|0|74|18|True
+815|20|Route 4|283|Centennial College - Ashtonbee Campus|75 Ashtonbee Rd|Scarborough|ON|Rm F 109|||61.184210526315789|40.2500|0|0|118|18|True
+817|20|Route 4|285|Centennial College - Morningside Campus|755 Morningside Ave|Scarborough|ON|Level 1 By Cafe Coke|||76.623376623376623|38.5000|0|0|72|18|True
+818|20|Route 4|285|Centennial College - Morningside Campus|755 Morningside Ave|Scarborough|ON|Level 1 By Cafe Dasani||3.2500|82.727272727272727|35.5000|0|0|38|18|True
+819|20|Route 4|285|Centennial College - Morningside Campus|755 Morningside Ave|Scarborough|ON|Level 1 Outside Washrm||2.7500|79.411764705882352|43.7500|0|0|63|18|True
+820|20|Route 4|285|Centennial College - Morningside Campus|755 Morningside Ave|Scarborough|ON|Level 2 Outside Washrm|5.0000|20.2500|68.831168831168831|98.5000|0|0|96|18|True
+821|20|Route 4|285|Centennial College - Morningside Campus|755 Morningside Ave|Scarborough|ON|Level 3 Outside Washrm|||78.896103896103896|65.2500|0|0|65|18|True
+822|20|Route 4|285|Centennial College - Morningside Campus|755 Morningside Ave|Scarborough|ON|Level 4 Outside Washrm|||79.738562091503267|34.5000|0|0|62|18|True
+825|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|A Block 2nd Fl Engineer Coke|||80.312500000000000|129.2500|0|0|63|32|True
+826|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|A Block 2nd Fl Engineer Dasani|||61.513157894736842|55.7500|0|0|42|35|True
+827|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|A Block 3rd Fl Elevator|2.7500|2.7500|74.342105263157894|12.7500|0|0|78|11|True
+823|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|A Block RM A123 Ship Rec||4.5000|82.565789473684210|15.5000|0|0|53|14|True
+824|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|A Block RM A161 Daycare|||77.597402597402597|2.7500|0|0|69|14|True
+828|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|Athletic Centre Change RM Coke|||78.481012658227848|29.5000|0|0|67|11|True
+829|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|Athletic Centre Change RM Dasa|||86.428571428571428|6.2500|0|0|38|11|True
+830|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|C Block 3rd Schl Of Bus Coke|||73.076923076923076|70.2500|0|0|84|73|True
+831|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|C Block 3rd Schl of Bus Dasani|||78.750000000000000|59.0000|0|0|51|14|True
+837|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|E block 2nd Fl Stairway Coke|||61.842105263157894|163.2500|1|1|116|35|True
+838|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|E Block 2nd Fl Stairway Dasani||3.2500|81.967213114754098|74.7500|0|0|44|26|True
+839|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|E Block 3rd Floor E3 22||2.2500|78.896103896103896|19.7500|0|0|65|14|True
+834|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|E Block Lecture Theatre RM E29|||89.375000000000000|0.0000|0|0|34|11|True
+835|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|E Block Lecture Theatre RM E29|||67.142857142857142|205.0000|0|0|22|26|True
+836|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|E Block Lecture Theatre RM E29|||88.175675675675675|185.0000|0|0|44|32|True
+845|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|Main Build 2nd Fl|||79.276315789473684|16.2500|0|0|63|14|True
+844|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|Main Build Lib Second Cup|2.7500|8.5000|74.836601307189542|53.5000|0|0|77|14|True
+977|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|Main Building Second Cup|||73.355263157894736|37.0000|0|0|47|11|True
+843|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|Main Building Second Cup|2.7500|8.2500|75.937500000000000|19.2500|0|0|76|11|True
+832|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|Main Cafe Security Coke|2.7500|30.0000|64.687500000000000|67.0000|0|0|113|11|True
+833|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|Main Cafe Security Dasani|||40.789473684210526|490.7500|2|2|40|14|True
+979|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|Main Cafeteria Coke|4.5000|23.7500|79.753086419753086|102.7500|0|0|81|11|True
+978|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|Main Cafeteria Dasani||18.0000|81.889763779527559|36.0000|0|0|66|14|True
+846|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|P Block Satir #4|||39.473684210526315|83.0000|1|1|72|35|True
+840|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|Student Hub 2nd Fl Main|||74.025974025974025|40.5000|0|0|80|11|True
+841|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|Student Hub Stairway #2 Coke|||75.000000000000000|19.2500|0|0|80|11|True
+842|20|Route 4|284|Centennial College - Progress Campus|941 Progress Ave|Scarborough|ON|Student Hub Stairway #2 Dasani||6.7500|68.092105263157894|62.5000|0|0|97|11|True
+848|20|Route 4|287|Centennial College - Progress Campus T-Block|940 Progress Ave|Scarborough|ON|Main Fl|||73.437500000000000|117.7500|0|0|85|21|True
+847|20|Route 4|287|Centennial College - Progress Campus T-Block|940 Progress Ave|Scarborough|ON|T Block|||87.987012987012987|13.7500|0|0|37|14|True
+851|20|Route 4|287|Centennial College - Progress Campus T-Block|940 Progress Ave|Scarborough|ON|T Block|||76.712328767123287|53.5000|0|0|49|11|True
+180|20|Route 4|135|Ceridian Canada Ltd. (Markham)|675 Cochrane Drive|Markham|ON|2/F Photocopier Area|||81.666666666666666|36.5000|0|0|121|4|True
+50|20|Route 4|135|Ceridian Canada Ltd. (Markham)|675 Cochrane Drive|Markham|ON|3/F Lunchroom||9.5000|94.166666666666666|18.0000|0|0|13|8|True
+127|20|Route 4|135|Ceridian Canada Ltd. (Markham)|675 Cochrane Drive|Markham|ON|3/F Lunchroom|||74.393939393939393|0.0000|0|0|169|4|True
+1380|20|Route 4|135|Ceridian Canada Ltd. (Markham)|675 Cochrane Drive|Markham|ON|6/F Lunchroom|||79.696969696969696|0.0000|0|0|134|4|True
+290|20|Route 4|130|Ceridian Dayforce|4110 Yonge Street Suite 604|Toronto|ON|4110 Yonge - Suite 400|||91.212121212121212|0.0000|0|0|58|0|True
+39|20|Route 4|130|Ceridian Dayforce|4110 Yonge Street Suite 604|Toronto|ON|4110 Yonge - Suite 400 - Small Kitchen|||8.571428571428571|0.0000|6|6|288|13|True
+289|20|Route 4|130|Ceridian Dayforce|4110 Yonge Street Suite 604|Toronto|ON|4110 Yonge - Suite 500 - In Kitchen|||88.333333333333333|0.0000|0|0|77|0|True
+1088|20|Route 4|130|Ceridian Dayforce|4110 Yonge Street Suite 604|Toronto|ON|4110 Yonge - Suite 604 - Cafe Area|||83.484848484848484|0.0000|0|0|109|0|True
+1154|20|Route 4|338|Cineplex - Empress Walk|5095 Yonge Street|North York|ON|Lobby|10.0000|111.5000|64.935064935064935|319.0000|0|0|108|4|False
+1119|20|Route 4|338|Cineplex - Empress Walk|5095 Yonge Street|North York|ON|Lobby|14.0000|170.0000|31.089743589743589|405.5000|0|0|215|4|False
+1128|20|Route 4|347|Cineplex - Markham|179 Enterprise Blvd|Markham|ON|Hallway - Coke||175.0000|78.125000000000000|105.0000|0|0|70|3|True
+1152|20|Route 4|347|Cineplex - Markham|179 Enterprise Blvd|Markham|ON|Hallway - Dasani|172.0000|677.5000|40.202702702702702|649.0000|0|0|173|3|True
+1132|20|Route 4|350|Cineplex - Oshawa|1351 Grandview Street North|Oshawa|ON|Lobby|5.0000|9.5000|58.116883116883116|108.5000|0|0|129|29|False
+1131|20|Route 4|349|Cineplex - Scarborough Eglinton Town|22 Lebovic Avenue|Toronto|ON|Lobby|4.5000|33.5000|76.973684210526315|0.0000|0|0|70|0|True
+1130|20|Route 4|349|Cineplex - Scarborough Eglinton Town|22 Lebovic Avenue|Toronto|ON|Theatres 1-8|14.5000|178.0000|80.592105263157894|0.0000|0|0|59|0|True
+1129|20|Route 4|348|Cineplex - Scarborough Morningside|785 Milner Avenue|Toronto|ON|Lobby||30.0000|72.368421052631578|10.0000|0|0|80|3|True
+1135|20|Route 4|351|Cineplex - Scarborough Town Centre|300 Borough Drive|Toronto|ON|2/F Balcony|243.5000|275.5000|69.256756756756756|0.0000|0|0|91|0|True
+1133|20|Route 4|351|Cineplex - Scarborough Town Centre|300 Borough Drive|Toronto|ON|Lobby - Coke|||68.037974683544303|0.0000|0|0|101|0|True
+1134|20|Route 4|351|Cineplex - Scarborough Town Centre|300 Borough Drive|Toronto|ON|Lobby - Dasani|68.5000|191.5000|92.123287671232876|0.0000|0|0|23|0|True
+1118|20|Route 4|337|Cineplex - SilverCity Fairview|1800 Sheppard Ave E|North York|ON|Lobby|39.0000|324.5000|60.389610389610389|291.5000|0|0|122|6|True
+1114|20|Route 4|335|Cineplex - SilverCity Richmond Hill|8725 Yonge St|Richmond Hill|ON|Lobby - Theatres 1-6|20.0000|135.5000|53.947368421052631|517.5000|0|0|140|5|False
+1115|20|Route 4|335|Cineplex - SilverCity Richmond Hill|8725 Yonge St|Richmond Hill|ON|Lobby - Theatres 7-14|10.0000|87.5000|65.131578947368421|294.5000|0|0|106|5|False
+49|20|Route 4|23|Comfort Inn Toronto Northeast|8330 Woodbine Ave.|Markham|ON|2/F||14.7500|73.513513513513513|89.2500|2|2|60|19|True
+73|20|Route 4|23|Comfort Inn Toronto Northeast|8330 Woodbine Ave.|Markham|ON|G/F|38.2500|132.7500|60.986547085201793|325.0000|0|1|261|19|True
+78|20|Route 4|31|Dynaplas|380 Passmore Avenue|Toronto|ON|Lunchroom|||59.800664451827242|120.2500|2|2|121|17|True
+139|20|Route 4|31|Dynaplas|380 Passmore Avenue|Toronto|ON|Lunchroom|||67.000000000000000|100.0000|0|0|165|17|True
+1340|20|Route 4|422|Holland Bloorview Kids Hospital|150 Kilgour Rd|East York|ON|3rd Floor|7.0000|64.5000|82.996632996632996|0.0000|1|1|101|0|True
+1354|20|Route 4|422|Holland Bloorview Kids Hospital|150 Kilgour Rd|East York|ON|3rd Floor|5.5000|58.0000|82.894736842105263|2.7500|0|0|52|0|True
+968|20|Route 4|422|Holland Bloorview Kids Hospital|150 Kilgour Rd|East York|ON|Main Cafe|4.5000|23.7500|75.757575757575757|43.7500|0|0|160|12|True
+975|20|Route 4|422|Holland Bloorview Kids Hospital|150 Kilgour Rd|East York|ON|Main Cafe||27.2500|69.666666666666666|55.7500|0|0|91|12|True
+1248|20|Route 4|422|Holland Bloorview Kids Hospital|150 Kilgour Rd|East York|ON|Main Cafe||30.0000|52.542372881355932|0.0000|1|1|33|0|True
+1341|20|Route 4|422|Holland Bloorview Kids Hospital|150 Kilgour Rd|East York|ON|Main Cafe|14.5000|67.5000|94.781144781144781|0.0000|1|1|31|0|True
+1355|20|Route 4|422|Holland Bloorview Kids Hospital|150 Kilgour Rd|East York|ON|Main Cafe|1.2500|7.5000||0.0000|||0|0|True
+1358|20|Route 4|422|Holland Bloorview Kids Hospital|150 Kilgour Rd|East York|ON|Main Cafe|8.2500|28.0000|76.973684210526315|0.0000|0|0|70|0|True
+518|20|Route 4|258|Huawei Technologies Co. Ltd|19 Allstate Pkwy, Suite 300|Markham|ON|In Cafeteria||6.2500|63.250000000000000|77.7500|2|2|158|17|True
+7|20|Route 4|193|Imagine Communications (Toronto)|25 Dyas Road|Toronto|ON|In Cafeteria|1.5000|9.0000|77.215189873417721|37.5000|1|1|36|8|True
+908|20|Route 4|193|Imagine Communications (Toronto)|25 Dyas Road|Toronto|ON|In Cafeteria|3.7500|19.2500|66.455696202531645|33.2500|0|0|106|8|True
+147|20|Route 4|45|Innovative Vision Marketing|515 Consumers Road 6/F|Toronto|ON|6/F Lunchroom|10.7500|73.5000|46.014492753623188|134.2500|1|1|149|9|True
+24|20|Route 4|45|Innovative Vision Marketing|515 Consumers Road 6/F|Toronto|ON|6/F Lunchroom||||0.0000|||0|17|True
+81|20|Route 4|45|Innovative Vision Marketing|515 Consumers Road 6/F|Toronto|ON|6/F Lunchroom|9.2500|33.5000|58.430232558139534|132.5000|5|5|147|9|True
+126|20|Route 4|142|International Centre for EAP|4 Lansing Square Suite 100|Toronto|ON|Staff Lunchroom|||74.626865671641791|0.0000|0|0|68|8|True
+83|20|Route 4|142|International Centre for EAP|4 Lansing Square Suite 100|Toronto|ON|Staff Lunchroom|1.5000|3.0000|82.084690553745928|4.5000|0|0|55|8|True
+215|20|Route 4|39|Knights Inn Toronto East|22 Metropolitan Road|Toronto|ON|2/F - Secured access area|5.0000|17.5000|78.723404255319148|69.2500|0|0|50|13|True
+144|20|Route 4|39|Knights Inn Toronto East|22 Metropolitan Road|Toronto|ON|G/F|12.5000|48.2500|63.939393939393939|105.0000|1|1|119|13|True
+145|20|Route 4|39|Knights Inn Toronto East|22 Metropolitan Road|Toronto|ON|G/F - by laundry room|20.5000|83.2500|47.232472324723247|180.0000|1|1|143|13|True
+220|20|Route 4|54|Mallpaks Inc.|500 Sheppard Ave E|Toronto|ON|G/F Lobby|||49.545454545454545|54.0000|1|1|133|35|True
+333|20|Route 4|384|"Office Exec "|25 Sheppard Ave W|North York|ON|3F lunchroom|7.7500|19.7500|67.229729729729729|93.5000|2|2|97|19|True
+1303|20|Route 4|384|"Office Exec "|25 Sheppard Ave W|North York|ON|3F lunchroom|2.2500|6.7500|71.487603305785123|40.7500|0|0|69|19|True
+1048|20|Route 4|318|Oshawa - Children's Arena|155 Arena Street|Oshawa|ON|Front Lobby|||0.000000000000000|184.5000|8|8|296|12|True
+1049|20|Route 4|319|Oshawa - City Hall|50 Centre Street South|Oshawa|ON|3/F Staff Room||6.0000|78.663793103448275|102.0000|0|0|99|40|True
+1062|20|Route 4|323|Oshawa - Civic Recreation Complex|99 Thornton Rd S|Oshawa|ON|Entrance - Coke|||38.125000000000000|146.7500|2|2|142|7|True
+1064|20|Route 4|323|Oshawa - Civic Recreation Complex|99 Thornton Rd S|Oshawa|ON|Entrance - Dasani|5.5000|38.5000|85.416666666666666|38.5000|0|0|41|7|True
+1063|20|Route 4|323|Oshawa - Civic Recreation Complex|99 Thornton Rd S|Oshawa|ON|Entrance - Healthy||2.2500|31.250000000000000|150.5000|1|1|152|7|True
+1045|20|Route 4|317|Oshawa - Donevan Complex|171 Harmony Road South|Oshawa|ON|Downstairs - Coke|5.5000|40.5000|59.615384615384615|270.5000|0|0|126|20|True
+1044|20|Route 4|317|Oshawa - Donevan Complex|171 Harmony Road South|Oshawa|ON|Downstairs - Healthy|||77.500000000000000|13.7500|0|0|63|20|True
+1046|20|Route 4|317|Oshawa - Donevan Complex|171 Harmony Road South|Oshawa|ON|Upstairs - Coke|2.5000|41.0000|57.500000000000000|208.2500|0|0|136|20|True
+1047|20|Route 4|317|Oshawa - Donevan Complex|171 Harmony Road South|Oshawa|ON|Upstairs - Healthy|7.7500|46.5000|57.638888888888888|234.0000|0|0|122|20|True
+1053|20|Route 4|320|Oshawa - Harman Park Arena|829 Douglas St|Oshawa|ON|2/F Viewing Area||21.0000|66.883116883116883|21.0000|0|0|102|7|True
+1052|20|Route 4|320|Oshawa - Harman Park Arena|829 Douglas St|Oshawa|ON|G/F North Pad Entrance||18.5000|64.189189189189189|13.5000|0|0|106|7|True
+1040|20|Route 4|316|Oshawa - Legends Centre|1661 Harmony Rd N|Oshawa|ON|HW North End|37.5000|297.5000|56.849315068493150|260.5000|0|0|126|7|True
+1041|20|Route 4|316|Oshawa - Legends Centre|1661 Harmony Rd N|Oshawa|ON|HW South End|22.7500|73.5000|66.333333333333333|162.5000|0|0|101|13|True
+1039|20|Route 4|316|Oshawa - Legends Centre|1661 Harmony Rd N|Oshawa|ON|North End|5.0000|20.0000|72.812500000000000|32.5000|0|0|87|13|True
+1038|20|Route 4|316|Oshawa - Legends Centre|1661 Harmony Rd N|Oshawa|ON|North End|||92.857142857142857|5.5000|0|0|18|13|True
+1042|20|Route 4|316|Oshawa - Legends Centre|1661 Harmony Rd N|Oshawa|ON|North End|5.0000|95.5000|72.222222222222222|95.5000|0|0|80|7|True
+1037|20|Route 4|316|Oshawa - Legends Centre|1661 Harmony Rd N|Oshawa|ON|South End|20.0000|120.0000|36.250000000000000|112.5000|2|2|204|7|True
+1043|20|Route 4|316|Oshawa - Legends Centre|1661 Harmony Rd N|Oshawa|ON|South End|5.5000|80.2500|76.785714285714285|80.2500|0|0|65|7|True
+1080|20|Route 4|325|Oshawa - Northview Community Centre|150 Beatrice St E|Oshawa|ON|Main Lobby|2.2500|2.2500|77.640845070422535|114.7500|0|0|127|40|True
+1054|20|Route 4|321|Oshawa - South Oshawa Community Center|1455 Cedar St|Oshawa|ON|G/F|||78.378378378378378|72.2500|0|0|64|7|True
+1055|20|Route 4|321|Oshawa - South Oshawa Community Center|1455 Cedar St|Oshawa|ON|G/F|||89.236111111111111|21.2500|0|0|31|7|True
+1056|20|Route 4|321|Oshawa - South Oshawa Community Center|1455 Cedar St|Oshawa|ON|G/F|||33.125000000000000|220.0000|1|1|214|7|True
+1057|20|Route 4|322|Oshawa - Tribute Communities Center|99 Athol St E|Oshawa|ON|Basement Level - By Entrance|11.2500|15.2500|70.937500000000000|15.2500|0|0|93|7|True
+1058|20|Route 4|322|Oshawa - Tribute Communities Center|99 Athol St E|Oshawa|ON|Basement Level - By Entrance - Dasani|18.0000|40.7500|67.808219178082191|161.5000|0|0|94|20|True
+1061|20|Route 4|322|Oshawa - Tribute Communities Center|99 Athol St E|Oshawa|ON|Rink 2 - Coke|2.2500|17.5000|69.722222222222222|136.0000|0|0|109|34|True
+1060|20|Route 4|322|Oshawa - Tribute Communities Center|99 Athol St E|Oshawa|ON|Rink 2 - Powerade|7.5000|25.2500|69.117647058823529|143.2500|0|0|105|27|True
+966|20|Route 4|302|Reptilia - Whitby|1400 Victoria St E|Whitby|ON|Back of Zoo|42.0000|126.5000|74.363636363636363|133.0000|1|1|141|13|True
+971|20|Route 4|302|Reptilia - Whitby|1400 Victoria St E|Whitby|ON|Back of Zoo|31.2500|165.2500|56.462585034013605|189.2500|0|0|128|13|True
+972|20|Route 4|302|Reptilia - Whitby|1400 Victoria St E|Whitby|ON|Back of Zoo|23.5000|71.0000|52.500000000000000|88.0000|0|0|133|13|True
+967|20|Route 4|302|Reptilia - Whitby|1400 Victoria St E|Whitby|ON|Front Entrance|17.0000|44.5000|79.272727272727272|155.5000|0|0|114|34|True
+970|20|Route 4|302|Reptilia - Whitby|1400 Victoria St E|Whitby|ON|Front Entrance|24.0000|131.5000|49.850746268656716|162.0000|1|1|168|13|True
+1156|20|Route 4|361|Seneca - Markham|8 The Seneca Way|Markham|ON|6th Floor|||79.251700680272108|107.5000|0|0|61|33|True
+1157|20|Route 4|361|Seneca - Markham|8 The Seneca Way|Markham|ON|Basement Cafeteria||13.5000|66.438356164383561|19.0000|0|0|98|12|True
+1177|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|2nd Floor B entrance Coke|2.7500|64.5000|0.000000000000000|0.0000|8|8|278|0|True
+1174|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|2nd Floor bridge, Room E2401|2.7500|8.2500|79.941860465116279|97.5000|0|0|69|21|True
+1158|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|2nd Floor C Building, TTC Entrance||33.7500|41.776315789473684|146.5000|1|1|172|21|True
+1175|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|2nd floor information desk, D entrance VW||||0.0000|0|0|0|13|True
+1183|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|3F Staircase, room A3557 Coke|2.7500|6.7500|46.710526315789473|0.0000|3|3|166|0|True
+1163|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|3rd Floor A building, Subway Coke|||64.935064935064935|0.0000|1|1|108|0|True
+1164|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|3rd Floor A building, Tim Hortons||62.2500|50.287356321839080|439.5000|1|1|172|21|True
+1159|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|3rd Floor C building North Stairwell|||88.636363636363636|8.0000|0|0|52|21|True
+1166|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|3rd Floor D Building, Tim Hortons||15.5000|65.897435897435897|315.5000|0|0|133|21|True
+1180|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|4F staircase, room A4508 Coke||2.7500|65.827338129496402|0.0000|3|3|125|0|True
+1161|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|4th Floor A building , Room_A4056||2.7500|61.073825503355704|210.7500|1|1|116|31|True
+1160|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|4th Floor A Building, Room 4056||3.0000|53.819444444444444|172.7500|1|1|133|27|True
+1165|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|4th Floor Room B4064|||67.500000000000000|134.2500|0|0|116|19|True
+1268|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|Athletics Entrance Dasani|22.5000|51.0000|61.486486486486486|177.2500|0|0|113|27|True
+1188|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|Cafeteria Coke|||20.129870129870129|613.5000|3|4|69|27|True
+1325|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|K Building 1st Fl #1|2.7500|8.2500|51.875000000000000|278.7500|0|0|154|31|True
+1327|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|K Building 1st FL #2||4.0000|77.027027027027027|97.0000|0|0|68|21|True
+1324|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|K Building 2nd FL||19.7500|47.697368421052631|340.0000|0|0|159|36|True
+1326|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|"K Building 3rd FL #1 "||6.7500|65.625000000000000|193.7500|0|0|110|21|True
+1328|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|K Building 3rd Floor #2||4.0000|73.648648648648648|139.0000|0|0|78|21|True
+1172|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|Student Center Coke|8.2500|42.5000|53.437500000000000|349.2500|1|1|147|27|True
+1171|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|Student Center VW|4.0000|27.7500|59.539473684210526|345.0000|0|0|122|31|True
+1185|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|Tim Hortons Bookstore lower level Coke||||0.0000|0|0|0|14|True
+1187|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|Tim Hortons Bookstore lower level Refresh||||0.0000|0|0|0|14|True
+1186|20|Route 4|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|Tim Hortons Bookstore lower level_Dasani||||14.0000|0|0|0|14|True
+124|20|Route 4|132|TELUS Health North|120 Commerce Valley Drive East|Thornhill|ON|In Office|||47.083333333333333|43.5000|0|0|127|96|True
+224|20|Route 4|99|TELUS House - 200 Consilium|200 Consilium Place|Toronto|ON|2/F|1.2500|10.0000|54.509803921568627|7.5000|0|0|116|6|True
+92|20|Route 4|99|TELUS House - 200 Consilium|200 Consilium Place|Toronto|ON|2/F|4.0000|21.0000|88.372093023255813|19.5000|0|0|20|6|True
+209|20|Route 4|106|Toronto Rehabilitation Institute - Lyndhurst Ctr|520 Sutherland Drive|Toronto|ON|Inside Cafeteria|8.2500|66.0000|90.000000000000000|0.0000|0|0|18|0|True
+122|20|Route 4|106|Toronto Rehabilitation Institute - Lyndhurst Ctr|520 Sutherland Drive|Toronto|ON|Inside Cafeteria|10.0000|110.7500|81.437125748502994|4.0000|1|1|93|0|True
+239|20|Route 4|106|Toronto Rehabilitation Institute - Lyndhurst Ctr|520 Sutherland Drive|Toronto|ON|Inside Cafeteria|5.7500|22.2500|71.666666666666666|0.0000|0|0|85|0|True
+240|20|Route 4|127|Toronto Rehabilitation Institute - Rumsey Center|345 Rumsey Rd|Toronto|ON|In Corridor - Cardiac|||81.818181818181818|14.7500|0|0|20|16|True
+195|20|Route 4|127|Toronto Rehabilitation Institute - Rumsey Center|345 Rumsey Rd|Toronto|ON|In Corridor - Neuro|||41.304347826086956|64.2500|3|3|139|16|True
+1140|20|Route 4|358|Toronto-Dominion Bank - Progress|740 Progress Avenue|Scarborough|ON|3/F Lunchroom|5.5000|45.5000|80.976430976430976|35.0000|0|0|113|6|True
+1144|20|Route 4|358|Toronto-Dominion Bank - Progress|740 Progress Avenue|Scarborough|ON|3/F Lunchroom|9.2500|66.0000|61.000000000000000|50.2500|1|1|117|6|True
+101|20|Route 4|91|Tyndale University College and Seminary|3377 Bayview Ave|Toronto|ON|Basement Library||3.0000|57.605985037406483|176.5000|3|3|170|31|True
+100|20|Route 4|91|Tyndale University College and Seminary|3377 Bayview Ave|Toronto|ON|Lounge Right of Chapel|||62.871287128712871|188.2500|3|3|150|31|True
+427|20|Route 4|91|Tyndale University College and Seminary|3377 Bayview Ave|Toronto|ON|Residence||1.5000|58.800000000000000|117.5000|3|3|103|31|True
+198|20|Route 4|94|Vexos|195 Royal Crest Court|Markham|ON|Lunchroom||8.7500|61.111111111111111|81.2500|0|0|182|17|True
+102|20|Route 4|94|Vexos|195 Royal Crest Court|Markham|ON|Lunchroom|||67.613636363636363|66.0000|5|5|60|17|True
+1029|28|Route 5|315|Air Canada - Britannia (Cargo)|2580 Britannia Road E|Mississauga|ON|1/F Cargo|4.0000|89.2500|72.007722007722007|1.2500|1|1|145|0|True
+1030|28|Route 5|315|Air Canada - Britannia (Cargo)|2580 Britannia Road E|Mississauga|ON|1/F Cargo|26.2500|267.0000|67.519685039370078|12.5000|0|0|165|0|True
+1008|28|Route 5|309|Air Canada - Britannia (GSE)|2570 Britannia Rd E|Mississauga|ON|GSE/EMB 2F Lunchroom|4.2500|17.7500|61.875000000000000|165.5000|0|0|122|42|True
+1031|28|Route 5|309|Air Canada - Britannia (GSE)|2570 Britannia Rd E|Mississauga|ON|GSE/EMB 2F Lunchroom|7.5000|14.5000|58.203125000000000|47.5000|3|3|109|24|True
+1285|28|Route 5|311|Air Canada - Cabin Services|3111 Convair Dr|Mississauga|ON|1/F Lunchroom|2.0000|8.0000|79.687500000000000|64.0000|3|3|39|19|True
+1286|28|Route 5|311|Air Canada - Cabin Services|3111 Convair Dr|Mississauga|ON|1/F Lunchroom|2.0000|6.5000|54.385964912280701|84.5000|0|0|104|19|True
+988|28|Route 5|311|Air Canada - Cabin Services|3111 Convair Dr|Mississauga|ON|Cabin Services|2.5000|40.0000|69.127516778523489|95.2500|0|0|92|19|True
+1005|28|Route 5|311|Air Canada - Cabin Services|3111 Convair Dr|Mississauga|ON|Cabin Services|14.5000|112.5000|38.020833333333333|399.2500|0|0|357|19|True
+1035|28|Route 5|311|Air Canada - Cabin Services|3111 Convair Dr|Mississauga|ON|Cabin Services|21.0000|109.5000|61.502347417840375|187.5000|4|4|164|19|True
+640|28|Route 5|308|Air Canada - Operations Center|99 Ironbridge Rd|brampton|ON|2/F SW Side Lunchroom|15.0000|130.5000|87.102803738317757|1.5000|1|1|69|0|True
+697|28|Route 5|308|Air Canada - Operations Center|99 Ironbridge Rd|brampton|ON|2/F SW Side Lunchroom|5.0000|81.0000|81.045751633986928|0.0000|0|0|58|0|True
+1025|28|Route 5|308|Air Canada - Operations Center|99 Ironbridge Rd|brampton|ON|Main Lobby|11.5000|92.7500|80.805687203791469|0.0000|1|1|81|0|True
+1026|28|Route 5|308|Air Canada - Operations Center|99 Ironbridge Rd|brampton|ON|Main Lobby|7.5000|77.0000|82.286634460547504|2.5000|0|0|110|0|True
+1027|28|Route 5|308|Air Canada - Operations Center|99 Ironbridge Rd|brampton|ON|Main Lobby|14.7500|31.7500|55.000000000000000|0.0000|0|0|36|0|True
+1033|28|Route 5|310|Air Canada - Training Facility|3015 Convair Dr|Mississauga|ON|GF Training Facility||5.5000|78.906250000000000|9.0000|0|0|56|10|True
+1034|28|Route 5|310|Air Canada - Training Facility|3015 Convair Dr|Mississauga|ON|GF Training Facility|1.2500|7.5000|83.110367892976588|11.2500|0|0|101|10|True
+989|28|Route 5|314|Air Canada/CAE - Logistics Dr. Training Center|2025 Logistics Dr.|Mississauga|ON|Air Canada - Cafe Area|20.7500|142.2500|73.666666666666666|7.7500|1|1|158|0|True
+1023|28|Route 5|314|Air Canada/CAE - Logistics Dr. Training Center|2025 Logistics Dr.|Mississauga|ON|Air Canada - Cafe Area|9.0000|35.0000|87.434554973821989|5.2500|0|0|72|0|True
+1024|28|Route 5|314|Air Canada/CAE - Logistics Dr. Training Center|2025 Logistics Dr.|Mississauga|ON|Air Canada - Cafe Area|3.0000|20.7500|89.310344827586206|1.5000|0|0|31|0|True
+1028|28|Route 5|314|Air Canada/CAE - Logistics Dr. Training Center|2025 Logistics Dr.|Mississauga|ON|Air Canada - Cafe Area|||188.235294117647058|8.5000|3|3|6|0|True
+1002|28|Route 5|314|Air Canada/CAE - Logistics Dr. Training Center|2025 Logistics Dr.|Mississauga|ON|CAE - Cafe Area|||83.272727272727272|0.0000|0|0|92|10|True
+1003|28|Route 5|314|Air Canada/CAE - Logistics Dr. Training Center|2025 Logistics Dr.|Mississauga|ON|CAE - Cafe Area|3.0000|21.2500|72.406639004149377|39.0000|0|0|133|10|True
+1339|28|Route 5|423|Amazon Flex - Etobicoke (DTO3)|77 Belfield Road|Etobicoke|ON|Lunchroom|27.2500|192.5000|79.966329966329966|0.0000|0|0|119|0|True
+1353|28|Route 5|423|Amazon Flex - Etobicoke (DTO3)|77 Belfield Road|Etobicoke|ON|Lunchroom|8.0000|113.7500|66.776315789473684|0.0000|0|0|101|0|True
+656|28|Route 5|376|Billy Bishop Toronto City Airport|2 Eireann Quay|Toronto|ON|By Railing|50.0000|330.2500|60.060060060060060|225.2500|0|0|266|6|True
+1001|28|Route 5|376|Billy Bishop Toronto City Airport|2 Eireann Quay|Toronto|ON|By Railing|60.5000|292.5000|48.039215686274509|222.0000|0|0|159|6|True
+1019|28|Route 5|376|Billy Bishop Toronto City Airport|2 Eireann Quay|Toronto|ON|By Seat|8.0000|107.2500|69.655172413793103|93.2500|0|0|88|6|True
+1258|28|Route 5|376|Billy Bishop Toronto City Airport|2 Eireann Quay|Toronto|ON|By Seat|4.7500|61.0000|42.307692307692307|61.0000|2|15|45|6|True
+451|28|Route 5|240|Birmingham International College of Canada|90 Eglinton Avenue West 2/F|Toronto|ON|In School||4.0000|77.176470588235294|34.0000|2|2|97|7|True
+456|28|Route 5|240|Birmingham International College of Canada|90 Eglinton Avenue West 2/F|Toronto|ON|In School||12.7500|72.357723577235772|176.0000|0|0|102|7|True
+428|28|Route 5|269|BMO Bank of Montreal (Mississauga)|2465 Argentia Rd|Mississauga|ON|3/F Lunchroom|10.7500|78.2500|62.117647058823529|291.0000|2|2|161|25|True
+670|28|Route 5|269|BMO Bank of Montreal (Mississauga)|2465 Argentia Rd|Mississauga|ON|3/F Lunchroom|||73.571428571428571|43.5000|0|0|74|54|True
+418|28|Route 5|269|BMO Bank of Montreal (Mississauga)|2465 Argentia Rd|Mississauga|ON|4/F Lunchroom||25.0000|48.425196850393700|228.0000|8|8|131|25|True
+395|28|Route 5|269|BMO Bank of Montreal (Mississauga)|2465 Argentia Rd|Mississauga|ON|7/F Lunchroom|6.7500|64.7500|37.288135593220338|247.7500|9|9|148|25|True
+671|28|Route 5|269|BMO Bank of Montreal (Mississauga)|2465 Argentia Rd|Mississauga|ON|8/F Lunchroom|5.0000|12.5000|55.681818181818181|146.5000|2|2|117|38|True
+698|28|Route 5|269|BMO Bank of Montreal (Mississauga)|2465 Argentia Rd|Mississauga|ON|9/F Lunchroom|3.0000|30.5000|63.851351351351351|131.2500|0|0|107|25|True
+52|28|Route 5|139|Ceridian Canada Ltd. (Mississauga)|5600 Explorer Drive|Mississauga|ON|4F Kitchen||5.0000|85.135135135135135|5.0000|1|1|12|6|True
+294|28|Route 5|139|Ceridian Canada Ltd. (Mississauga)|5600 Explorer Drive|Mississauga|ON|4F Kitchen|||41.060606060606060|0.0000|2|3|389|6|True
+496|28|Route 5|253|CIBC Mellon - Mississauga|55 Standish Court|Mississauga|ON|12th Floor|||62.500000000000000|57.5000|1|1|90|38|True
+495|28|Route 5|253|CIBC Mellon - Mississauga|55 Standish Court|Mississauga|ON|5th Floor|||51.666666666666666|99.5000|1|1|116|26|True
+133|28|Route 5|20|CIMT College - Mississauga|7200 Goreway Dr|Mississauga|ON|3rd Floor Lunchroom|||35.555555555555555|117.0000|0|0|203|17|True
+1108|28|Route 5|332|Cineplex - Courtney Park|110 Courtney Park Drive East|Mississauga|ON|Theatres 11-15||10.0000|70.454545454545454|163.0000|0|0|91|21|True
+1109|28|Route 5|332|Cineplex - Courtney Park|110 Courtney Park Drive East|Mississauga|ON|Theatres 2-6|9.5000|129.0000|49.675324675324675|387.0000|0|0|155|21|True
+1110|28|Route 5|333|Cineplex - Mississauga|309 Rathburn Road West|Mississauga|ON|2/F Balcony Area|18.5000|135.5000|45.666666666666666|540.0000|1|1|163|26|True
+1304|28|Route 5|333|Cineplex - Mississauga|309 Rathburn Road West|Mississauga|ON|"By IMAX Theater "|19.0000|163.0000|59.333333333333333|570.5000|0|0|122|26|True
+1111|28|Route 5|333|Cineplex - Mississauga|309 Rathburn Road West|Mississauga|ON|Lobby|||71.388888888888888|350.5000|0|0|52|17|True
+1101|28|Route 5|330|Cineplex - Queensway|1025 The Queensway|Toronto|ON|Lobby|42.5000|184.5000|49.000000000000000|487.0000|0|0|153|34|True
+1113|28|Route 5|334|Cineplex - SilverCity Brampton|50 Great Lakes Drive|Brampton|ON|Lobby|24.0000|194.0000|42.857142857142857|540.0000|1|1|176|8|False
+1112|28|Route 5|334|Cineplex - SilverCity Brampton|50 Great Lakes Drive|Brampton|ON|Lobby|10.0000|132.0000|53.472222222222222|296.5000|0|0|134|8|False
+1153|28|Route 5|326|Cineplex - SilverCity Yonge-Eglinton|2300 Yonge St|Toronto|ON|Lobby|33.0000|132.0000|62.337662337662337|347.0000|0|0|115|27|True
+1094|28|Route 5|326|Cineplex - SilverCity Yonge-Eglinton|2300 Yonge St|Toronto|ON|Lobby|33.0000|208.0000|57.142857142857142|431.5000|0|0|132|27|True
+296|28|Route 5|128|Desjardins Financial Security|95 St. Clair Ave W 7/F|Toronto|ON|G/F Cafeteria|||76.131687242798353|23.5000|0|0|58|29|True
+214|28|Route 5|29|Dicom Transportation Group Canada|300 Biscayne Crescent|Brampton|ON|In kitchen|3.7500|19.0000|80.571428571428571|0.0000|0|0|68|0|True
+77|28|Route 5|29|Dicom Transportation Group Canada|300 Biscayne Crescent|Brampton|ON|In kitchen|5.2500|55.2500|85.918854415274463|3.7500|0|0|59|0|True
+135|28|Route 5|29|Dicom Transportation Group Canada|300 Biscayne Crescent|Brampton|ON|In kitchen|1.2500|41.5000|87.837837837837837|1.2500|0|0|54|0|True
+385|28|Route 5|161|DPCDSB - Cardinal Ambrozic SS|10 Castle Oaks Crossing|Brampton|ON|In School|||80.000000000000000|46.0000|2|3|85|21|True
+386|28|Route 5|195|DPCDSB - Our Lady of Mt. Carmel SS|3700 Trelawny Circle,|Mississauga|ON|In School|||41.882352941176470|358.0000|3|11|247|26|True
+384|28|Route 5|172|DPCDSB - St. Augustine SS|27 Drinkwater Road,|Brampton|ON|In School|||72.235294117647058|142.0000|1|3|118|21|True
+387|28|Route 5|196|DPCDSB - St. Michael SS|9130 Columbia Way|Bolton|ON|In School|||55.294117647058823|62.0000|1|6|190|56|True
+530|28|Route 5|274|Ericsson Canada|2425 Matheson Boulevard East #200|Mississauga|ON|Lunchroom|2.2500|8.7500|76.721311475409836|97.5000|0|0|74|28|True
+679|28|Route 5|274|Ericsson Canada|2425 Matheson Boulevard East #200|Mississauga|ON|Lunchroom|5.0000|12.5000|73.469387755102040|55.2500|0|0|78|28|True
+1228|28|Route 5|365|George Brown College - Casa Loma Campus|160 Kendal Ave|Toronto|ON|3rd Floor, RM D309|||56.363636363636363|0.0000|0|0|96|11|True
+1227|28|Route 5|365|George Brown College - Casa Loma Campus|160 Kendal Ave|Toronto|ON|4th Floor RM 418 Dasani|||65.540540540540540|102.2500|0|0|75|11|True
+1226|28|Route 5|365|George Brown College - Casa Loma Campus|160 Kendal Ave|Toronto|ON|4th Floor Room 418 Coke|||81.250000000000000|14.2500|0|0|60|11|True
+1222|28|Route 5|365|George Brown College - Casa Loma Campus|160 Kendal Ave|Toronto|ON|Gymnasium/C114 Bottom Floor Near Subway|||86.458333333333333|146.0000|0|0|39|27|True
+1224|28|Route 5|365|George Brown College - Casa Loma Campus|160 Kendal Ave|Toronto|ON|Main Cafeteria Coke||9.7500|62.500000000000000|32.5000|1|1|120|11|True
+1225|28|Route 5|365|George Brown College - Casa Loma Campus|160 Kendal Ave|Toronto|ON|Main Cafeteria Dasani|||62.171052631578947|368.0000|0|0|115|11|True
+1382|28|Route 5|365|George Brown College - Casa Loma Campus|160 Kendal Ave|Toronto|ON|Main Cafeteria Monster|||33.552631578947368|364.5000|4|4|202|11|True
+200|28|Route 5|40|Howard Johnson Toronto Lakeshore|14 Roncesvalles Avenue|Toronto|ON|In lobby|2.2500|4.5000|44.604316546762589|192.2500|2|2|154|27|True
+121|28|Route 5|40|Howard Johnson Toronto Lakeshore|14 Roncesvalles Avenue|Toronto|ON|In lobby|||53.333333333333333|62.5000|10|12|62|27|True
+865|28|Route 5|291|Humber College - Carrier Dr.|110 Carrier Dr|Etobicoke|ON|Hallway|||44.086021505376344|352.0000|0|0|208|33|True
+864|28|Route 5|291|Humber College - Carrier Dr.|110 Carrier Dr|Etobicoke|ON|Hallway||4.5000|55.128205128205128|245.7500|0|0|138|33|True
+871|28|Route 5|290|Humber College - Lakeshore Campus|2 Colonel Samuel Smith Park Dr|Etobicoke|ON|21 Col Samuel Smith Dr - F Bldg - Basement|||14.358974358974358|112.2500|3|3|167|21|True
+867|28|Route 5|290|Humber College - Lakeshore Campus|2 Colonel Samuel Smith Park Dr|Etobicoke|ON|21Col Sam Smith Dr  G Bldg 1st Fl kitchen G102|||73.717948717948717|47.2500|0|0|82|35|True
+875|28|Route 5|290|Humber College - Lakeshore Campus|2 Colonel Samuel Smith Park Dr|Etobicoke|ON|23 Col Samuel Smith Dr - H Bldg - 1/F|||71.103896103896103|67.5000|0|0|89|105|True
+894|28|Route 5|290|Humber College - Lakeshore Campus|2 Colonel Samuel Smith Park Dr|Etobicoke|ON|300 Birmingham St. - Arts Media Studios|||57.371794871794871|179.2500|0|0|133|21|True
+887|28|Route 5|290|Humber College - Lakeshore Campus|2 Colonel Samuel Smith Park Dr|Etobicoke|ON|A Bldg - 2/F Lounge|||65.677966101694915|68.7500|0|0|81|21|True
+896|28|Route 5|290|Humber College - Lakeshore Campus|2 Colonel Samuel Smith Park Dr|Etobicoke|ON|Annex - Across Security Guard|||43.181818181818181|477.2500|1|1|225|21|True
+891|28|Route 5|290|Humber College - Lakeshore Campus|2 Colonel Samuel Smith Park Dr|Etobicoke|ON|Art Commons|||64.285714285714285|115.2500|1|1|106|47|True
+900|28|Route 5|290|Humber College - Lakeshore Campus|2 Colonel Samuel Smith Park Dr|Etobicoke|ON|Athletic Center|||64.583333333333333|53.5000|2|2|85|62|True
+885|28|Route 5|290|Humber College - Lakeshore Campus|2 Colonel Samuel Smith Park Dr|Etobicoke|ON|Cafeteria - Alcove A, AX&B|||79.746835443037974|10.7500|0|0|64|62|True
+1331|28|Route 5|290|Humber College - Lakeshore Campus|2 Colonel Samuel Smith Park Dr|Etobicoke|ON|L Bldg - 2/F Study Area||11.0000|56.410256410256410|194.7500|1|1|149|21|True
+1332|28|Route 5|290|Humber College - Lakeshore Campus|2 Colonel Samuel Smith Park Dr|Etobicoke|ON|L Bldg - 2/F Study Area||6.2500|66.666666666666666|185.0000|0|0|84|21|True
+1333|28|Route 5|290|Humber College - Lakeshore Campus|2 Colonel Samuel Smith Park Dr|Etobicoke|ON|L Bldg - 2/F Study Area|||50.000000000000000|445.0000|0|0|160|62|True
+879|28|Route 5|290|Humber College - Lakeshore Campus|2 Colonel Samuel Smith Park Dr|Etobicoke|ON|Res Lobby|||67.241379310344827|112.7500|0|0|75|21|True
+878|28|Route 5|290|Humber College - Lakeshore Campus|2 Colonel Samuel Smith Park Dr|Etobicoke|ON|Res Lobby|||42.783505154639175|270.5000|1|1|111|35|True
+882|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|1/F N Bldg - Design Centre|||56.250000000000000|168.0000|0|0|100|55|True
+881|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|1/F N Bldg - Design Centre|||20.138888888888888|82.5000|2|2|83|73|True
+884|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|Athletics|2.7500|20.5000|73.387096774193548|265.5000|0|0|99|14|True
+873|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|B Bldg - 3/F (Staff Kitchen)|||60.897435897435897|60.5000|0|0|61|40|True
+877|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|E Bldg - 2/F||7.5000|79.427083333333333|32.5000|1|1|80|14|True
+888|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|Food Emporium - Corner by Exit Doors|||78.896103896103896|89.2500|0|0|65|32|True
+886|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|Food Emporium - Machine Bank - Coke #1||2.7500|81.089743589743589|27.5000|1|1|53|14|True
+892|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|Food Emporium - Machine Bank - Coke #2|||63.750000000000000|41.2500|1|1|116|14|True
+889|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|Food Emporium - Machine Bank - Dasani|||89.152542372881355|9.0000|0|0|33|14|True
+890|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|Food Emporium - Machine Bank - Powerade|||67.763157894736842|28.0000|1|1|98|14|True
+872|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|H E Bldg - 3/F Ramp|||92.447916666666666|17.2500|0|0|30|14|True
+870|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|H E Bldg - 4/F||5.5000|86.944444444444444|5.5000|0|0|49|14|True
+880|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|K H Ramp||2.7500|78.014184397163120|53.7500|0|0|62|14|True
+876|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|L Bldg - 2/F|||79.360465116279069|2.7500|1|1|72|14|True
+907|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|L Bldg - Main Floor||17.7500|80.416666666666666|38.7500|0|0|44|14|True
+874|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|L Bldg - Main Floor|||37.908496732026143|426.7500|1|1|66|21|True
+1357|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|LRC 1/F - Floor Ramp to Link|10.0000|31.0000|59.375000000000000|159.7500|0|0|121|14|True
+1356|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|LRC 1/F - Floor Ramp to Link||9.7500|19.791666666666666|166.2500|2|2|144|14|True
+866|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|LRC 3/F - Outside Main Elevator|||65.897435897435897|100.0000|0|0|115|14|True
+893|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|Main Hall - Across Humber Rm||5.7500|81.769436997319034|42.0000|0|0|67|14|True
+897|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|Main Hall - Across Humber Rm||8.2500|70.617283950617283|35.7500|1|1|118|14|True
+895|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|Main Hall - Across Humber Rm||33.2500|62.601626016260162|100.5000|0|0|138|14|True
+901|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|Residence - Lobby|||68.037974683544303|203.7500|0|0|101|32|True
+903|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|Residence - Lobby|||34.391534391534391|743.5000|3|3|59|26|True
+899|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|Residence Gym|||80.194805194805194|94.5000|0|0|61|48|True
+904|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|UofG Bldg - 1/F - Coke||2.7500|67.195767195767195|138.5000|0|0|123|21|True
+905|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|UofG Bldg - 1/F - Dasani|||57.758620689655172|230.0000|0|0|97|32|True
+906|28|Route 5|289|Humber College - North Campus|205 Humber College Blvd|Toronto|ON|UofG Bldg - 1/F - VW|||75.714285714285714|139.7500|0|0|68|32|True
+1329|28|Route 5|390|Humber College - Real Estate|30 Carrier Dr|Etobicoke|ON|1/F||2.7500|68.269230769230769|120.0000|0|0|99|45|True
+1330|28|Route 5|390|Humber College - Real Estate|30 Carrier Dr|Etobicoke|ON|2/F|||76.923076923076923|44.0000|0|0|72|45|True
+1139|28|Route 5|389|JCF - Brittania Adult Education Centre|100 Elm Dr|Mississauga|ON|Cafeteria|||62.241379310344827|338.0000|4|4|219|25|True
+1318|28|Route 5|389|JCF - Brittania Adult Education Centre|100 Elm Dr|Mississauga|ON|Cafeteria|||60.130718954248366|200.7500|0|0|122|39|True
+1319|28|Route 5|389|JCF - Brittania Adult Education Centre|100 Elm Dr|Mississauga|ON|Cafeteria|||58.666666666666666|174.2500|0|0|124|39|True
+1315|28|Route 5|388|"JCF - HJA Brown Education Centre "|5650 Hurontario St|Mississauga|ON|Cafeteria||2.0000|266.666666666666666|91.0000|7|7|28|28|True
+1316|28|Route 5|388|"JCF - HJA Brown Education Centre "|5650 Hurontario St|Mississauga|ON|Cafeteria||3.2500|79.000000000000000|41.2500|0|0|63|39|True
+12|28|Route 5|385|JCF - Holy Name of Mary College School|2241 Mississauga Rd|Mississauga|ON|"Cafeteria "|||82.364729458917835|60.0000|0|0|88|10|True
+1314|28|Route 5|385|JCF - Holy Name of Mary College School|2241 Mississauga Rd|Mississauga|ON|"Cafeteria "|||69.281045751633986|33.0000|0|0|94|10|True
+17|28|Route 5|386|JCF - John Fraser Secondary School|2665 Erin Centr Blvd|Misssissauga|ON|Cafeteria|||95.102040816326530|4.5000|0|0|12|10|True
+1320|28|Route 5|386|JCF - John Fraser Secondary School|2665 Erin Centr Blvd|Misssissauga|ON|Cafeteria|||76.923076923076923|4.0000|0|0|48|10|True
+1321|28|Route 5|386|JCF - John Fraser Secondary School|2665 Erin Centr Blvd|Misssissauga|ON|Outside of Cafe|||83.000000000000000|117.2500|0|0|51|39|True
+1322|28|Route 5|387|JCF - Mississauga Secondary School|550 CourtneyPark Drive West|Mississauga|ON|Cafeteria|||49.519230769230769|120.5000|2|2|105|28|True
+62|28|Route 5|387|JCF - Mississauga Secondary School|550 CourtneyPark Drive West|Mississauga|ON|Hallway|||85.958904109589041|15.5000|0|0|41|28|True
+1323|28|Route 5|387|JCF - Mississauga Secondary School|550 CourtneyPark Drive West|Mississauga|ON|Hallway|||76.538461538461538|88.0000|0|0|61|28|True
+201|28|Route 5|50|Levi Strauss and Co.|90 Claireville Dr.|Etobicoke|ON|In kitchen|5.0000|51.2500|13.111111111111111|360.0000|3|3|391|10|True
+9|28|Route 5|50|Levi Strauss and Co.|90 Claireville Dr.|Etobicoke|ON|In kitchen|21.7500|95.2500|18.875502008032128|343.0000|12|12|202|10|True
+6|28|Route 5|65|Paramount Pallet|1330 Martin Grove Rd|Toronto|ON|In lunchroom||5.7500|86.163522012578616|5.7500|0|0|27|8|True
+155|28|Route 5|65|Paramount Pallet|1330 Martin Grove Rd|Toronto|ON|In lunchroom|6.0000|25.0000|73.927392739273927|25.0000|0|0|158|8|True
+374|28|Route 5|65|Paramount Pallet|1330 Martin Grove Rd|Toronto|ON|In lunchroom|||83.333333333333333|24.0000|0|0|8|28|True
+56|28|Route 5|71|Royal Building Products|30 Royal Group Crescent|Woodbridge|ON|Employee Lunchroom||2.7500|82.352941176470588|68.2500|3|3|61|18|True
+160|28|Route 5|71|Royal Building Products|30 Royal Group Crescent|Woodbridge|ON|Employee Lunchroom||2.5000|64.200000000000000|92.5000|0|0|179|18|True
+312|28|Route 5|152|S&P Data, LLC|1920 Yonge St Ste 400|Toronto|ON|In Lunchroom|20.5000|121.2500|68.108108108108108|184.5000|2|2|177|7|True
+314|28|Route 5|152|S&P Data, LLC|1920 Yonge St Ste 400|Toronto|ON|In Lunchroom|26.2500|176.2500|58.333333333333333|282.2500|0|0|150|7|True
+108|28|Route 5|74|Sephora Beauty Canada|5560 Explorer Dr 2/F|Mississauga|ON|Lunchroom|0.5000|6.5000|88.636363636363636|11.0000|0|0|40|6|True
+161|28|Route 5|75|Shepherd Thermoforming & Packaging Inc.|5 Abacus Rd|Brampton|ON|Lunchroom||1.5000|80.909090909090909|10.5000|0|0|84|21|True
+174|28|Route 5|155|Simons - Square One|100 City Centre Drive Unit #1-814|Mississauga|ON|In Lunchroom|2.5000|36.5000|8.000000000000000|182.7500|4|4|276|28|True
+5|28|Route 5|155|Simons - Square One|100 City Centre Drive Unit #1-814|Mississauga|ON|In Lunchroom|3.0000|39.0000|56.858407079646017|221.5000|5|5|195|28|True
+149|28|Route 5|395|SS & C Technologies|5255 Orbitor Dr|Mississagua|ON|3/F Lunchroom|5.5000|35.5000|64.848484848484848|49.5000|1|1|261|10|True
+1317|28|Route 5|395|SS & C Technologies|5255 Orbitor Dr|Mississagua|ON|3/F Lunchroom|1.0000|11.2500|70.560747663551401|15.7500|0|0|189|10|True
+1344|28|Route 5|395|SS & C Technologies|5255 Orbitor Dr|Mississagua|ON|3/F Lunchroom|||61.633281972265023|236.2500|0|0|115|10|True
+305|28|Route 5|84|Subaru Canada, Inc.|560 Suffolk Court|Mississauga|ON|Office Lunchroom|5.0000|8.0000|51.351351351351351|48.7500|9|9|72|17|True
+307|28|Route 5|84|Subaru Canada, Inc.|560 Suffolk Court|Mississauga|ON|Office Lunchroom|||72.992700729927007|27.5000|0|0|83|62|True
+454|28|Route 5|84|Subaru Canada, Inc.|560 Suffolk Court|Mississauga|ON|Warehouse Lunchroom|2.0000|8.0000|52.970297029702970|92.7500|1|1|95|41|True
+112|28|Route 5|84|Subaru Canada, Inc.|560 Suffolk Court|Mississauga|ON|Warehouse Lunchroom|||39.759036144578313|37.2500|11|11|100|17|True
+194|28|Route 5|105|Toronto Rehabilitation Institute - Bickle Center|130 Dunn Ave|Toronto|ON|Basement Cafeteria|1.7500|18.0000|58.050847457627118|67.0000|0|0|99|24|True
+193|28|Route 5|105|Toronto Rehabilitation Institute - Bickle Center|130 Dunn Ave|Toronto|ON|In cafeteria (Coke-branded)||72.7500|30.072463768115942|339.0000|3|3|193|24|True
+59|28|Route 5|105|Toronto Rehabilitation Institute - Bickle Center|130 Dunn Ave|Toronto|ON|In Vending Room|8.0000|35.0000|43.367346938775510|200.5000|4|5|111|24|True
+22|28|Route 5|105|Toronto Rehabilitation Institute - Bickle Center|130 Dunn Ave|Toronto|ON|In Vending Room||||0.0000|||0|29|True
+309|28|Route 5|105|Toronto Rehabilitation Institute - Bickle Center|130 Dunn Ave|Toronto|ON|In Vending Room||||0.0000|||0|0|True
+990|28|Route 5|356|Toronto-Dominion Bank - Tahoe|4880 Tahoe Blvd|Mississauga|ON|G/F Lunchroom|2.5000|64.0000|54.666666666666666|214.5000|0|0|136|26|True
+1141|28|Route 5|356|Toronto-Dominion Bank - Tahoe|4880 Tahoe Blvd|Mississauga|ON|G/F Lunchroom|4.5000|41.5000|47.981366459627329|439.2500|12|12|335|26|True
+1137|28|Route 5|353|United Parcel Service - Brampton|15 West Drive|Brampton|ON|Lunchroom|18.2500|132.7500|68.987341772151898|150.5000|2|2|147|10|True
+1138|28|Route 5|353|United Parcel Service - Brampton|15 West Drive|Brampton|ON|Lunchroom|15.7500|87.7500|62.868369351669941|100.2500|0|0|189|10|True
+14|28|Route 5|372|United Parcel Service - Mississauga|3195 Airway Drive|Mississauga|ON|Lunchroom|3.7500|25.5000|84.291187739463601|35.5000|0|0|41|10|True
+1|28|Route 5|372|United Parcel Service - Mississauga|3195 Airway Drive|Mississauga|ON|Lunchroom|3.5000|52.5000|64.736842105263157|63.5000|1|1|67|10|True
+23|28|Route 5|372|United Parcel Service - Mississauga|3195 Airway Drive|Mississauga|ON|Lunchroom||||0.0000|||0|31|True
+987|28|Route 5|372|United Parcel Service - Mississauga|3195 Airway Drive|Mississauga|ON|Lunchroom|3.0000|47.0000|53.597122302158273|54.5000|1|1|129|10|True
+1087|28|Route 5|372|United Parcel Service - Mississauga|3195 Airway Drive|Mississauga|ON|Lunchroom|4.5000|66.0000|66.666666666666666|77.5000|0|0|102|10|True
+199|28|Route 5|95|VIA Rail Canada|50 Drummond Street, Unit C|Toronto|ON|2/F Cafeteria|8.0000|36.7500|52.272727272727272|245.5000|0|0|315|34|True
+107|28|Route 5|95|VIA Rail Canada|50 Drummond Street, Unit C|Toronto|ON|2/F Cafeteria|||47.000000000000000|124.5000|13|13|212|34|True
+31|28|Route 5|95|VIA Rail Canada|50 Drummond Street, Unit C|Toronto|ON|2/F Cafeteria||||0.0000|||0|34|True
+1301|28|Route 5|95|VIA Rail Canada|50 Drummond Street, Unit C|Toronto|ON|2/F Cafeteria||||0.0000|||0|0|True
+1260|28|Route 5|425|WSP Canada Inc|610 Chartwell Road Unit 300|Oakville|ON|Lunchroom||1.5000|93.809523809523809|12.0000|0|0|28|26|True
+1378|28|Route 5|425|WSP Canada Inc|610 Chartwell Road Unit 300|Oakville|ON|Lunchroom|||0.000000000000000|0.0000|6|6|550|26|True
+712|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Boo Blaster - Coke||137.7500|54.375000000000000|137.7500|0|0|73|20|True
+713|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Boo Blaster - Dasani|||98.958333333333333|271.0000|1|1|34|91|True
+714|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Boo Blaster - Powerade||63.2500|97.297297297297297|230.0000|0|0|16|91|True
+731|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Crystal Arcade||||0.0000|0|0|0|118|True
+805|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Crystal Arcade Basketball - Powerade||||5.7500|0|0|0|44|True
+776|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Dino Walk Front Gate - Coke||66.5000|66.875000000000000|95.0000|0|0|53|20|True
+777|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Dino Walk Front Gate - Dasani||123.7500|38.297872340425531|242.7500|0|0|58|20|True
+741|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Flight Deck - Powerade||||0.0000|0|0|0|45|True
+742|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Front Gate - Coke||4.7500|203.125000000000000|80.7500|0|0|0|90|True
+744|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Front Gate - Dasani||119.2500|39.583333333333333|181.2500|0|0|58|19|True
+745|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Front Gate - Powerade|||130.000000000000000|126.5000|0|0|6|32|True
+743|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Front Gate - Zero|||50.520833333333333|39.0000|1|1|43|32|True
+753|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Leviathan - Dasani||||0.0000|0|0|0|44|True
+715|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Maple Park Tree House - Coke||38.0000|115.625000000000000|80.7500|0|0|0|123|True
+717|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Maple Park Tree House - Dasani||85.7500|50.000000000000000|181.0000|0|0|48|20|True
+718|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Maple Park Tree House - Powerade||46.0000|70.000000000000000|109.2500|0|0|35|33|True
+716|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Maple Park Tree House - Zero|||58.333333333333333|39.0000|2|2|39|33|True
+747|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Parent Rest Zone||92.2500|49.236641221374045|397.5000|0|0|133|108|True
+762|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Psyclone - Coke||||0.0000|0|0|0|46|True
+767|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Riptide - Coke||61.7500|44.791666666666666|129.2500|0|0|104|33|True
+768|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Riptide - Dasani|||0.000000000000000|910.2500|3|3|24|20|True
+769|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Riptide - Powerade||69.0000|60.833333333333333|161.0000|0|0|47|33|True
+750|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Snoopy Putt - Coke||223.2500|35.625000000000000|323.0000|1|1|103|33|True
+748|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Snoopy Putt - Dasani|||66.666666666666666|525.7500|1|1|37|33|True
+749|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Snoopy Putt - Powerade||57.5000|86.363636363636363|132.2500|0|0|32|33|True
+786|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Sprite Basketball Hoop|164.5000|164.5000|52.777777777777777|164.5000|1|1|133|19|True
+736|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Staff - Behind Coasters Rest||||0.0000|0|0|0|115|True
+730|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|"Staff - Corner Stone Cafe "|||26.111111111111111|22.0000|2|2|94|123|True
+800|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Staff - Food Services||8.0000|13.095238095238095|183.0000|4|4|219|93|True
+746|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Staff - Hanna Barb Bldg||41.5000||179.5000|0|0|0|93|True
+756|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Staff - Loss First Aid|6.0000|51.5000|47.133757961783439|185.0000|2|2|166|20|True
+757|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Staff - Maintenance|||0.000000000000000|1025.0000|8|8|233|20|True
+758|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Staff - Paramount Theatre||13.0000||21.0000|0|0|0|83|True
+779|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Staff - Special Effect||||10.0000|0|0|0|83|True
+796|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Staff - Wardrobe Dept - Coke|6.0000|44.0000|29.687500000000000|64.0000|0|0|45|19|True
+798|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Staff - Wardrobe Dept - Dasani|2.0000|18.0000|172.916666666666666|136.5000|0|0|9|123|True
+799|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Staff - Wardrobe Dept - Powerade||57.0000|46.093750000000000|123.2500|0|0|69|19|True
+797|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Staff - Wardrobe Dept - Zero|||60.937500000000000|6.0000|1|1|79|20|True
+787|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|The Bat - Coke||42.7500|46.875000000000000|137.7500|0|0|34|33|True
+790|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|The Bat - Dasani|||0.000000000000000|123.5000|1|1|192|19|True
+789|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|The Bat - Glaceau||97.7500|45.312500000000000|253.0000|0|0|70|33|True
+791|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|The Bat - Powerade|||39.843750000000000|1393.5000|1|1|88|19|True
+788|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|The Bat - Zero|||9.375000000000000|527.2500|2|2|32|20|True
+795|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Vortex - Powerade||||0.0000|0|0|0|41|True
+793|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Vortex - Zero||||0.0000|0|0|0|45|True
+806|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Xtreme Skyflyer - Coke||42.7500|231.250000000000000|142.5000|0|0|0|122|True
+808|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Xtreme Skyflyer - Dasani||34.0000|20.833333333333333|105.5000|2|2|76|19|True
+809|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Xtreme Skyflyer - Powerade|||121.875000000000000|460.0000|0|0|0|32|True
+807|30|Seasonal Route 1|282|Canada's Wonderland|9580 Jane St|Vaughan|ON|Xtreme Skyflyer - Zero|||69.270833333333333|408.0000|1|1|23|32|True
+1368|3|Tim Ao|118|Adaria Vending Services|200 Steelcase Rd E #5|Markham|ON|In Warehouse|||0.000000000000000|0.0000|40|40|540|33|True
+1381|3|Tim Ao|130|Ceridian Dayforce|4110 Yonge Street Suite 604|Toronto|ON|4110 Yonge - Suite 400 - Small Kitchen|||0.000000000000000|0.0000|8|8|660|0|True
+1351|3|Tim Ao|398|"COH - Bernie Morelli Recreation Centre "|876 Cannon St E|"Hamilton "|ON|Arenas|||94.705882352941176|0.0000|0|0|37|47|True
+1338|3|Tim Ao|401|"COH - Huntington Park Recreation Centre "|87 Brentwood Dr|"Hamilton "|ON|Arenas|||98.989898989898989|0.0000|0|0|6|47|True
+1348|3|Tim Ao|415|"COH - J.L Grightmire Arena (Dundas Market St) "|35 Market St S|Dundas|ON|Arenas|||98.870056497175141|0.0000|0|0|6|47|True
+1362|3|Tim Ao|402|COH - Norman Pinky Lewis Recreation Centre|192 Wentworth St N|"Hamilton "|ON|D3|||82.474226804123711|0.0000|3|3|102|42|True
+1345|3|Tim Ao|57|McMaster University|1280 Main Street West|Hamilton|ON|PGCLL Residence 3/F|||0.000000000000000|0.0000|40|40|526|33|True
+1168|3|Tim Ao|363|Seneca - Newnham|1750 Finch Ave E|North York|ON|Unassigned||||0.0000|0|0|0|14|True
+1149|6|Tommy Chan|118|Adaria Vending Services|200 Steelcase Rd E #5|Markham|ON|Reception|||82.500000000000000|7.0000|0|0|9|80|True
+1257|6|Tommy Chan|118|Adaria Vending Services|200 Steelcase Rd E #5|Markham|ON|Reception|||88.541666666666666|6.5000|1|1|11|80|True
+982|33|YYZ - External|311|Air Canada - Cabin Services|3111 Convair Dr|Mississauga|ON|De-Icing (Left of Garage 7)|1.2500|14.7500|61.706783369803063|89.5000|0|0|175|26|True
+1036|33|YYZ - External|311|Air Canada - Cabin Services|3111 Convair Dr|Mississauga|ON|De-Icing (Left of Garage 7)|5.5000|25.5000|64.879356568364611|156.5000|5|5|131|26|True
+1066|33|YYZ - External|312|Air Canada - Hangars|6420 Silver Dart Drive|"Mississauga "|ON|Hangar 1&2 Jazz|4.5000|20.0000|63.655913978494623|121.5000|6|6|169|26|True
+1067|33|YYZ - External|312|Air Canada - Hangars|6420 Silver Dart Drive|"Mississauga "|ON|Hangar 1&2 Jazz|1.2500|15.2500|70.735785953177257|69.7500|0|0|175|26|True
+1143|33|YYZ - External|312|Air Canada - Hangars|6420 Silver Dart Drive|"Mississauga "|ON|Hangar 5||11.7500|83.612040133779264|39.5000|0|0|98|26|True
+1311|33|YYZ - External|312|Air Canada - Hangars|6420 Silver Dart Drive|"Mississauga "|ON|Hangar 5|3.5000|17.0000|85.741444866920152|100.5000|0|0|75|26|True
+1050|33|YYZ - External|312|Air Canada - Hangars|6420 Silver Dart Drive|"Mississauga "|ON|Hangar 8 Security Pass||52.0000|47.201492537313432|384.5000|12|12|257|26|True
+1065|33|YYZ - External|312|Air Canada - Hangars|6420 Silver Dart Drive|"Mississauga "|ON|Hangar 8 Security Pass|12.5000|67.7500|27.090909090909090|409.0000|2|2|401|26|True
+661|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|Departures Level Food Court||11.7500|95.538461538461538|11.7500|0|0|29|7|True
+1379|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|Departures Level Food Court|109.0000|663.5000|68.702290076335877|297.5000|0|0|113|3|True
+645|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 APM Train|40.7500|197.5000|78.798586572438162|197.5000|0|0|143|7|True
+606|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 APM Train|||80.519480519480519|301.2500|0|0|68|3|True
+634|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Domestic Baggage Hall Carousel 3|75.2500|348.2500|74.828375286041189|363.7500|1|1|129|8|True
+612|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Domestic Baggage Hall Carousel 3|25.5000|299.0000|74.050632911392405|139.0000|0|0|82|3|True
+611|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Domestic Baggage Hall Carousel 3|102.2500|520.2500|65.460526315789473|283.0000|0|0|105|3|True
+636|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Domestic Baggage Hall Carousel 4|45.5000|304.2500|79.545454545454545|331.5000|4|4|99|8|True
+587|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Domestic Baggage Hall Carousel 4|54.0000|335.0000|66.145833333333333|341.0000|0|0|130|8|True
+561|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Domestic Baggage Hall Carousel 4|117.0000|788.5000|45.833333333333333|389.0000|0|0|156|3|True
+536|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 11|||72.568578553615960|170.0000|1|1|53|7|True
+557|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 11|15.0000|84.0000|86.309523809523809|138.0000|0|0|46|13|True
+684|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 11|65.2500|475.5000|71.111111111111111|43.5000|0|0|117|0|True
+577|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 11|29.0000|129.0000|78.214285714285714|25.5000|0|0|61|0|True
+552|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 12|9.0000|60.0000|85.714285714285714|213.0000|0|0|48|34|True
+685|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 12|37.5000|234.0000|75.061728395061728|33.0000|0|0|101|0|True
+580|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 12|6.0000|60.0000|77.304964539007092|6.0000|0|0|64|0|True
+589|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 13|15.0000|92.0000|87.239583333333333|83.0000|0|0|49|7|True
+567|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 13|18.5000|41.0000|96.428571428571428|28.0000|0|0|10|3|True
+553|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 13|12.0000|114.0000|82.142857142857142|162.0000|0|0|60|13|True
+559|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 6|42.0000|156.0000|74.404761904761904|36.0000|0|0|86|0|True
+682|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 6|91.5000|570.0000|61.975308641975308|91.5000|0|0|154|0|True
+575|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 6|37.5000|144.0000|80.714285714285714|177.0000|0|0|54|10|True
+1291|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 7|32.0000|231.5000|76.555023923444976|20.5000|1|1|103|0|True
+588|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 7|30.0000|275.0000|77.343750000000000|24.0000|0|0|87|0|True
+583|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 7|||93.214285714285714|117.0000|0|0|30|41|True
+551|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 7|36.0000|324.0000|68.750000000000000|33.0000|0|0|105|0|True
+558|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 8|||73.214285714285714|267.0000|0|0|1|0|True
+683|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 8|||93.333333333333333|45.0000|0|0|14|10|True
+576|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Arrivals Int'l Baggage Hall Carousel 8|29.5000|234.5000|68.571428571428571|22.5000|0|0|88|0|True
+648|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Dep Column 14|68.0000|465.5000|76.112759643916913|433.2500|1|1|161|6|True
+593|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Dep Column 14|44.0000|234.0000|84.895833333333333|149.0000|0|0|58|6|True
+563|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Dep Column 14|60.0000|588.5000|68.402777777777777|256.0000|0|0|91|3|True
+649|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Dep Column 8 by Police Station|55.0000|384.5000|80.606060606060606|301.0000|1|1|128|6|True
+592|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Dep Column 8 by Police Station|27.0000|207.0000|86.458333333333333|160.0000|0|0|52|6|True
+554|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Dep Column 8 by Police Station|30.0000|384.0000|64.583333333333333|294.0000|0|0|119|6|True
+597|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Dep Column 8 by Police Station|46.0000|246.5000|73.913043478260869|182.0000|0|0|72|6|True
+647|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Employee Center|18.5000|126.2500|79.002624671916010|92.0000|0|0|80|6|True
+574|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Employee Center||122.0000|74.276527331189710|208.0000|0|0|80|13|True
+541|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Employee Center|14.5000|75.5000|84.279475982532751|124.0000|0|0|36|13|True
+542|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Employee Center||33.0000|100.347222222222222|162.0000|0|0|0|91|True
+1288|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 International Arrivals|60.5000|390.0000|70.508474576271186|422.0000|3|3|174|8|True
+687|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 International Arrivals|106.2500|1049.5000|41.776315789473684|472.2500|1|1|172|3|True
+632|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Parking Car Rental Avis|50.0000|282.0000|71.226415094339622|225.7500|1|1|124|6|True
+600|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Parking Car Rental Avis|12.0000|266.0000|82.670454545454545|195.0000|0|0|62|6|True
+633|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Parking Car Rental Budget|56.5000|252.7500|75.779376498800959|204.7500|0|0|109|6|True
+599|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Parking Car Rental Budget|6.0000|185.0000|84.090909090909090|137.0000|0|0|56|6|True
+650|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Parking West Bridge (Outside Pass Office)|11.5000|62.2500|85.632183908045977|166.0000|0|0|84|14|True
+609|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Parking West Bridge (Outside Pass Office)|24.5000|120.2500|71.333333333333333|239.5000|0|0|86|14|True
+652|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Parking West Bridge 5/F (By Luggage Cart)|28.0000|157.2500|96.935483870967741|59.0000|0|0|41|3|True
+615|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Parking West Bridge 5/F (By Valet Care)||224.2500|76.190476190476190|156.7500|0|0|40|3|True
+646|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pass Office Lunchroom|4.7500|24.0000|82.666666666666666|19.5000|1|1|42|6|True
+674|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pass Office Lunchroom|4.0000|41.0000|89.795918367346938|31.0000|0|0|32|6|True
+673|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Service Level (By Greyhound)|38.5000|162.5000|86.111111111111111|66.7500|0|0|78|3|True
+572|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Service Level (By Greyhound)||117.7500|71.381578947368421|70.5000|0|0|64|3|True
+638|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Service Level (By Ticket Vending Machines)|47.2500|431.0000|87.202380952380952|160.5000|1|1|86|3|True
+562|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Service Level (By Ticket Vending Machines)|75.0000|477.5000|83.333333333333333|251.5000|0|0|48|3|True
+590|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Service Level (By Ticket Vending Machines)|48.0000|397.0000|82.291666666666666|164.0000|0|0|68|3|True
+637|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Service Level (Outside Employee Center)|66.7500|134.5000|82.520325203252032|134.5000|0|0|96|3|True
+608|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Service Level (Outside Employee Center)|93.7500|446.2500|72.039473684210526|200.2500|0|0|84|3|True
+639|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Trades Lunchroom (EDS017A)|7.0000|21.5000|60.888888888888888|164.2500|10|10|88|38|True
+595|16|YYZ T1 - Route 1|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Trades Lunchroom (EDS017A)||36.2500|65.086206896551724|184.7500|0|0|94|38|True
+993|16|YYZ T1 - Route 1|305|Toronto Pearson - T1 - Air Canada - Terminal|6301 Silver Dart Dr|Mississauga|ON|ATO Band - By Pharmacy (FA 2218) - INSIDE|4.2500|64.7500|69.005847953216374|41.5000|0|0|106|6|True
+1068|16|YYZ T1 - Route 1|305|Toronto Pearson - T1 - Air Canada - Terminal|6301 Silver Dart Dr|Mississauga|ON|ATO Band - By Pharmacy (FA 2218) - INSIDE|5.0000|13.5000|104.487179487179487|9.5000|0|0|11|6|True
+996|16|YYZ T1 - Route 1|305|Toronto Pearson - T1 - Air Canada - Terminal|6301 Silver Dart Dr|Mississauga|ON|DOMH Inbound Baggage (INSIDE)|4.0000|7.2500|125.438596491228070|52.7500|0|0|21|168|True
+1075|16|YYZ T1 - Route 1|305|Toronto Pearson - T1 - Air Canada - Terminal|6301 Silver Dart Dr|Mississauga|ON|DOMH Inbound Baggage (INSIDE)||2.0000|71.052631578947368|48.5000|5|5|33|56|True
+1150|16|YYZ T1 - Route 1|324|Toronto Pearson - T1 - United Airlines|6301 Silver Dart Dr|Mississauga|ON|Pole 13 - 3 Carts|11.0000|77.0000|44.976076555023923|191.0000|1|1|115|21|True
+1300|16|YYZ T1 - Route 1|324|Toronto Pearson - T1 - United Airlines|6301 Silver Dart Dr|Mississauga|ON|Pole 13 - 3 Carts|5.0000|40.0000|73.913043478260869|111.2500|2|2|83|21|True
+1287|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Across D4|33.0000|235.5000|73.076923076923076|232.5000|2|2|118|7|True
+686|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Across D4|67.5000|468.0000|78.282828282828282|195.7500|0|0|86|3|True
+631|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Gate 193 Extension|37.2500|203.7500|76.537585421412300|378.7500|4|4|128|18|True
+591|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Gate 193 Extension|21.0000|110.0000|76.562500000000000|280.0000|0|0|90|18|True
+565|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Gate 193 Extension|35.5000|171.5000|64.285714285714285|339.5000|0|0|110|18|True
+1267|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Gate 193 Extension Back Corner|17.5000|124.2500|94.509803921568627|185.2500|6|6|73|10|True
+610|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Gate 193 Extension Back Corner|18.0000|148.5000|73.666666666666666|206.7500|0|0|79|10|True
+84|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 L1 F57|33.2500|230.0000|90.196078431372549|87.7500|0|0|40|3|True
+584|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 L1 F57|21.0000|174.0000|85.416666666666666|120.0000|0|0|55|6|True
+549|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 L1 F57|36.0000|345.0000|81.845238095238095|276.0000|0|0|61|6|True
+570|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 L1 F57|32.0000|225.0000|88.928571428571428|88.5000|0|0|31|3|True
+635|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 L3 In-Transit Preclearance|51.0000|226.7500|68.693009118541033|315.0000|6|6|110|10|True
+666|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 L3 In-Transit Preclearance|9.0000|185.0000|81.944444444444444|218.0000|0|0|65|10|True
+641|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier D Gate D24/28 Hammerhead|50.0000|365.0000|79.635258358662613|319.0000|1|1|138|7|True
+544|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier D Gate D24/28 Hammerhead|6.0000|128.0000|83.593750000000000|105.0000|0|0|63|7|True
+545|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier D Gate D24/28 Hammerhead|41.5000|366.0000|63.732394366197183|310.0000|0|0|105|7|True
+598|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier D Gate D32 F32|||66.761363636363636|326.0000|0|0|17|6|True
+604|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier D Gate D36 F36|18.0000|339.0000|72.580645161290322|312.0000|0|0|102|7|True
+642|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier D Gate D53 F53|38.2500|382.0000|80.303030303030303|336.2500|0|0|130|6|True
+586|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier D Gate D53 F53|27.0000|170.0000|81.510416666666666|140.0000|0|0|71|6|True
+564|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier D Gate D53 F53|47.0000|435.0000|59.027777777777777|345.5000|0|0|118|6|True
+1310|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier D Gate D53 F53|22.5000|166.5000|78.571428571428571|234.0000|0|0|58|12|True
+688|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier F Gate F69|65.0000|242.0000|72.817955112219451|221.0000|0|0|109|7|True
+689|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier F Gate F69|135.0000|687.0000|64.986737400530503|354.0000|0|0|132|3|True
+690|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier F Gate F69|||91.919191919191919|92.7500|0|0|32|49|True
+643|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier F ham hd gate E70|5.7500|180.5000|75.064267352185089|165.5000|1|1|99|7|True
+571|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier F ham hd gate E70|12.0000|142.0000|82.552083333333333|118.0000|0|0|67|7|True
+560|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier F ham hd gate E70|22.5000|191.0000|66.666666666666666|272.5000|0|0|96|11|True
+644|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier F ham hd gate E80||529.5000|89.269746646795827|119.0000|0|0|79|3|True
+594|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier F ham hd gate E80|63.0000|476.0000|82.812500000000000|158.0000|0|0|66|3|True
+566|18|YYZ T1 - Route 2|265|GTAA - Toronto Pearson - Terminal 1|6301 Silver Dart Dr|Mississauga|ON|T1 Pier F ham hd gate E80|148.5000|971.0000|64.759036144578313|399.0000|0|0|117|3|True
+1010|18|YYZ T1 - Route 2|306|Toronto Pearson - T1 - Air Canada - Airside|6301 Silver Dart Dr|Mississauga|ON|ACM Line Maintenance Gate 140|1.5000|29.5000|73.809523809523809|33.2500|0|0|80|9|True
+1076|18|YYZ T1 - Route 2|306|Toronto Pearson - T1 - Air Canada - Airside|6301 Silver Dart Dr|Mississauga|ON|ACM Line Maintenance Gate 140|6.0000|69.0000|78.328173374613003|75.0000|1|1|70|9|True
+997|18|YYZ T1 - Route 2|306|Toronto Pearson - T1 - Air Canada - Airside|6301 Silver Dart Dr|Mississauga|ON|CNK Domestic Crew Gate 120|11.7500|48.2500|85.769230769230769|62.2500|0|0|46|9|True
+1018|18|YYZ T1 - Route 2|306|Toronto Pearson - T1 - Air Canada - Airside|6301 Silver Dart Dr|Mississauga|ON|CNK Domestic Crew Gate 120|10.7500|64.0000|66.375545851528384|85.7500|0|0|154|9|True
+1069|18|YYZ T1 - Route 2|306|Toronto Pearson - T1 - Air Canada - Airside|6301 Silver Dart Dr|Mississauga|ON|CNK Domestic Crew Gate 120|25.5000|98.5000|67.625899280575539|119.0000|1|1|90|9|True
+991|18|YYZ T1 - Route 2|306|Toronto Pearson - T1 - Air Canada - Airside|6301 Silver Dart Dr|Mississauga|ON|HHF Gate 178|4.2500|87.2500|74.048442906574394|106.5000|0|0|75|10|True
+1021|18|YYZ T1 - Route 2|306|Toronto Pearson - T1 - Air Canada - Airside|6301 Silver Dart Dr|Mississauga|ON|HHF Gate 178|11.5000|173.0000|57.450980392156862|220.5000|0|0|217|10|True
+1074|18|YYZ T1 - Route 2|306|Toronto Pearson - T1 - Air Canada - Airside|6301 Silver Dart Dr|Mississauga|ON|HHF Gate 178|51.2500|310.0000|46.894409937888198|455.0000|13|13|342|10|True
+984|18|YYZ T1 - Route 2|306|Toronto Pearson - T1 - Air Canada - Airside|6301 Silver Dart Dr|Mississauga|ON|Transborder Gate 166|14.0000|132.7500|59.191176470588235|196.2500|0|0|222|10|True
+1022|18|YYZ T1 - Route 2|306|Toronto Pearson - T1 - Air Canada - Airside|6301 Silver Dart Dr|Mississauga|ON|Transborder Gate 166|9.0000|61.2500|72.692307692307692|106.7500|0|0|71|10|True
+1072|18|YYZ T1 - Route 2|306|Toronto Pearson - T1 - Air Canada - Airside|6301 Silver Dart Dr|Mississauga|ON|Transborder Gate 166|40.5000|279.5000|46.577946768060836|427.0000|13|13|281|10|True
+1013|18|YYZ T1 - Route 2|305|Toronto Pearson - T1 - Air Canada - Terminal|6301 Silver Dart Dr|Mississauga|ON|East Satellite 193 Extension Ramp Sales|5.5000|11.7500|71.052631578947368|14.2500|0|0|99|11|True
+1077|18|YYZ T1 - Route 2|305|Toronto Pearson - T1 - Air Canada - Terminal|6301 Silver Dart Dr|Mississauga|ON|East Satellite 193 Extension Ramp Sales|11.0000|44.0000|72.656250000000000|63.0000|2|2|70|11|True
+1012|18|YYZ T1 - Route 2|305|Toronto Pearson - T1 - Air Canada - Terminal|6301 Silver Dart Dr|Mississauga|ON|Gate <120> Domestic Sale (Ivory Tower)|4.7500|42.0000|59.090909090909090|45.5000|0|0|115|8|True
+1073|18|YYZ T1 - Route 2|305|Toronto Pearson - T1 - Air Canada - Terminal|6301 Silver Dart Dr|Mississauga|ON|Gate <120> Domestic Sale (Ivory Tower)|3.0000|37.2500|82.500000000000000|43.2500|0|0|60|8|True
+1011|18|YYZ T1 - Route 2|305|Toronto Pearson - T1 - Air Canada - Terminal|6301 Silver Dart Dr|Mississauga|ON|Gate F64 Transboarder <165/167>|6.2500|20.2500|71.637426900584795|22.2500|0|0|97|9|True
+1079|18|YYZ T1 - Route 2|305|Toronto Pearson - T1 - Air Canada - Terminal|6301 Silver Dart Dr|Mississauga|ON|Gate F64 Transboarder <165/167>|8.5000|23.0000|87.113402061855670|29.0000|2|2|31|9|True
+1015|18|YYZ T1 - Route 2|305|Toronto Pearson - T1 - Air Canada - Terminal|6301 Silver Dart Dr|Mississauga|ON|MU3 Gate 130|17.5000|107.7500|62.008733624454148|135.0000|0|0|174|9|True
+1016|18|YYZ T1 - Route 2|305|Toronto Pearson - T1 - Air Canada - Terminal|6301 Silver Dart Dr|Mississauga|ON|MU3 Gate 130|15.7500|58.2500|62.692307692307692|72.0000|0|0|97|9|True
+1071|18|YYZ T1 - Route 2|305|Toronto Pearson - T1 - Air Canada - Terminal|6301 Silver Dart Dr|Mississauga|ON|MU3 Gate 130|48.0000|136.0000|69.339622641509433|188.0000|3|3|130|9|True
+985|18|YYZ T1 - Route 2|305|Toronto Pearson - T1 - Air Canada - Terminal|6301 Silver Dart Dr|Mississauga|ON|Ozone Gate D1 <101> - INSIDE|7.5000|29.0000|86.923076923076923|60.0000|0|0|49|17|True
+1007|18|YYZ T1 - Route 2|305|Toronto Pearson - T1 - Air Canada - Terminal|6301 Silver Dart Dr|Mississauga|ON|Ozone Gate D1 <101> - INSIDE||7.5000|76.250000000000000|13.7500|0|0|76|8|True
+1070|18|YYZ T1 - Route 2|305|Toronto Pearson - T1 - Air Canada - Terminal|6301 Silver Dart Dr|Mississauga|ON|Ozone Gate D1 <101> - INSIDE|22.0000|86.5000|75.934579439252336|88.5000|0|0|103|8|True
+537|18|YYZ T1 - Route 2|313|Toronto Pearson - T1 - Daifuku/Jervis Webb|6301 Silver Dart Dr|Mississauga|ON|Crew Lunchroom|2.0000|28.0000|57.303370786516853|34.0000|0|0|77|9|True
+1078|18|YYZ T1 - Route 2|313|Toronto Pearson - T1 - Daifuku/Jervis Webb|6301 Silver Dart Dr|Mississauga|ON|Crew Lunchroom|7.5000|60.0000|82.402234636871508|74.0000|0|0|65|9|True
+855|17|YYZ T3 - Route 1|288|GTAA - Toronto Pearson - Infield Terminal|6301 Silver Dart Dr|Mississauga|ON|Arriving Passengers G/F Door 2||19.0000|63.133640552995391|197.5000|7|7|80|32|True
+860|17|YYZ T3 - Route 1|288|GTAA - Toronto Pearson - Infield Terminal|6301 Silver Dart Dr|Mississauga|ON|Arriving Passengers G/F Door 2|6.7500|27.7500|62.012987012987012|81.2500|0|0|117|31|True
+853|17|YYZ T3 - Route 1|288|GTAA - Toronto Pearson - Infield Terminal|6301 Silver Dart Dr|Mississauga|ON|Gate 525|46.5000|256.0000|76.283618581907090|157.0000|2|2|97|3|True
+1309|17|YYZ T3 - Route 1|288|GTAA - Toronto Pearson - Infield Terminal|6301 Silver Dart Dr|Mississauga|ON|Gate 525||31.5000|91.250000000000000|54.0000|0|0|14|31|True
+858|17|YYZ T3 - Route 1|288|GTAA - Toronto Pearson - Infield Terminal|6301 Silver Dart Dr|Mississauga|ON|Gate 525|58.0000|508.0000|49.675324675324675|92.7500|2|2|153|3|True
+854|17|YYZ T3 - Route 1|288|GTAA - Toronto Pearson - Infield Terminal|6301 Silver Dart Dr|Mississauga|ON|Gate 527A (Across INK)|29.5000|244.5000|57.827476038338658|416.0000|2|2|264|32|True
+859|17|YYZ T3 - Route 1|288|GTAA - Toronto Pearson - Infield Terminal|6301 Silver Dart Dr|Mississauga|ON|Gate 527A (Across INK)|14.2500|356.5000|28.896103896103896|542.7500|0|0|219|31|True
+852|17|YYZ T3 - Route 1|288|GTAA - Toronto Pearson - Infield Terminal|6301 Silver Dart Dr|Mississauga|ON|Gate 529|34.0000|218.5000|83.922829581993569|97.0000|0|0|103|3|True
+862|17|YYZ T3 - Route 1|288|GTAA - Toronto Pearson - Infield Terminal|6301 Silver Dart Dr|Mississauga|ON|Gate 529|38.0000|249.5000|52.229299363057324|82.0000|1|1|150|3|True
+861|17|YYZ T3 - Route 1|288|GTAA - Toronto Pearson - Infield Terminal|6301 Silver Dart Dr|Mississauga|ON|Gate 529|48.0000|429.7500|21.666666666666666|229.0000|3|3|235|3|True
+657|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 APM Train|26.2500|143.7500|90.396341463414634|146.7500|0|0|63|8|True
+607|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 APM Train|49.7500|262.2500|68.506493506493506|271.2500|0|0|97|8|True
+651|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Depart A20 B20|31.5000|333.2500|80.733944954128440|288.5000|0|0|126|7|True
+547|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Depart A20 B20|42.0000|277.0000|76.302083333333333|241.0000|0|0|91|7|True
+548|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Depart A20 B20|62.0000|475.0000|34.722222222222222|425.5000|1|1|188|7|True
+654|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Depart A7 A8|53.2500|371.5000|74.474474474474474|463.7500|2|2|170|9|True
+616|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Depart A7 A8|24.0000|183.0000|68.434343434343434|255.5000|0|0|125|9|True
+621|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Depart A7 A8|51.0000|284.5000|67.006802721088435|233.5000|0|0|97|7|True
+614|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Depart A7 A8|24.7500|170.0000|73.986486486486486|223.7500|0|0|77|9|True
+655|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Depart B38|26.2500|408.2500|70.684523809523809|554.0000|3|3|197|9|True
+617|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Depart B38|38.5000|430.0000|62.373737373737373|345.0000|0|0|149|7|True
+620|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Depart B38|92.5000|827.0000|52.721088435374149|275.0000|1|1|139|3|True
+613|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Depart B38|33.2500|240.7500|74.342105263157894|230.0000|0|0|78|7|True
+662|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Dom Bag Hall Carousel 4|11.5000|104.2500|70.120120120120120|283.5000|0|0|199|19|True
+585|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Dom Bag Hall Carousel 4|15.0000|215.0000|72.916666666666666|267.0000|0|0|104|8|True
+550|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Dom Bag Hall Carousel 4|15.0000|177.0000|66.369047619047619|231.0000|0|0|113|8|True
+569|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Dom Bag Hall Carousel 4|25.0000|186.5000|57.142857142857142|237.0000|0|0|120|8|True
+538|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Employee Lounge by One-min Store|2.7500|20.5000|77.941176470588235|38.5000|0|0|51|13|True
+1308|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Gate A6|13.5000|139.5000|76.785714285714285|180.0000|0|0|62|9|True
+1307|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Gate A6|16.0000|276.2500|58.666666666666666|325.0000|0|0|117|9|True
+658|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 GTAA Admin Office (Floor AT)|7.0000|52.0000|81.851851851851851|84.0000|0|0|49|13|True
+581|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 GTAA Admin Office (Floor AT)|21.0000|111.5000|70.740740740740740|142.2500|0|0|79|10|True
+91|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Int'l Arrival|58.2500|546.5000|71.762870514820592|7.2500|2|2|181|0|True
+618|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Int'l Arrival|101.0000|816.0000|59.294871794871794|20.0000|0|0|116|0|True
+619|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Int'l Arrival|115.5000|1155.7500|30.232558139534883|647.0000|2|2|210|0|True
+653|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Int'l Arrivals Taxi Limo|31.5000|217.5000|68.532526475037821|5.5000|1|1|208|0|True
+540|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Int'l Arrivals Taxi Limo|67.2500|481.2500|61.148648648648648|40.2500|0|0|115|0|True
+539|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Int'l Arrivals Taxi Limo|12.0000|212.0000|81.250000000000000|77.0000|0|0|60|3|True
+556|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 intl bag hall Carousel 11|3.0000|144.0000|66.666666666666666|336.0000|0|0|112|0|True
+692|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 intl bag hall Carousel 11|27.7500|154.5000|72.839506172839506|301.5000|0|0|109|13|True
+579|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 intl bag hall Carousel 11|27.0000|259.0000|53.928571428571428|14.0000|0|0|129|0|True
+1289|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 intl bag hall Carousel 8|14.0000|294.5000|75.462962962962962|237.5000|0|0|159|6|True
+603|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 intl bag hall Carousel 8|18.0000|263.0000|78.906250000000000|12.0000|0|0|81|0|True
+573|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 intl bag hall Carousel 8|69.0000|462.0000|53.571428571428571|45.0000|0|0|156|0|True
+568|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 intl bag hall Carousel 8|27.5000|305.0000|51.428571428571428|18.0000|0|0|136|0|True
+1290|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 intl bag hall Carousel 8+9|23.0000|180.0000|81.756756756756756|136.0000|0|0|108|6|True
+555|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 intl bag hall Carousel 8+9|42.0000|189.0000|75.595238095238095|147.0000|0|0|82|6|True
+691|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 intl bag hall Carousel 8+9|99.0000|693.0000|56.049382716049382|48.7500|0|0|178|0|True
+578|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 intl bag hall Carousel 8+9|12.5000|237.0000|50.000000000000000|6.0000|0|0|140|0|True
+660|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Pier A L1B1DC Landing B1d Gate|41.0000|187.5000|86.448598130841121|181.5000|0|0|87|7|True
+601|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Pier A L1B1DC Landing B1d Gate|32.5000|200.5000|62.987012987012987|377.0000|0|0|114|17|True
+605|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Pier A L1B1DC Landing B1d Gate|30.0000|172.0000|83.510638297872340|152.0000|0|0|62|7|True
+602|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Pier A L1B1DC Landing By Escalator||36.0000|93.465909090909090|69.0000|0|0|23|17|True
+543|17|YYZ T3 - Route 1|266|GTAA - Toronto Pearson - Terminal 3|6301 Silver Dart Dr|Mississauga|ON|T3 Pier A L1B1DC Landing By Escalator||55.0000|87.414965986394557|117.0000|0|0|37|17|True
+1147|17|YYZ T3 - Route 1|354|Toronto Pearson - T3 - Swissport|6301 Silver Dart Dr|Mississauga|ON|C30 BH157 - Back Hallway|||57.170542635658914|98.7500|4|4|114|17|True
+1148|17|YYZ T3 - Route 1|354|Toronto Pearson - T3 - Swissport|6301 Silver Dart Dr|Mississauga|ON|C30 BH157 - Back Hallway|||67.229729729729729|61.0000|0|0|47|17|True
+1145|17|YYZ T3 - Route 1|354|Toronto Pearson - T3 - Swissport|6301 Silver Dart Dr|Mississauga|ON|C30 BH157 - Front Hallway|53.0000|245.0000|63.068181818181818|231.5000|1|1|195|7|True
+1146|17|YYZ T3 - Route 1|354|Toronto Pearson - T3 - Swissport|6301 Silver Dart Dr|Mississauga|ON|C30 BH157 - Front Hallway|23.5000|143.5000|75.000000000000000|141.5000|0|0|74|7|True

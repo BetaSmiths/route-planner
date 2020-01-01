@@ -1,254 +1,96 @@
 //get data from Vendsys and then run the following in linux:
 // csvtool namedcol Id,RouteId,Route,AccountId,Account,Address,City,State,Location,Last24HoursSales,Last7DaysSales,"Fill %",Sales,SoldoutItems,EmptyLanes,ItemsToPick,DaysSinceLastVisit,IsAccountOpen /mnt/c/temp/routeplanner.csv -u "|" | sort | uniq > src/dataNeeded.csv
-import React from "react"
-import { Link } from "gatsby"
-import {Map, InfoWindow, Marker, GoogleApiWrapper} from 'google-maps-react'
+import React, { useState, useEffect } from "react"
 
+import CSVReader from "react-csv-reader";
 import Layout from "../components/layout"
-import Image from "../components/image"
-import SEO from "../components/seo"
+import pick from 'lodash/pick'
+
+import AdariaGMap from '../components/adaria-gmap'
+import latlong from '../components/location-latlong'
+import accounts from '../components/account-info'
+
+import './index.css'
 
 
-const points = {
-375:{lat:43.487574,lng:-79.672185},
-250:{lat:39.78373,lng:-100.445882},
-260:{lat:43.641672,lng:-79.379799},
-161:{lat:43.794888,lng:-79.672006},
-328:{lat:43.65706,lng:-79.380404},
-382:{lat:43.868975,lng:-79.449148},
-155:{lat:39.78373,lng:-100.445882},
-389:{lat:39.78373,lng:-100.445882},
-419:{lat:43.219651,lng:-79.80648},
-249:{lat:39.78373,lng:-100.445882},
-247:{lat:43.858901,lng:-79.513475},
-330:{lat:43.620882,lng:-79.515513},
-296:{lat:39.78373,lng:-100.445882},
-291:{lat:43.740095,lng:-79.611768},
-332:{lat:39.78373,lng:-100.445882},
-344:{lat:43.538637,lng:-79.869917},
-110:{lat:43.361116,lng:-79.806192},
-132:{lat:39.78373,lng:-100.445882},
-112:{lat:39.78373,lng:-100.445882},
-230:{lat:43.72413,lng:-79.488355},
-424:{lat:43.429825,lng:-80.37508},
-346:{lat:43.343681,lng:-79.830085},
-57:{lat:43.258003,lng:-79.918662},
-105:{lat:43.635028,lng:-79.433214},
-147:{lat:44.071099,lng:-79.425091},
-381:{lat:43.644073,lng:-79.368876},
-65:{lat:43.712357,lng:-79.580612},
-350:{lat:43.941571,lng:-78.836905},
-303:{lat:43.957999,lng:-79.510697},
-40:{lat:43.638856,lng:-79.446353},
-302:{lat:43.866497,lng:-78.915827},
-55:{lat:43.788256,lng:-79.476624},
-244:{lat:39.78373,lng:-100.445882},
-405:{lat:43.231195,lng:-79.921674},
-321:{lat:43.859424,lng:-78.846537},
-353:{lat:43.695407,lng:-79.712753},
-325:{lat:43.929777,lng:-78.870173},
-409:{lat:43.215043,lng:-79.851337},
-422:{lat:39.78373,lng:-100.445882},
-399:{lat:43.234,lng:-79.757345},
-318:{lat:43.900418,lng:-78.872324},
-26:{lat:43.400647,lng:-80.441553},
-81:{lat:44.014903,lng:-79.471398},
-365:{lat:43.676655,lng:-79.410474},
-316:{lat:43.948593,lng:-78.851265},
-14:{lat:39.78373,lng:-100.445882},
-12:{lat:43.855406,lng:-79.263477},
-317:{lat:43.900018,lng:-78.831899},
-363:{lat:43.793792,lng:-79.350308},
-259:{lat:43.78848,lng:-79.463301},
-79:{lat:43.641647,lng:-79.349652},
-418:{lat:43.236658,lng:-79.794048},
-347:{lat:43.84927,lng:-79.323404},
-337:{lat:43.77788,lng:-79.345665},
-93:{lat:39.78373,lng:-100.445882},
-258:{lat:39.78373,lng:-100.445882},
-24:{lat:43.475738,lng:-80.517723},
-402:{lat:43.257845,lng:-79.846254},
-152:{lat:39.78373,lng:-100.445882},
-94:{lat:43.841639,lng:-79.323128},
-290:{lat:43.59768,lng:-79.517834},
-376:{lat:43.635625,lng:-79.39825},
-263:{lat:39.78373,lng:-100.445882},
-99:{lat:43.778195,lng:-79.251153},
-101:{lat:43.658965,lng:-79.38688},
-366:{lat:43.650853,lng:-79.370537},
-118:{lat:43.821301,lng:-79.344646},
-314:{lat:43.688611,lng:-79.667541},
-289:{lat:43.727452,lng:-79.609214},
-254:{lat:43.518717,lng:-79.659672},
-340:{lat:43.509551,lng:-79.669509},
-255:{lat:43.826011,lng:-79.644771},
-280:{lat:43.855957,lng:-79.509587},
-349:{lat:43.722237,lng:-79.291991},
-39:{lat:43.769622,lng:-79.300234},
-117:{lat:43.658124,lng:-79.375609},
-385:{lat:43.542114,lng:-79.638051},
-345:{lat:43.420141,lng:-80.438746},
-46:{lat:43.644188,lng:-79.385258},
-369:{lat:43.653118,lng:-79.370699},
-326:{lat:43.707367,lng:-79.398756},
-274:{lat:43.657854,lng:-79.603566},
-16:{lat:39.78373,lng:-100.445882},
-233:{lat:43.502937,lng:-79.637268},
-269:{lat:43.601868,lng:-79.75387},
-193:{lat:43.750799,lng:-79.351842},
-411:{lat:43.225747,lng:-79.881216},
-384:{lat:43.760961,lng:-79.412787},
-87:{lat:43.643481,lng:-79.380383},
-378:{lat:43.644388,lng:-79.387593},
-301:{lat:39.78373,lng:-100.445882},
-403:{lat:43.254374,lng:-79.882729},
-309:{lat:43.626647,lng:-79.679224},
-315:{lat:43.626647,lng:-79.679224},
-327:{lat:43.648588,lng:-79.391373},
-82:{lat:43.659567,lng:-79.381005},
-27:{lat:43.509369,lng:-79.661534},
-386:{lat:39.78373,lng:-100.445882},
-172:{lat:43.658166,lng:-79.764818},
-413:{lat:39.78373,lng:-100.445882},
-275:{lat:43.678854,lng:-79.639243},
-420:{lat:43.216835,lng:-79.998179},
-374:{lat:43.651912,lng:-79.370175},
-297:{lat:43.392772,lng:-80.401703},
-298:{lat:43.652978,lng:-79.377579},
-390:{lat:43.73878,lng:-79.607457},
-71:{lat:39.78373,lng:-100.445882},
-29:{lat:43.676907,lng:-79.712977},
-351:{lat:43.776413,lng:-79.257287},
-248:{lat:39.78373,lng:-100.445882},
-364:{lat:43.642564,lng:-79.387087},
-310:{lat:43.672175,lng:-79.593237},
-400:{lat:43.227332,lng:-79.862854},
-333:{lat:43.592196,lng:-79.651387},
-311:{lat:43.671954,lng:-79.596561},
-372:{lat:43.697489,lng:-79.620005},
-91:{lat:43.796127,lng:-79.394272},
-352:{lat:43.726952,lng:-79.450578},
-367:{lat:43.651725,lng:-79.365547},
-127:{lat:43.718735,lng:-79.371488},
-396:{lat:43.229404,lng:-79.896465},
-415:{lat:43.265728,lng:-79.963676},
-243:{lat:39.78373,lng:-100.445882},
-343:{lat:43.39357,lng:-79.751461},
-336:{lat:43.778986,lng:-79.596538},
-66:{lat:39.78373,lng:-100.445882},
-90:{lat:43.762816,lng:-79.544723},
-421:{lat:43.218017,lng:-79.763337},
-41:{lat:43.646459,lng:-79.391811},
-195:{lat:43.574504,lng:-79.771896},
-31:{lat:43.828878,lng:-79.258857},
-416:{lat:43.216371,lng:-80.00864},
-104:{lat:43.654151,lng:-79.406577},
-142:{lat:39.78373,lng:-100.445882},
-414:{lat:43.237645,lng:-79.860542},
-130:{lat:39.78373,lng:-100.445882},
-407:{lat:43.218977,lng:-79.767035},
-397:{lat:43.270331,lng:-79.861499},
-295:{lat:43.538368,lng:-80.293893},
-80:{lat:43.665069,lng:-79.37769},
-342:{lat:43.543996,lng:-80.309112},
-356:{lat:43.642725,lng:-79.608752},
-272:{lat:39.78373,lng:-100.445882},
-75:{lat:43.763761,lng:-79.660535},
-279:{lat:43.712423,lng:-79.307715},
-232:{lat:43.712423,lng:-79.307715},
-319:{lat:43.895821,lng:-78.865946},
-95:{lat:39.78373,lng:-100.445882},
-334:{lat:43.733006,lng:-79.76804},
-54:{lat:43.766853,lng:-79.388935},
-246:{lat:43.804711,lng:-79.440567},
-251:{lat:43.780246,lng:-79.591684},
-109:{lat:43.385764,lng:-79.772586},
-338:{lat:43.76863,lng:-79.412187},
-368:{lat:43.6441,lng:-79.365608},
-45:{lat:39.78373,lng:-100.445882},
-114:{lat:43.414884,lng:-80.449288},
-106:{lat:43.719223,lng:-79.370178},
-395:{lat:39.78373,lng:-100.445882},
-103:{lat:43.667847,lng:-79.378869},
-329:{lat:43.669618,lng:-79.388716},
-252:{lat:43.669618,lng:-79.388716},
-72:{lat:43.657901,lng:-79.378792},
-253:{lat:43.62448,lng:-79.684378},
-387:{lat:43.624004,lng:-79.702927},
-341:{lat:43.4968,lng:-80.525011},
-304:{lat:43.657286,lng:-79.386804},
-74:{lat:39.78373,lng:-100.445882},
-84:{lat:43.622318,lng:-79.699603},
-139:{lat:43.658157,lng:-79.611804},
-388:{lat:43.619142,lng:-79.670231},
-406:{lat:43.217111,lng:-79.786859},
-425:{lat:39.78373,lng:-100.445882},
-102:{lat:43.658173,lng:-79.390649},
-265:{lat:43.683124,lng:-79.612027},
-312:{lat:43.68963,lng:-79.625277},
-360:{lat:43.747504,lng:-79.476594},
-235:{lat:43.659511,lng:-79.389861},
-135:{lat:43.846536,lng:-79.366584},
-417:{lat:43.268441,lng:-79.936624},
-362:{lat:43.771135,lng:-79.499878},
-281:{lat:39.78373,lng:-100.445882},
-20:{lat:43.717109,lng:-79.636706},
-262:{lat:43.788877,lng:-79.496938},
-358:{lat:43.780232,lng:-79.244118},
-283:{lat:43.730052,lng:-79.292302},
-285:{lat:43.786193,lng:-79.193025},
-278:{lat:43.796558,lng:-79.498669},
-423:{lat:43.702492,lng:-79.572767},
-348:{lat:43.797465,lng:-79.203593},
-361:{lat:43.849795,lng:-79.367133},
-370:{lat:43.653021,lng:-79.356957},
-410:{lat:43.264628,lng:-79.896366},
-245:{lat:43.787453,lng:-79.612128},
-89:{lat:43.688978,lng:-79.32574},
-320:{lat:43.878877,lng:-78.847016},
-23:{lat:43.846051,lng:-79.357345},
-339:{lat:43.501736,lng:-80.184912},
-401:{lat:43.220182,lng:-79.83044},
-335:{lat:43.840796,lng:-79.427084},
-398:{lat:43.251371,lng:-79.831773},
-151:{lat:43.835917,lng:-79.536733},
-50:{lat:43.740265,lng:-79.625061},
-240:{lat:43.707730, lng:-79.395748},
-271:{lat:43.803277,lng:-79.452211},
-412:{lat:43.238992,lng:-79.921768},
-196:{lat:43.89496,lng:-79.752141},
-242:{lat:43.78097,lng:-79.589688},
-287:{lat:43.785469,lng:-79.232478},
-284:{lat:43.785505,lng:-79.228014},
-128:{lat:39.78373,lng:-100.445882},
-286:{lat:43.68441,lng:-79.349362},
-111:{lat:43.387668,lng:-79.763972},
-282:{lat:43.868809,lng:-79.541185},
-322:{lat:43.896773,lng:-78.85947},
-299:{lat:43.387008,lng:-80.411896},
-308:{lat:43.621499,lng:-79.771242},
-331:{lat:43.595751,lng:-79.647248},
-323:{lat:43.888208,lng:-78.891865},
-294:{lat:43.662878,lng:-79.401211}}
+const MACHINE_FIELDS_TO_RETAIN = 'Id,AccountId,Account,Location,LocationId,Last24HoursSales,Last7DaysSales,Fill %,Sales,SoldoutItems,EmptyLanes,IsAccountOpen,ItemsToPick,DaysSinceLastVisit'.split(',')
+const papaparseOptions = {
+  header: true,
+  dynamicTyping: true,
+  skipEmptyLines: true,
+  // transformHeader: header => header.toLowerCase().replace(/\W/g, "_")
+};
 
 const IndexPage = (props) => {
+  let [accountData, updateAccountData] = useState({})
+  let [machineData, updateMachineData] = useState({})
+  useEffect(() => {
+    // combine account info and location-latlong
+    updateAccountData(Object.entries(latlong).reduce((accumulator, [acctId, pos]) => {
+      accumulator[acctId] = {
+        ...accounts[acctId],
+        position: pos
+      }
+      return accumulator
+    }, {}))
+  }, [])
 
-let bounds = new props.google.maps.LatLngBounds();
+  const handleRouting = routeData => {
+    const result = {}
+    for (let machine of routeData) {
+      let mInfo = pick(machine, MACHINE_FIELDS_TO_RETAIN)
+      mInfo.SalesRate = 0.2 * (mInfo.Last24HoursSales || 0) + (mInfo.Last7DaysSales || 0)/7.0 + 0.5 * (mInfo.Sales || 0) / 0.3 * (mInfo.DaysSinceLastVisit || 1.0)
+      if (machine.AccountId in result) {
+        result[machine.AccountId].push(mInfo)
+      } else {
+        result[machine.AccountId] = [mInfo]
+      }
+    }
+    const missingAccounts = []
+    const newAccountData = {} // If we don't want to ignore accounts with no machines... Object.assign({}, accountData)
+    let maxSalesRate = 0
+    for (let [acctId, accountMachines] of Object.entries(result)) {
+      if (!(acctId in accountData)) {
+        missingAccounts.push(`${acctId} - ${accountMachines[0].Account} (# Machines: ${accountMachines.length})`)
+        continue
+      }
+      let acctData = Object.assign(accountData[acctId], accountMachines.reduce((accum, val) => {
+        accum.min_fill_pct = Math.min(val['Fill %'])
+        accum.ItemsToPick += val.ItemsToPick || 0
+        accum.SoldoutItems += val.SoldoutItems || 0
+        accum.EmptyLanes += val.EmptyLanes || 0
+        accum.SalesRate += val.SalesRate || 0
+        maxSalesRate = Math.max(val.SalesRate || 0, maxSalesRate)
+        return accum
+      }, {min_fill_pct:100, ItemsToPick: 0, SoldoutItems: 0, EmptyLanes: 0, SalesRate: 0}))
+      acctData.numMachines = accountMachines.length
+      acctData.healthScore = acctData.min_fill_pct
+      newAccountData[acctId] = acctData
+    }
+    Object.values(newAccountData).forEach(d => d.healthScore = Math.max(0, d.healthScore - 20 * (d.SalesRate * 1.0 / d.numMachines / maxSalesRate)))
 
-for (var i = 0; i < points.length; i++) {
-  bounds.extend(points[i]);
+    updateMachineData(result)
+    updateAccountData(newAccountData)
+    if (missingAccounts) alert(`Missing the following account info:\n${missingAccounts.join('\n')}`)
+  };
+
+  return (
+    <Layout>
+      <div style={{
+        textAlign: 'center',
+        padding: 15,
+        margin: '10px auto'
+      }}>
+        <CSVReader
+          cssClass="react-csv-input"
+          label="Select CSV exported from Vendsys"
+          onFileLoaded={handleRouting}
+          parserOptions={papaparseOptions}
+        />
+      </div>
+      <AdariaGMap defaultZoom={14} defaultCenter={{ lat: 43.836802, lng: -79.503661 }} data={accountData} machineData={machineData}/>
+    </Layout>
+  )
 }
-	
-return (
-  <Layout>
-    <Map google={props.google} style={{width: '80%', height: '100%', position: 'relative'}} zoom={14} bounds={bounds} initialCenter={{lat:43.836802, lng:-79.503661}}>
-	<Marker key='-1' title='testing 123\nis this a new line?' name='Warehouse' position={{lat: 43.836802, lng: -79.503661 }} 
-	    onMouseover={(props,marker,e)=>{console.log(props,marker,e)}} />
-	
-	{Object.values(points).map((latlong,idx)=>(<Marker key={idx} position={latlong} onMouseover={(props,marker,e)=>{console.log(props,marker,e)}}/>))}
-    </Map>
-  </Layout>
-)
-}
 
-export default GoogleApiWrapper({apiKey: 'AIzaSyCltHEoGA-81o8mN7dhqDiU7yqkHCAMpn8'})(IndexPage)
+export default IndexPage

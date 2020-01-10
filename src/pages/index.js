@@ -29,6 +29,9 @@ const IndexPage = (props) => {
   let [machineGroups, updateMachineGroups] = useState({ 'default': 'blue' })
   let [selectedRoute, updateSelectedRoute] = useState(0)
   let [routes, updateRoutes] = useState({})
+  let [selectedAcct, updateSelectedAcct] = useState()
+  let [showAccountSearch, setShowAccountSearch] = useState(false)
+  let [accountSearchResult, setAccountSearchResult] = useState(Object.values(accounts).slice(0, 20))
   useEffect(() => {
     // combine account info and location-latlong
     updateAccountData(Object.entries(latlong).reduce((accumulator, [acctId, pos]) => {
@@ -105,42 +108,85 @@ const IndexPage = (props) => {
     // })
     handleRouting(flatten(Object.values(machineData)), newRouteId, false)
     updateSelectedRoute(newRouteId)
+
     // updateAccountData(newAcctData)
   }
 
+  const searchAccount = (searchText) => {
+    setAccountSearchResult(Object.values(accountData).filter(acct => acct.Account.toLowerCase().indexOf(searchText.toLowerCase()) > -1).slice(0, 20))
+  }
+
+  let selectedAcctInfo = accountData[selectedAcct]
+
   return (
-    <Layout className="container">
-      <div className="columns" style={{
-        textAlign: 'center',
-        padding: 5,
-        margin: '10px auto'
-      }}>
-        <CSVReader
-          cssClass="react-csv-input"
-          onFileLoaded={handleRouting}
-          parserOptions={papaparseOptions}
-        />
-        <div className="column col-3 col-ml-auto">
-          <select
-            id='map-route-select'
-            value={selectedRoute} onChange={changeRoute}>
-            <option key="route-select-0" value={0}>All</option>
-            {Object.entries(routes).map(([routeId, routeName], idx) => <option key={`route-select-${idx}`} value={routeId}>{routeName}</option>)}
-          </select></div>
+    <Layout className="container" >
+      {Object.keys(machineData).length === 0 ?
+        <div className="columns" style={{
+          textAlign: 'center',
+          padding: 5,
+          margin: '10px auto'
+        }}>
+          <CSVReader
+            cssClass="react-csv-input"
+            onFileLoaded={(data, fileName) => handleRouting(data)}
+            parserOptions={papaparseOptions}
+          /></div> :
+        <>
+          <div className="container" id='map-route-select' style={{ maxWidth: "30%", marginTop: 10, marginLeft: 20 }}>
+            <div className="columns">
+              <select className="col-auto"
+                value={selectedRoute} onChange={changeRoute}>
+                <option key="route-select-0" value={0}>All</option>
+                {Object.entries(routes).map(([routeId, routeName], idx) => <option key={`route-select-${idx}`} value={routeId}>{routeName}</option>)}
+              </select>
+              <img style={{ marginLeft: 5 }} src={showAccountSearch ? "https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/2100495141541068756-16.png" : "https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/13416400251535694869-16.png"}
+                onClick={() => setShowAccountSearch(!showAccountSearch)}
+              />
+            </div>
 
-      </div>
+            {!showAccountSearch && selectedAcct ? <div id='map-account-summary' style={{ padding: 5, marginTop: 10, backgroundColor: "white" }}>
+              <h6>{selectedAcctInfo.Account} ({selectedAcctInfo.AccountId})</h6>
+              <div>{selectedAcctInfo.Address}, {selectedAcctInfo.City}, {selectedAcctInfo.State}</div>
+              <div><b># Machines:</b> {selectedAcctInfo.numMachines} <b># Soldout:</b> {selectedAcctInfo.SoldoutItems} {" "}
+                <b>Fill</b>: {Math.round(selectedAcctInfo.min_fill_pct)}%  <b>To Pick:</b> {selectedAcctInfo.ItemsToPick} {" "}
+                <b>Open?:</b> <span style={{ color: selectedAcctInfo.IsAccountOpen ? "black" : "red" }}>{selectedAcctInfo.IsAccountOpen ? "Y" : "N"}</span>
+              </div></div> : false}
 
-      <div id="floating-panel" style={{backgroundColor: 'white', padding: 10}}>{Object.keys(selectedMachines).length} machines in {new Set(Object.values(selectedMachines)).size} locations selected</div>
-      <AdariaGMap
-        defaultZoom={14}
-        defaultCenter={{ lat: 43.836802, lng: -79.503661 }}
-        data={accountData}
-        machineData={machineData}
-        selectedMachines={selectedMachines}
-        updateSelectedMachines={updateSelectedMachines}
-        machineGroups={machineGroups}
-        updateMachineGroups={updateMachineGroups}
-      />
+            {showAccountSearch ?
+              <div className="columns" style={{ backgroundColor: 'white', overflowY: 'auto', marginTop: 10 }}>
+                <input style={{ width: "100%" }} type="text" onChange={(e) => { searchAccount(e.target.value) }}></input>
+                <div style={{ cursor: "default", padding: 10 }}>
+                  {accountSearchResult.map(acct => {
+                    return <div onClick={() => { window.gmap.setCenter(acct.position); updateSelectedAcct(acct.AccountId) }}>{acct.Account}</div>
+                  })}
+                </div></div>
+              : false
+            }
+          </div>
+          <div id="floating-panel" className="container" style={{ width:300, backgroundColor: 'white', padding: 10 }}>
+            <div className="columns" style={{textAlign: "center"}}>
+              <div className="column p-centered" style={{marginBottom:0}}>
+                <h1 style={{marginBottom:0}}>{Object.keys(selectedMachines).length}</h1> machines
+              </div>
+              <div className="divider-vert" />
+              <div className="column p-centered">
+                <h1 style={{marginBottom:0}}>{new Set(Object.values(selectedMachines)).size}</h1> locations
+              </div>
+            </div>
+          </div>
+          <AdariaGMap
+            defaultZoom={14}
+            defaultCenter={{ lat: 43.836802, lng: -79.503661 }}
+            data={accountData}
+            machineData={machineData}
+            selectedMachines={selectedMachines}
+            updateSelectedMachines={updateSelectedMachines}
+            machineGroups={machineGroups}
+            updateMachineGroups={updateMachineGroups}
+            selectedAcctInfo={selectedAcctInfo}
+            selectedAcct={selectedAcct}
+            updateSelectedAcct={updateSelectedAcct}
+          /></>}
     </Layout>
   )
 }

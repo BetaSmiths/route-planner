@@ -11,15 +11,15 @@ const getMarker = (pct, color = "#FF00FF", opacity = 1.0) => { //#Note: color ca
 
 const AdariaGMap = (props) => {
 
+    let [showDetailWindow, setShowDetailWindow] = useState(true)
+
     let bounds = new window.google.maps.LatLngBounds()
 
     for (const [acctId, { isVisible, position }] of Object.entries(props.data)) {
-        if (typeof (isVisible) === 'undefined' || isVisible)
+        if (typeof (isVisible) === 'undefined' || isVisible) {
             bounds.extend(position);
+        }
     }
-
-    let [selectedAcct, setSelectedAcct] = useState()
-
 
     return <><GoogleMap
         onLoad={map => {
@@ -35,7 +35,8 @@ const AdariaGMap = (props) => {
             map.controls[window.google.maps.ControlPosition.TOP_LEFT].push(
                 document.getElementById('map-route-select'))
 
-
+            map.controls[window.google.maps.ControlPosition.BOTTOM_CENTER].push(
+                document.getElementById('map-machine-details'))
 
             map.fitBounds(bounds);
         }}
@@ -68,6 +69,10 @@ const AdariaGMap = (props) => {
                 const mData = props.machineData[acctId]
                 let markerColor = props.machineGroups.default
                 for (let m of mData || []) {
+                    if (props.selectedAcct == acctId) {
+                        markerColor = "#4caf50"
+                        break
+                    }
                     if (m.Id in props.selectedMachines) {
                         markerColor = '#a3940b'
                         break
@@ -116,97 +121,10 @@ const AdariaGMap = (props) => {
 
                     }}
                     onClick={(e) => {
-                        setSelectedAcct(acctId)
+                        parseInt(acctId) === props.selectedAcct ? props.updateSelectedAcct(null) : props.updateSelectedAcct(parseInt(acctId))
                     }}
                     clusterer={clusterer}
                 >
-                    {(selectedAcct === acctId && mData) && <InfoWindow
-                        position={accountInfo.position}
-                        onCloseClick={() => setSelectedAcct(null)}
-                        key={`acctInfo-${idx}`}
-                    >
-                        <div style={{ width: "100%", height: "100%", maxHeight: "600px" }}>
-                            <h5>{accountInfo.Account} ({accountInfo.AccountId})</h5>
-                            <div>{accountInfo.Address}, {accountInfo.City}, {accountInfo.State}</div>
-                            <div>Main Route: {accountInfo.Route} ({accountInfo.RouteId})</div>
-                            <div><b># Machines:</b> {accountInfo.numMachines} <b># Soldout:</b> {accountInfo.SoldoutItems} {" "}
-                                <b>Fill</b>: {Math.round(accountInfo.min_fill_pct)}%  <b>To Pick:</b> {accountInfo.ItemsToPick} {" "}
-                                <b>Open?:</b> <span style={{ color: accountInfo.IsAccountOpen ? "black" : "red" }}>{accountInfo.IsAccountOpen ? "Y" : "N"}</span>
-                            </div>
-                            <button
-                                onClick={() => {
-                                    let newSelected = { ...props.selectedMachines }
-                                    mData.forEach(m => newSelected[m.Id] = m.AccountId)
-                                    props.updateSelectedMachines(newSelected)
-                                    setSelectedAcct(null)
-                                }}
-                                style={{
-                                    backgroundColor: '#4CAF50',
-                                    border: 'none',
-                                    padding: '15px 20px',
-                                    textAlign: 'center',
-                                    display: 'inline-block'
-                                }}>Select All</button>
-                            <table className='table' style={{ fontSize: "0.5rem", fontWeight: "bold", padding: "0.1rem, 0.05rem" }}>
-                                <thead>
-                                    <tr>
-                                        <th>Asset</th>
-                                        <th>Location</th>
-                                        <th>Model</th>
-                                        <th>Route</th>
-                                        <th>Fill %</th>
-                                        <th>Soldout Items / Lanes</th>
-                                        <th>Pick</th>
-                                        <th>Sales (24hr)</th>
-                                        <th>Sales (7d)</th>
-                                        <th>Sales</th>
-                                        <th>Days since Visit</th>
-                                        <th>Add</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    {mData.map((d, idx) => {
-                                        const isAdd = !(d.Id in props.selectedMachines)
-                                        return (
-                                            <tr key={`marker-machine-${d.Id}`} className={idx % 2 === 0 ? "active" : ""}>
-                                                <td>{d.Asset}</td>
-                                                <td>{d.Location}</td>
-                                                <td>{d.Model}</td>
-                                                <td>{d.Route.replace("Route", "")}</td>
-                                                <td style={{ color: d['Fill %'] < 30 ? 'red' : 'black' }}>
-                                                    {Math.round(d['Fill %'])}%
-                                                    <div style={{ height: 5, backgroundColor: 'black' }}>
-                                                        <div style={{ height: '100%', width: `${Math.min(100, Math.max(5, Math.round(d['Fill %'])))}%`, backgroundColor: d['Fill %'] > 60 ? 'green' : (d['Fill %'] > 30 ? 'yellow' : 'red') }}></div>
-                                                    </div></td>
-                                                <td style={{ color: d.Model.toLowerCase().indexOf('drink') > -1 ? (d.SoldoutItems > 0 ? 'red' : 'black') : (d.SoldoutItems > 3 ? 'red' : (d.SoldoutItems > 0 ? '#a3940b' : 'black')) }}>{d.SoldoutItems}/{d.EmptyLanes}</td>
-                                                <td>{d.ItemsToPick}</td>
-                                                <td>{d.Last24HoursSales}</td>
-                                                <td>{d.Last7DaysSales}</td>
-                                                <td>{Math.round(d.Sales * 100) / 100}</td>
-                                                <td>{d.DaysSinceLastVisit}</td>
-                                                <td><button
-                                                    onClick={() => {
-                                                        let newSelected = { ...props.selectedMachines }
-                                                        if (isAdd)
-                                                            newSelected[d.Id] = d.AccountId
-                                                        else
-                                                            delete newSelected[d.Id]
-                                                        props.updateSelectedMachines(newSelected)
-                                                    }}
-                                                    style={{
-                                                        backgroundColor: isAdd ? '#4CAF50' : 'red',
-                                                        border: 'none',
-                                                        padding: '10px 12px',
-                                                        textAlign: 'center',
-                                                        display: 'inline-block'
-                                                    }}>{isAdd ? 'Add' : 'Remove'}</button></td>
-                                            </tr>
-                                        )
-                                    })}
-                                </tbody>
-                            </table>
-                        </div>
-                    </InfoWindow>}
                 </Marker>
             }
             )}
@@ -215,7 +133,118 @@ const AdariaGMap = (props) => {
         <div id='map-reset-center-zoom'
             style={{ backgroundColor: 'white', display: 'inline-flex', alignItems: 'center', justifyContent: 'center', marginRight: 10, marginTop: 10, width: 40, height: 40 }}
             onClick={() => window.gmap.fitBounds(bounds)}>
-            <img style={{ width: 18, }} src='data:image/svg+xml;utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18"><path d="M17.659,9.597h-1.224c-0.199-3.235-2.797-5.833-6.032-6.033V2.341c0-0.222-0.182-0.403-0.403-0.403S9.597,2.119,9.597,2.341v1.223c-3.235,0.2-5.833,2.798-6.033,6.033H2.341c-0.222,0-0.403,0.182-0.403,0.403s0.182,0.403,0.403,0.403h1.223c0.2,3.235,2.798,5.833,6.033,6.032v1.224c0,0.222,0.182,0.403,0.403,0.403s0.403-0.182,0.403-0.403v-1.224c3.235-0.199,5.833-2.797,6.032-6.032h1.224c0.222,0,0.403-0.182,0.403-0.403S17.881,9.597,17.659,9.597 M14.435,10.403h1.193c-0.198,2.791-2.434,5.026-5.225,5.225v-1.193c0-0.222-0.182-0.403-0.403-0.403s-0.403,0.182-0.403,0.403v1.193c-2.792-0.198-5.027-2.434-5.224-5.225h1.193c0.222,0,0.403-0.182,0.403-0.403S5.787,9.597,5.565,9.597H4.373C4.57,6.805,6.805,4.57,9.597,4.373v1.193c0,0.222,0.182,0.403,0.403,0.403s0.403-0.182,0.403-0.403V4.373c2.791,0.197,5.026,2.433,5.225,5.224h-1.193c-0.222,0-0.403,0.182-0.403,0.403S14.213,10.403,14.435,10.403"></path></svg>' />
+            <img style={{ width: 18, }} src='https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/17998375811574330942-32.png' />
+        </div>
+        <div id='map-machine-details' style={{ width: "80%", minHeight: 0, maxHeight: "40%", overflowY: 'auto', backgroundColor: 'white', padding: 20 }}>
+            <button 
+                onClick={() => setShowDetailWindow(!showDetailWindow)}
+                style={{ position: "absolute", right: 5, top: 0, border: 0 }}>
+                {showDetailWindow?
+                    <img style={{ width: 10 }} src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A" />
+                    :
+                    <img style={{width: 10}} src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpolygon%20fill%3D%22%23666%22%20points%3D%2218%2C7%2011%2C7%2011%2C0%207%2C0%207%2C7%200%2C7%200%2C11%207%2C11%207%2C18%2011%2C18%2011%2C11%2018%2C11%22%2F%3E%0A%3C%2Fsvg%3E%0A"/>
+                }
+                
+            </button>
+            {showDetailWindow && props.selectedAcct ? [[props.selectedAcct, props.data[props.selectedAcct]]].map(([acctId, accountInfo]) => {
+                const mData = props.machineData[acctId]
+
+                return <div key={`machine-details-${acctId}`} className="container">
+                    <div className="columns">
+                        <div className="column col-mr-auto">
+                            <h6>{accountInfo.Account} ({accountInfo.AccountId})</h6>
+                            <div ><b># Machines:</b> {accountInfo.numMachines} <b># Soldout:</b> {accountInfo.SoldoutItems} {" "}
+                                <b>Fill</b>: {Math.round(accountInfo.min_fill_pct)}%  <b>To Pick:</b> {accountInfo.ItemsToPick} {" "}
+                                <b>Open?:</b> <span style={{ color: accountInfo.IsAccountOpen ? "black" : "red" }}>{accountInfo.IsAccountOpen ? "Y" : "N"}</span>
+                            </div>
+                        </div>
+                        <button className="column col-2"
+                            onClick={() => {
+                                let newSelected = { ...props.selectedMachines }
+                                mData.forEach(m => newSelected[m.Id] = m.AccountId)
+                                props.updateSelectedMachines(newSelected)
+                                props.updateSelectedAcct(null)
+                            }}
+                            style={{
+                                backgroundColor: '#4CAF50',
+                                border: 'none',
+                                padding: '15px 20px',
+                                textAlign: 'center',
+                                display: 'inline-block'
+                            }}>Select All</button>
+                        <button className="column col-2"
+                            onClick={() => {
+                                let newSelected = { ...props.selectedMachines }
+                                mData.forEach(m => { if (m.Id in newSelected) delete newSelected[m.Id] })
+                                props.updateSelectedMachines(newSelected)
+                                props.updateSelectedAcct(null)
+                            }}
+                            style={{
+                                backgroundColor: 'red',
+                                border: 'none',
+                                padding: '15px 20px',
+                                textAlign: 'center',
+                                display: 'inline-block'
+                            }}>Remove All</button>
+                    </div>
+                    <table className='table' style={{ fontSize: "0.5rem", fontWeight: "bold", padding: "0.1rem, 0.05rem" }}>
+                        <thead>
+                            <tr>
+                                <th>Asset</th>
+                                <th>Location</th>
+                                <th>Model</th>
+                                <th>Route</th>
+                                <th>Fill %</th>
+                                <th>Soldout Items / Lanes</th>
+                                <th>Pick</th>
+                                <th>Sales (24hr/7d)</th>
+                                <th>Sales</th>
+                                <th>Days since Visit</th>
+                                <th>Add</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {mData.map((d, idx) => {
+                                const isAdd = !(d.Id in props.selectedMachines)
+                                return (
+                                    <tr key={`marker-machine-${d.Id}`} className={idx % 2 === 0 ? "active" : ""}>
+                                        <td>{d.Asset}</td>
+                                        <td>{d.Location}</td>
+                                        <td>{d.Model}</td>
+                                        <td>{d.Route.replace("Route", "")}</td>
+                                        <td style={{ color: d['Fill %'] < 30 ? 'red' : 'black' }}>
+                                            {Math.round(d['Fill %'])}%
+                                                    <div style={{ height: 5, backgroundColor: 'black' }}>
+                                                <div style={{ height: '100%', width: `${Math.min(100, Math.max(5, Math.round(d['Fill %'])))}%`, backgroundColor: d['Fill %'] > 60 ? 'green' : (d['Fill %'] > 30 ? 'yellow' : 'red') }}></div>
+                                            </div></td>
+                                        <td style={{ color: d.Model.toLowerCase().indexOf('drink') > -1 ? (d.SoldoutItems > 0 ? 'red' : 'black') : (d.SoldoutItems > 3 ? 'red' : (d.SoldoutItems > 0 ? '#a3940b' : 'black')) }}>{d.SoldoutItems}/{d.EmptyLanes}</td>
+                                        <td>{d.ItemsToPick}</td>
+                                        <td>{d.Last24HoursSales}/{d.Last7DaysSales}</td>
+                                        <td>{Math.round(d.Sales * 100) / 100}</td>
+                                        <td>{d.DaysSinceLastVisit}</td>
+                                        <td><button
+                                            onClick={() => {
+                                                let newSelected = { ...props.selectedMachines }
+                                                if (isAdd)
+                                                    newSelected[d.Id] = d.AccountId
+                                                else
+                                                    delete newSelected[d.Id]
+                                                props.updateSelectedMachines(newSelected)
+                                            }}
+                                            style={{
+                                                backgroundColor: isAdd ? '#4CAF50' : 'red',
+                                                border: 'none',
+                                                padding: '10px 12px',
+                                                textAlign: 'center',
+                                                display: 'inline-block'
+                                            }}>{isAdd ? 'Add' : 'Remove'}</button></td>
+                                    </tr>
+                                )
+                            })}
+                        </tbody>
+                    </table>
+                </div>
+            }) : false}
         </div>
     </>
 }

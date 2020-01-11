@@ -6,6 +6,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "@react-google-maps/api": "^1.8.1",
+    "@react-pdf/renderer": "^1.6.8",
     "@svgdotjs/svg.js": "^3.0.16",
     "gatsby": "^2.18.12",
     "gatsby-image": "^2.2.34",
@@ -25,6 +26,7 @@
     "react-dom": "^16.12.0",
     "react-google-maps": "^9.4.5",
     "react-helmet": "^5.2.1",
+    "react-to-print": "^2.5.1",
     "spectre.css": "^0.5.8"
   },
   "devDependencies": {

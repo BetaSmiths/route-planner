@@ -3,7 +3,8 @@ import { GoogleMap, LoadScript, Marker, MarkerClusterer, InfoWindow, InfoBox } f
 
 const MARKER_FILL_HEIGHT = 28.0
 
-const getMarker = (pct, color = "#FF00FF", opacity = 1.0) => { //#Note: color can be rgb() or "red", "green" or #FF00FF
+const getMarker = (pct, color, opacity = 1.0) => { //#Note: color can be rgb() or "red", "green" or #FF00FF
+    if (!color) color = "#AA00FF"
     let height = Math.max(2, (pct || 0) * MARKER_FILL_HEIGHT / 100.0)
     const result = `data:image/svg+xml;utf-8,<svg xmlns="http://www.w3.org/2000/svg" width="10" height="32"><rect stroke="black" fill="black" opacity="${opacity}" width="10" height="32" rx="5" ry="3"/><rect fill="${color.replace("#", "%23")}" opacity="${opacity}" width="6" height="${height}" x="2" y="${2 + MARKER_FILL_HEIGHT - height}"/></svg>`
     return result
@@ -67,19 +68,19 @@ const AdariaGMap = (props) => {
             {(clusterer) => Object.entries(props.data).map(([acctId, accountInfo], idx) => {
                 const progress_idx = Math.floor(accountInfo.healthScore / (100.0 / 12))
                 const mData = props.machineData[acctId]
-                let markerColor = props.machineGroups.default
+                let markerColor = null
                 for (let m of mData || []) {
                     if (props.selectedAcct == acctId) {
                         markerColor = "#4caf50"
                         break
                     }
-                    if (m.Id in props.selectedMachines) {
-                        markerColor = '#a3940b'
-                        break
-                    }
-                    if ('group' in m) {
-                        markerColor = props.machineGroups[m.group] || props.machineGroups.default
-                        break
+                    
+                    for (let [color, mg] of Object.entries(props.machineGroups)) {
+                        if (m.Id in mg) {
+                            markerColor = color
+                            break
+                        }
+                        if (markerColor) break
                     }
                 }
                 return <Marker
@@ -135,9 +136,12 @@ const AdariaGMap = (props) => {
             onClick={() => window.gmap.fitBounds(bounds)}>
             <img style={{ width: 18, }} src='https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/17998375811574330942-32.png' />
         </div>
-        <div id='map-machine-details' style={{ width: "80%", minHeight: 0, maxHeight: "40%", overflowY: 'auto', backgroundColor: 'white', padding: 20 }}>
+        <div id='map-machine-details' style={{ display: !!props.selectedAcct? "flex": "none", width: "80%", minHeight: 0, maxHeight: "40%", overflowY: 'auto', backgroundColor: 'white', padding: 20 }}>
             <button 
-                onClick={() => setShowDetailWindow(!showDetailWindow)}
+                onClick={() => 
+                    // setShowDetailWindow(!showDetailWindow)
+                    props.updateSelectedAcct(null)
+                }
                 style={{ position: "absolute", right: 5, top: 0, border: 0 }}>
                 {showDetailWindow?
                     <img style={{ width: 10 }} src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2218%22%20height%3D%2218%22%20viewBox%3D%220%200%2018%2018%22%3E%0A%20%20%3Cpath%20fill%3D%22%23666%22%20d%3D%22M0%2C7h18v4H0V7z%22%2F%3E%0A%3C%2Fsvg%3E%0A" />
@@ -160,13 +164,14 @@ const AdariaGMap = (props) => {
                         </div>
                         <button className="column col-2"
                             onClick={() => {
-                                let newSelected = { ...props.selectedMachines }
+                                let newSelected = { ...props.machineGroups[props.activeMachineGroup] }
                                 mData.forEach(m => newSelected[m.Id] = m.AccountId)
-                                props.updateSelectedMachines(newSelected)
+                                props.updateMachineGroups({...props.machineGroups, [props.activeMachineGroup]: newSelected})
                                 props.updateSelectedAcct(null)
                             }}
                             style={{
-                                backgroundColor: '#4CAF50',
+                                backgroundColor: props.activeMachineGroup,
+                                color: 'white',
                                 border: 'none',
                                 padding: '15px 20px',
                                 textAlign: 'center',
@@ -174,13 +179,14 @@ const AdariaGMap = (props) => {
                             }}>Select All</button>
                         <button className="column col-2"
                             onClick={() => {
-                                let newSelected = { ...props.selectedMachines }
+                                let newSelected = { ...props.machineGroups[props.activeMachineGroup] }
                                 mData.forEach(m => { if (m.Id in newSelected) delete newSelected[m.Id] })
-                                props.updateSelectedMachines(newSelected)
+                                props.updateMachineGroups({...props.machineGroups, [props.activeMachineGroup]: newSelected})
                                 props.updateSelectedAcct(null)
                             }}
                             style={{
                                 backgroundColor: 'red',
+                                color: 'white',
                                 border: 'none',
                                 padding: '15px 20px',
                                 textAlign: 'center',
@@ -205,7 +211,7 @@ const AdariaGMap = (props) => {
                         </thead>
                         <tbody>
                             {mData.map((d, idx) => {
-                                const isAdd = !(d.Id in props.selectedMachines)
+                                const isAdd = !(d.Id in props.machineGroups[props.activeMachineGroup])
                                 return (
                                     <tr key={`marker-machine-${d.Id}`} className={idx % 2 === 0 ? "active" : ""}>
                                         <td>{d.Asset}</td>
@@ -224,17 +230,18 @@ const AdariaGMap = (props) => {
                                         <td>{d.DaysSinceLastVisit}</td>
                                         <td><button
                                             onClick={() => {
-                                                let newSelected = { ...props.selectedMachines }
+                                                let newSelected = { ...props.machineGroups[props.activeMachineGroup]}
                                                 if (isAdd)
                                                     newSelected[d.Id] = d.AccountId
                                                 else
                                                     delete newSelected[d.Id]
-                                                props.updateSelectedMachines(newSelected)
+                                                    props.updateMachineGroups({...props.machineGroups, [props.activeMachineGroup]: newSelected})
                                             }}
                                             style={{
-                                                backgroundColor: isAdd ? '#4CAF50' : 'red',
+                                                backgroundColor: isAdd ? props.activeMachineGroup : 'red',
                                                 border: 'none',
                                                 padding: '10px 12px',
+                                                color: 'white',
                                                 textAlign: 'center',
                                                 display: 'inline-block'
                                             }}>{isAdd ? 'Add' : 'Remove'}</button></td>

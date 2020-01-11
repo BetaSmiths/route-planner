@@ -186,21 +186,18 @@ const IndexPage = (props) => {
                           <th>Location</th>
                           <th>Model</th>
                           <th>Route</th>
-                          <th>Soldout Items / Lanes</th>
-                          <th>Pick</th>
+                          <th>Asset Id</th>
                         </tr>
                       </thead>
                       <tbody>
                         {sortMachines(machines).map(([m, a]) => {
                           let mInfo = machineData[a].find(el => m == el.Id)
-                          console.log('machine info', m, mInfo)
                           return <tr key={`routes-print-machine-${m}`}>
                             <td key={`routes-print-machine-${m}-acct`}>{mInfo.Account}</td>
                             <td key={`routes-print-machine-${m}-loc`}>{mInfo.Location}</td>
                             <td key={`routes-print-machine-${m}-model`}>{mInfo.Model}</td>
                             <td key={`routes-print-machine-${m}-route`}>{mInfo.Route}</td>
-                            <td key={`routes-print-machine-${m}-soldout`}>{mInfo.SoldoutItems}/{mInfo.EmptyLanes}</td>
-                            <td key={`routes-print-machine-${m}-pick`}>{mInfo.ItemsToPick}</td>
+                            <td key={`routes-print-machine-${m}-assetId`}>{mInfo.Asset}/{mInfo.EmptyLanes}</td>
                           </tr>
                         })}</tbody></table>
                   </>)}

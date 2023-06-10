@@ -8,7 +8,7 @@
     "@react-google-maps/api": "^1.8.1",
     "@react-pdf/renderer": "^1.6.8",
     "@svgdotjs/svg.js": "^3.0.16",
-    "gatsby": "^2.18.12",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.2.34",
     "gatsby-plugin-manifest": "^2.2.31",
     "gatsby-plugin-offline": "^3.0.27",
